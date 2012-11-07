@@ -1,0 +1,28 @@
+Shan
+
+
+- chrome:some styling issues, perhaps remove the mozilla box sizing thing and restyle
+- add shortcut keys for show hide functions?, catch backspace
+- add loading dialog? make incoming dialogs display themselves...
+V- create spaced views on character/pinying/english?
+	- can you enter the text, then divide it up into word, by grouping characters in Xopus. 
+	- Then you can find the pronunciation with those characters
+- fix batches (perhaps as subelements, since it will break the XML)
+- re-sort (once a day perhaps)
+V- re-do how pronunciation is entered, it is really per character as well, one word is one card
+V- new structure
+    <word id="" batch>
+        <characters xml:lang="" pages="" positions=""></characters>
+        <!--or-->
+        <character xml:lang="" page="" position=""></character>
+        <pinyin xml:lang=""></pinyin>
+        <meanings>
+            <meaning xml:lang=""></meaning>
+        </meanings>
+    </word>
+  this makes it easier to match words from sentences, and it is simpler. You will still be able to find characters
+  
+
+bugs:
+V- when updating a character and then adding a new one, the updated character gets overwritten see 位
+- lower case all meanings, then lowercase searchvalue
