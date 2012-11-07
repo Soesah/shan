@@ -1,0 +1,45 @@
+/* menu */
+
+.menu
+{
+	position:absolute;
+	top:44px;left:8px;
+	width:100px;
+	margin:0;
+	border:1px solid darkred;
+	background-color:darkred;
+	color:White;	
+}
+
+
+.menu li 
+{
+	margin:4px 0;
+	padding:0;
+	list-style-type:none;
+}
+.menu li span
+{
+	font-size:1.4em;
+}
+
+.menu li a
+{
+	position:relative;
+	top:-2px;
+}
+
+.menu li.selected
+{ 
+}
+
+.menu a
+{
+	color:White;
+	text-decoration:none;
+}
+
+.menu a:hover
+{
+	text-decoration:underline;
+}

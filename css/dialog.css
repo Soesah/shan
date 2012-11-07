@@ -1,0 +1,76 @@
+/* dialog */
+
+.dialog
+{
+	position:relative;
+	height:auto;
+	border:1px solid darkred;
+	background-color:white;
+}
+
+.results a 
+{
+	color:darkred;
+}
+
+.character-input
+{
+  width:200px;
+  font-size:4em;
+  text-align:center;
+  color:darkred;
+  font-family:KaiTi_GB2312, Kai, simsun;
+}
+
+.character-page-input,
+.character-number-input,
+.batch-input
+{
+  width:75px;
+  text-align:center;
+}
+
+.pinyin-input,
+.meaning-input,
+.search-value
+{
+  width:200px;
+  font-size:1.5em;
+}
+.sentence-characters-input
+{
+  font-size:4em;
+  color:darkred;
+}
+.sentence-text-input
+{
+  font-size:1.5em;
+}
+.sentence-characters-input,
+.sentence-text-input
+{
+  width:400px; 
+}
+
+.with-button .meaning-input
+{
+  width:170px;
+}
+
+.add-meaning
+{
+  background-color:Silver;
+  border-color:Silver;
+  height:22px;
+  line-height:1em;
+  padding:0 0 4px;
+  position:relative;
+  top:-2px;left:2px;
+  width:22px;
+}
+
+.numbers
+{
+  color:#808080;
+  font-size:80%;
+}

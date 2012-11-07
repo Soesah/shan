@@ -1,0 +1,276 @@
+/* dialog */
+
+.page
+{
+  position:relative;
+	width:720px;
+	margin:0 auto 2em;
+}
+
+.page-content
+{
+	position:relative;
+	height:auto;
+	border:1px solid darkred;
+	background-color:white;
+}
+
+.header
+{
+  padding-left:125px;
+}
+
+.download ul a,
+.conversations a
+{
+	color:darkred;
+}
+
+/* list */
+
+.count {color:lightgrey;}
+
+.download-list,
+.text-list,
+.character-list 
+{
+	list-style-type:none;
+}
+
+.download-list,
+.text-list
+{
+	margin-right:40px;
+}
+
+.download-list li,
+.text-list li,
+.character-list li
+{
+	display:inline-block;
+	min-width:80px;
+	height:80px;
+	margin:8px;
+	padding:10px 10px 0 10px;
+	background-color:#efefef;
+	border:solid 1px silver;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	font-size:4em;
+	text-align:center;
+}
+.download-list li,
+.text-list li
+{
+	font-size:2em;
+	height:50px;
+	width:auto;
+    display:block;
+	text-align:left;
+}
+
+.download-list li
+{
+	font-size:1.5em;
+	height:60px;
+	display:inline-block;
+	width:195px;
+	padding:12px 10px 0 10px;	
+}
+
+.download-list .size
+{
+	display:block;
+	font-size:0.7em;
+}
+
+.showpinyin .text-list li,
+.showpinyin .character-list li
+{
+	height:100px;
+}
+.character-list li.character-box-2
+{
+	width:180px;
+}
+
+.character-list li.character-box-3
+{
+	width:280px;
+}
+
+.character-list li.character-box-4
+{
+	width:380px;
+}
+
+
+.daily-words-list li.character-box-2,
+.daily-words-list li.character-box-3,
+.daily-words-list li.character-box-4
+{
+	width:220px;
+	margin:4px;
+}
+
+.character-list a
+{
+	color:darkred;
+}
+
+.text-list li .pinyin,
+.character-list li .pinyin
+{
+	font-size:0.4em;
+	color:black;
+	display:none;
+}
+.showpinyin .character-list li .pinyin
+{
+	display:block;
+}
+.character-list li a:hover .pinyin
+{
+	text-decoration:none;	
+}
+
+/* word */
+.word-header,
+.word-content
+{
+	text-align:center;
+	margin-top:8px;
+}
+.word-header .character
+{
+	font-size:8em;
+}
+.conversation-content .pinyin,
+.word-content .pinyin
+{
+	display:none;
+}
+.word-content .pinyin
+{
+	margin-top:16px;
+	color:grey;
+	font-size:2.5em;
+	
+}
+.results .pinyin
+{
+	color:grey;
+}
+.word-content .meanings
+{
+	margin:16px 0 24px;
+	display:none;
+	font-size:1.4em;
+}
+
+.showpinyin .pinyin,
+.showmeanings .meanings
+{
+	display:block;
+}
+.showpinyin #hidepinyin,
+.hidepinyin #showpinyin,
+.showmeanings #hidemeanings,
+.hidemeanings #showmeanings
+{
+	display:inline;
+}
+
+.writing
+{
+	color:gray;
+	position:absolute;
+	top:24px;
+	right:8px;
+}
+.meta 
+{
+	color:gray;
+	position:absolute;
+	top:40px;
+	right:8px;
+}
+
+/* conversations */
+.speaker .character
+{
+	color:gray;
+}
+
+.line
+{
+    
+}
+
+.speaker
+{
+    float:left;
+    position:relative;
+    top:5px;
+    width:80px;
+}
+
+.phrase
+{
+    display:inline-block;
+}
+
+.english
+{
+	display:none;
+}
+.line table td
+{
+    font-size:1em;
+    padding:2px 6px;
+}
+
+.line table .pinyin-text td
+{
+	color:grey;
+    font-size:0.8em;
+}
+
+.line table .translation td
+{
+    font-size:0.8em;
+}
+
+
+
+.showenglish .english,
+.showenglish #hideenglish,
+.hideenglish #showenglish
+{
+	display:inline;
+}
+
+.daily-list .character,
+.daily-list .characters
+{
+  font-size:2em;
+}
+
+.daily-list td
+{
+	border:solid 1px silver;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+}
+
+.character-box
+{
+  position:relative;
+}
+.character-box .writing
+{
+	position:absolute;
+	top:-4px;
+	right:0px;
+	font-size:0.6em;
+}

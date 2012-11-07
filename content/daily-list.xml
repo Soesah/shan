@@ -1,0 +1,3194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<daily-list>
+	<day date="2010-10-31">
+		<word id="c446a9ea-30a0-1a3c131f5dd0" batch="9">
+			<characters xml:lang="zh-Hans" pages="124,238" positions="7,7">课文</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ke4we2n" text="kewen">kèwén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">text</meaning>
+			</meanings>
+		</word>
+		<word id="c458a45b-7710-188017e0c6d0" batch="10">
+			<characters xml:lang="zh-Hans" pages="302,241" positions="4,2">中午</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zho1ngwu3" text="zhongwu">zhōngwǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">noon</meaning>
+			</meanings>
+		</word>
+		<word id="c408dbbc-c130-16701c543a10" batch="2">
+			<characters xml:lang="zh-Hans" pages="160,183" positions="5,8">母亲</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="mu3 qi1n" text="mu qin">mǔ qīn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Mother</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4ae5-0da0-8f3de600106e" batch="11">
+			<characters xml:lang="zh-Hans" pages="165,162" positions="7,3">牛奶</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="niu2na3i" text="niunai">niúnǎi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">milk</meaning>
+			</meanings>
+		</word>
+		<word id="c414bfd0-eb70-15cc4224112e" batch="5">
+			<character xml:lang="zh-Hans" page="271" position="8">亿</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi4" text="yi">yì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">hundred million</meaning>
+				<meaning xml:lang="en-US">calculate</meaning>
+			</meanings>
+		</word>
+		<word id="c40548ba-79b0-638ee2467c50" batch="1">
+			<character xml:lang="zh-Hans" page="27" position="4">陈</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="che2n" text="chen">chén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Put on display</meaning>
+				<meaning xml:lang="en-US">State</meaning>
+			</meanings>
+		</word>
+		<word id="c458a465-b390-1f1a1ee11a53" batch="10">
+			<characters xml:lang="zh-Hans" pages="254,177,191" positions="8,1,7">星期日</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi1ngqi1ri4" text="xingqiri">xīngqīrì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">sunday</meaning>
+			</meanings>
+		</word>
+		<word id="c4066cfd-cd00-167c12c0c700" batch="1">
+			<character xml:lang="zh-Hans" page="310" position="2">字</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zi4" text="zi">zì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Word</meaning>
+				<meaning xml:lang="en-US">Character</meaning>
+				<meaning xml:lang="en-US">letter</meaning>
+			</meanings>
+		</word>
+		<word id="c41d7ea4-3700-171f1f00ca80" batch="7">
+			<character xml:lang="zh-Hans" page="161" position="7">哪</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" text="na" order-string="na3">nǎ</pinyin>
+			<alternate xml:lang="zh-Latn-x-pinyin" text=" nei" order-string="ne3i">něi</alternate>
+			<meanings>
+				<meaning xml:lang="en-US">which?</meaning>
+			</meanings>
+		</word>
+		<word id="c4054851-31c0-471014f0b8f0" batch="1">
+			<character xml:lang="zh-Hans" page="281" position="2">雨</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yu3" text="yu">yǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Rain</meaning>
+			</meanings>
+		</word>
+		<word id="c40b03b9-aa30-15f017308580" batch="0">
+			<character xml:lang="zh-Hans" page="147" position="1">绿</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="lv4" text="lu">lǜ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Green</meaning>
+			</meanings>
+		</word>
+		<word id="c41d70f4-9360-2f4a1d1016b1" batch="6">
+			<characters xml:lang="zh-Hans" pages="49,242" positions="5,6">东西</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="do1ngxi1" text="dongxi">dōngxī</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">stuff</meaning>
+			</meanings>
+		</word>
+		<word id="c43c47d8-c3a0-dd4b31d01473" batch="7">
+			<characters xml:lang="zh-Hans" pages="81" positions="1">没去过</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="me2iqu4guo4" text="meiquguo">méiqùguò</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to have never been</meaning>
+			</meanings>
+		</word>
+		<word id="c404d5f2-7d00-1a001b8b9390" batch="1">
+			<character xml:lang="zh-Hans" page="236" position="5">为</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="we2i" text="wei">wéi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Do</meaning>
+				<meaning xml:lang="en-US">Act</meaning>
+			</meanings>
+		</word>
+		<word id="c4092fca-cb20-1e0015ae1677" batch="0">
+			<character xml:lang="zh-Hans" page="42" position="8">刀</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da1o" text="dao">dāo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">knife</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4af5-e330-5c52e700dbc0" batch="11">
+			<characters xml:lang="zh-Hans" pages="110,191" positions="1,7">节日</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jie2ri4" text="jieri">jiérì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">holiday</meaning>
+			</meanings>
+		</word>
+		<word id="c43c49d0-0cc0-cd701d70cc10" batch="7">
+			<characters xml:lang="zh-Hans" pages="278,204,87" positions="8,6,1">有时候</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yo3u shi2hou" text="you shihou">yǒu shíhou</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">time permitting</meaning>
+				<meaning xml:lang="en-US">sometimes</meaning>
+			</meanings>
+		</word>
+		<word id="c40547ac-7fb0-f5a5cd86f1b0" batch="1">
+			<character xml:lang="zh-Hans" page="251" position="4">小</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3o" text="xiao">xiǎo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Small</meaning>
+				<meaning xml:lang="en-US">Little</meaning>
+				<meaning xml:lang="en-US">Petty</meaning>
+				<meaning xml:lang="en-US">To be small</meaning>
+			</meanings>
+		</word>
+		<word id="c458a4f0-bbb0-f7ff5484b000" batch="10">
+			<character xml:lang="zh-Hans" page="306" position="6">祝</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhu4" text="zhu">zhù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">wish</meaning>
+			</meanings>
+		</word>
+		<word id="c414c004-5fe0-1e103b00102d" batch="5">
+			<character xml:lang="zh-Hans" page="139" position="6">两</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="lia3ng" text="liang">liǎng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">other word for 二 </meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2010-11-01">
+		<word id="c41d7e17-6d70-14801a001b73" batch="6">
+			<characters xml:lang="zh-Hans" pages="161,55" positions="8,5">那儿</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="na4r" text="nar">nàr</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">there</meaning>
+			</meanings>
+		</word>
+		<word id="c408dc3a-0d70-16454768c8d0" batch="0">
+			<character xml:lang="zh-Hans" page="268" position="4">要</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" text="yao" order-string="ya4o">yào</pinyin>
+			<alternate xml:lang="zh-Latn-x-pinyin" text="yao" order-string="ya1o">yāo</alternate>
+			<meanings>
+				<meaning xml:lang="en-US">Demand</meaning>
+				<meaning xml:lang="en-US">Ask</meaning>
+				<meaning xml:lang="en-US">Need</meaning>
+				<meaning xml:lang="en-US">Want</meaning>
+				<meaning xml:lang="en-US">Desire</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecc2d-1470-ffbe2570ac00" batch="7">
+			<characters xml:lang="zh-Hans" pages="158,226" positions="3,2">明天</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="mi2ngtia1n" text="mingtian">míngtiān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">tomorrow</meaning>
+			</meanings>
+		</word>
+		<word id="c41d74b9-9c50-d60019907760" batch="6">
+			<character xml:lang="zh-Hans" page="22" position="2">层</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ce2ng" text="ceng">céng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">floor</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecc15-3d70-181bf7203750" batch="7">
+			<characters xml:lang="zh-Hans" pages="248,286" positions="1,7">现在</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia4nza4i" text="xianzai">xiànzài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">now</meaning>
+				<meaning xml:lang="en-US">now-here</meaning>
+			</meanings>
+		</word>
+		<word id="c43c4bae-40e0-cbb210c02d00" batch="7">
+			<characters xml:lang="zh-Hans" pages="114,99" positions="3,3">经济</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ji1ngji4" text="jingji">jīngjì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">economics</meaning>
+			</meanings>
+		</word>
+		<word id="c41d7dfc-8670-11a8c9fd1036" batch="7">
+			<character xml:lang="zh-Hans" page="161" position="8">那</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" text="nà" order-string="nà">nà</pinyin>
+			<alternate xml:lang="zh-Latn-x-pinyin" text="nèi" order-string="nèi">nèi</alternate>
+			<meanings>
+				<meaning xml:lang="en-US">that (far away)</meaning>
+			</meanings>
+		</word>
+		<word id="c41d70dd-53c0-1b9016e51cbd" batch="6">
+			<characters xml:lang="zh-Hans" pages="246,203" positions="5,5">先生</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia1nshe1ng" text="xiansheng">xiānshēng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">mister</meaning>
+			</meanings>
+		</word>
+		<word id="c45a49f7-3d90-1e7065e01c91" batch="11">
+			<character xml:lang="zh-Hans" page="246" position="5">先</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia1n" text="xian">xiān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">early</meaning>
+				<meaning xml:lang="en-US">first(ly)</meaning>
+			</meanings>
+		</word>
+		<word id="c446a763-7ca0-a6267ec01ec1" batch="9">
+			<characters xml:lang="zh-Hans" pages="233,13" positions="6,1">外边</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa4ibian" text="waibian">wàibian</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">outside</meaning>
+			</meanings>
+		</word>
+		<word id="c405499f-78d0-e3508b505010" batch="1">
+			<character xml:lang="zh-Hans" page="209" position="1">授</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sho4u" text="shou">shòu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Award</meaning>
+				<meaning xml:lang="en-US">Vest</meaning>
+				<meaning xml:lang="en-US">Give</meaning>
+				<meaning xml:lang="en-US">Teach</meaning>
+			</meanings>
+		</word>
+		<word id="c43f43cd-0dd0-b480196038f0" batch="8">
+			<character xml:lang="zh-Hans" page="266" position="7">养</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya3ng" text="yang">yǎng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to keep (a pet) 养猫</meaning>
+			</meanings>
+		</word>
+		<word id="c408dc55-9070-15f07de0136e" batch="0">
+			<character xml:lang="zh-Hans" page="46" position="1">的</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" text="" order-string="">de</pinyin>
+			<alternate xml:lang="zh-Latn-x-pinyin" text="" order-string="">dì</alternate>
+			<meanings>
+				<meaning xml:lang="en-US">(adverb to make possessive)</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4a31-7680-f7805f372770" batch="11">
+			<characters xml:lang="zh-Hans" pages="155,57" positions="7,8">米饭</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="mi3fa4n" text="mifan">mǐfàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">(cooked) rice</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecda4-4ea0-158010c21f5b" batch="7">
+			<characters xml:lang="zh-Hans" pages="29,57" positions="3,8">吃饭</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="chi1fa4n" text="chifan">chīfàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to eat</meaning>
+			</meanings>
+		</word>
+		<word id="c414bd3f-1910-10cf9c587290" batch="5">
+			<character xml:lang="zh-Hans" page="256" position="2">姓</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi4ng" text="xing">xìng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">surname</meaning>
+				<meaning xml:lang="en-US">one's surname is</meaning>
+			</meanings>
+		</word>
+		<word id="c406e31e-44d0-f3b0eb579930" batch="2">
+			<character xml:lang="zh-Hans" page="286" position="7">在</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="za4i" text="zai">zài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Exist</meaning>
+				<meaning xml:lang="en-US">Indicating a position</meaning>
+			</meanings>
+		</word>
+		<word id="c408dc35-aa00-96b01b7a67f0" batch="0">
+			<character xml:lang="zh-Hans" page="178" position="6">起</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qi3" text="qi">qǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Used in conjunction with 不 to form 'can afford'</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecd49-f860-19231ba09580" batch="7">
+			<character xml:lang="zh-Hans" page="151" position="4">慢</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma4n" text="man">màn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">slow</meaning>
+				<meaning xml:lang="en-US">slow of understanding, thick</meaning>
+			</meanings>
+		</word>
+		<word id="c446a906-7610-1d0018205650" batch="9">
+			<characters xml:lang="zh-Hans" pages="44,279" positions="6,5">等于</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="de3ngyu2" text="dengyu">děngyú</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">equals</meaning>
+				<meaning xml:lang="en-US">to equal</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2010-11-19">
+		<word id="c43c4ac4-ff90-64e01ec0162e" batch="7">
+			<characters xml:lang="zh-Hans" pages="234,57" positions="6,8">晚饭</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa3nfa4n" text="wanfan">wǎnfàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">evening meal</meaning>
+			</meanings>
+		</word>
+		<word id="c40b702c-f8b0-1f63daa01c1b" batch="0">
+			<character xml:lang="zh-Hans" page="108" position="8">叫</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia4o" text="jiao">jiào</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">call</meaning>
+			</meanings>
+		</word>
+		<word id="c43c4850-2630-cff818d041f0" batch="7">
+			<characters xml:lang="zh-Hans" pages="46,163" positions="8,3">电脑</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dia4nna3o" text="diannao">diànnǎo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">computer</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecd30-aa00-90d0b1fe46f0" batch="7">
+			<character xml:lang="zh-Hans" page="253" position="2">写</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xie3" text="xie">xiě</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to write</meaning>
+			</meanings>
+		</word>
+		<word id="c488ecd7-79d0-1eba660013a0" batch="13">
+			<characters xml:lang="zh-Hans" pages="73,74" positions="3,3">公共</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="go1nggo4ng" text="gonggong">gōnggòng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">public</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4afb-1db0-324988d016be" batch="11">
+			<character xml:lang="zh-Hans" page="190" position="6">热</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="re4" text="re">rè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">hot</meaning>
+			</meanings>
+		</word>
+		<word id="c48c76c3-44f0-111a1d3d9740" batch="14">
+			<character xml:lang="zh-Hans" page="117" position="2">旧</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jiu4" text="jiu">jiù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">old, ancient</meaning>
+			</meanings>
+		</word>
+		<word id="c40b1b54-fc00-1a26c6d33070" batch="0">
+			<character xml:lang="zh-Hans" page="250" position="1">想</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3ng" text="xiang">xiǎng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Think about</meaning>
+				<meaning xml:lang="en-US">Used for politeness</meaning>
+				<meaning xml:lang="en-US">plan to + verb</meaning>
+			</meanings>
+		</word>
+		<word id="c446a7e5-8360-9d55534d7740" batch="9">
+			<characters xml:lang="zh-Hans" pages="198,81" positions="2,4">上海</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha4ngha3i" text="shanghai">shànghǎi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Shanghai</meaning>
+			</meanings>
+		</word>
+		<word id="c405481f-9ff0-80581df01358" batch="1">
+			<character xml:lang="zh-Hans" page="145" position="6">陆</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="lu4" text="lu">lù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Land</meaning>
+			</meanings>
+		</word>
+		<word id="c4055228-e080-1060985adc20" batch="1">
+			<character xml:lang="zh-Hans" page="164" position="1">呢</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ne" text="ne">ne</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Modal particle for elliptical questions</meaning>
+			</meanings>
+		</word>
+		<word id="c414bd9b-4be0-116f1a4011f4" batch="5">
+			<character xml:lang="zh-Hans" page="49" position="8">懂</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="do3ng" text="dong">dǒng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">understand</meaning>
+			</meanings>
+		</word>
+		<word id="c414bf6d-e3f0-2f361e6516b5" batch="5">
+			<character xml:lang="zh-Hans" page="234" position="8">万</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa4n" text="wan">wàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">ten thousand</meaning>
+			</meanings>
+		</word>
+		<word id="c446a70e-ce30-6e7e12e7136c" batch="9">
+			<characters xml:lang="zh-Hans" pages="122,209" positions="4,5">看书</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka1nshu1" text="kanshu">kānshū</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">read books</meaning>
+			</meanings>
+		</word>
+		<word id="c488ecb7-8a80-24b218d01f19" batch="13">
+			<characters xml:lang="zh-Hans" pages="121,26" positions="6,4">开车</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka1iche1" text="kaiche">kāichē</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to drive a car</meaning>
+			</meanings>
+		</word>
+		<word id="c48c7854-f0e0-1ec0105f14ec" batch="14">
+			<characters xml:lang="zh-Hans" pages="58,13" positions="4,6">方便</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa1ngbia4n" text="fangbian">fāngbiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">convenient</meaning>
+			</meanings>
+		</word>
+		<word id="c40fd577-afb0-16f05440aa50" batch="5">
+			<character xml:lang="zh-Hans" page="56" position="6">法</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa3" text="fa">fǎ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">France (法国)</meaning>
+				<meaning xml:lang="en-US">Law</meaning>
+			</meanings>
+		</word>
+		<word id="c488edaa-ba10-1420199513f4" batch="13">
+			<characters xml:lang="zh-Hans" pages="72,10" positions="2,8">根本</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ge1nbe3n" text="genben">gēnběn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">basic</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecd76-9df0-3efb2d40bcc0" batch="7">
+			<character xml:lang="zh-Hans" page="227" position="7">听</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ti1ng" text="ting">tīng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to listen</meaning>
+				<meaning xml:lang="en-US">to hear</meaning>
+			</meanings>
+		</word>
+		<word id="c48c7775-ee10-127d8a601920" batch="14">
+			<character xml:lang="zh-Hans" page="39" position="5">打</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da3" text="da">dǎ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">give</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2010-11-24">
+		<word id="c41d7e04-eb60-81108e10168b" batch="7">
+			<character xml:lang="zh-Hans" page="295" position="3">这</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" text="zhe" order-string="zhe4">zhè</pinyin>
+			<alternate xml:lang="zh-Latn-x-pinyin" text="zhei" order-string="zhe4i">zhèi</alternate>
+			<meanings>
+				<meaning xml:lang="en-US">this (close by)</meaning>
+			</meanings>
+		</word>
+		<word id="c406e46e-1360-bfc0349015y1" batch="2">
+			<characters xml:lang="zh-Hans" pages="286,103" positions="6,6">再见</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="za4ijia4n" text="zaijian">zàijiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">See you again</meaning>
+			</meanings>
+		</word>
+		<word id="c48d249f-0e90-10a01b501baa" batch="14">
+			<characters xml:lang="zh-Hans" pages="...,309" positions="...,6">桔子</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ju2zi" text="juzi">júzi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">mandarin (tangerine)</meaning>
+			</meanings>
+		</word>
+		<word id="c4054891-fb40-16d86200113c" batch="1">
+			<character xml:lang="zh-Hans" page="174" position="2">平</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pi2ng" text="ping">píng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Flat</meaning>
+				<meaning xml:lang="en-US">Even</meaning>
+				<meaning xml:lang="en-US">Level</meaning>
+				<meaning xml:lang="en-US">Smooth</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecc8a-55f0-cac6d82215aa" batch="7">
+			<character xml:lang="zh-Hans" page="226" position="2">天</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="tia1n" text="tian">tiān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">day</meaning>
+				<meaning xml:lang="en-US">heaven</meaning>
+				<meaning xml:lang="en-US">天天: every day</meaning>
+			</meanings>
+		</word>
+		<word id="c458a547-3150-135f1a602780" batch="10">
+			<characters xml:lang="zh-Hans" pages="123,261" positions="3,8">烤鸭</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka3oya1" text="kaoya">kǎoyā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">roast duck</meaning>
+			</meanings>
+		</word>
+		<word id="c40b1c5a-c7d0-ce00179012c1" batch="0">
+			<characters xml:lang="zh-Hans" pages="111,111" positions="1,1">姐姐</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jie3jie" text="jiejie">jiějie</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Older sister</meaning>
+			</meanings>
+		</word>
+		<word id="c488ec49-f230-54c485cf3690" batch="13">
+			<characters xml:lang="zh-Hans" pages="209,94,283" positions="2,8,3">售货员</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sho4uhuo4yua2n" text="shouhuoyuan">shòuhuòyuán</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">salesperson</meaning>
+			</meanings>
+		</word>
+		<word id="c41d716a-50f0-18f5e8e01d0b" batch="6">
+			<characters xml:lang="zh-Hans" pages="208,97" positions="4,6">手机</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sho3uji1" text="shouji">shǒujī</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Mobile phone</meaning>
+			</meanings>
+		</word>
+		<word id="c458a554-cdd0-1a9015c0123d" batch="10">
+			<characters xml:lang="zh-Hans" pages="288,156" positions="7,8">手面</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sho4umia4n" text="shoumian">shòumiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">noodles</meaning>
+			</meanings>
+		</word>
+		<word id="c43c496f-fab0-193c19367fe0" batch="7">
+			<characters xml:lang="zh-Hans" pages="287,198" positions="8,2">早上</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="za3oshang" text="zaoshang">zǎoshang</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">morning</meaning>
+			</meanings>
+		</word>
+		<word id="c4067b76-91c0-8a36baf0f530" batch="1">
+			<character xml:lang="zh-Hans" page="213" position="3">水</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shui3" text="shui">shuǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Water</meaning>
+			</meanings>
+		</word>
+		<word id="c48d24b2-cb00-156047301296" batch="14">
+			<characters xml:lang="zh-Hans" pages="255,64" positions="8,7">幸福</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi4ngfu2" text="xingfu">xìngfú</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">happiness</meaning>
+				<meaning xml:lang="en-US">blessing</meaning>
+			</meanings>
+		</word>
+		<word id="c48e6790-d930-97343d001537" batch="15">
+			<character xml:lang="zh-Hans" page="213" position="5">睡</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shui4" text="shui">shuì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to sleep</meaning>
+			</meanings>
+		</word>
+		<word id="c408dc3e-4870-4f9019c01251" batch="0">
+			<character xml:lang="zh-Hans" page="310" position="8">走</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zo3u" text="zou">zǒu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Walk</meaning>
+				<meaning xml:lang="en-US">Go</meaning>
+				<meaning xml:lang="en-US">Leave</meaning>
+			</meanings>
+		</word>
+		<word id="c43c4996-10e0-1a4969a01c9b" batch="7">
+			<characters xml:lang="zh-Hans" pages="57,47" positions="8,1">饭店</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa4ndia4n" text="fandian">fàndiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">restaurant</meaning>
+				<meaning xml:lang="en-US">hotel</meaning>
+			</meanings>
+		</word>
+		<word id="c40bb8ec-9a00-1d6e174c1511" batch="0">
+			<character xml:lang="zh-Hans" page="55" position="5">儿</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="e2r" text="er">ér</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">children</meaning>
+			</meanings>
+		</word>
+		<word id="c48c784d-7d60-ccfe6c20dd00" batch="14">
+			<characters xml:lang="zh-Hans" pages="203,66" positions="6,7">师傅</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shi1fu" text="shifu">shīfu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">master worker</meaning>
+			</meanings>
+		</word>
+		<word id="c41dc4a4-1ee0-a93014d014c0" batch="7">
+			<character xml:lang="zh-Hans" page="162" position="3">奶</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="na3i" text="nai">nǎi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">breasts</meaning>
+				<meaning xml:lang="en-US">milk</meaning>
+			</meanings>
+		</word>
+		<word id="c414beab-0830-1db01144193d" batch="1">
+			<character xml:lang="zh-Hans" page="130" position="7">来</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="la2i" text="lai">lái</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to come</meaning>
+				<meaning xml:lang="en-US">to arrive</meaning>
+				<meaning xml:lang="en-US">to take place</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2010-11-25">
+		<word id="c48d26c4-dff0-12a069b0d9e0" batch="14">
+			<characters xml:lang="zh-Hans" pages="149,164" positions="4,5">马年</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma3nia2n" text="manian">mǎnián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">the year of the horse</meaning>
+			</meanings>
+		</word>
+		<word id="c41d73c0-01d0-151c7c4083a0" batch="6">
+			<characters xml:lang="zh-Hans" pages="9,114" positions="4,2">北京</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="be3iji1ng" text="beijing">běijīng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Beijing</meaning>
+			</meanings>
+		</word>
+		<word id="c48d266a-9540-6ae0457e1e40" batch="14">
+			<character xml:lang="zh-Hans" page="164" position="6">念</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="nia4n" text="nian">niàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to read out loud (念书)</meaning>
+				<meaning xml:lang="en-US">to study</meaning>
+			</meanings>
+		</word>
+		<word id="c41d70e7-a8c0-74801d00aae0" batch="6">
+			<character xml:lang="zh-Hans" page="313" position="1">作</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zuo4" text="zuo">zuò</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Do</meaning>
+			</meanings>
+		</word>
+		<word id="c43ee91d-5c40-1b2317b01a12" batch="8">
+			<characters xml:lang="zh-Hans" pages="264,74" positions="8,3">一共</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi2go4ng" text="yigong">yígòng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">altogether</meaning>
+			</meanings>
+		</word>
+		<word id="c41d7245-88d0-1120199b4b80" batch="6">
+			<characters xml:lang="zh-Hans" pages="158,310" positions="2,2">名字</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="mi2ngzi4" text="mingzi">míngzì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">name</meaning>
+				<meaning xml:lang="en-US">firstname</meaning>
+			</meanings>
+		</word>
+		<word id="c488eca1-4680-18d6a7a51a85" batch="13">
+			<characters xml:lang="zh-Hans" pages="89,182" positions="1,6">华侨</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="hua2qia2o" text="huaqiao">huáqiáo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">overseas Chinese</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecf34-6820-36101ba08ed0" batch="7">
+			<characters xml:lang="zh-Hans" pages="121,260" positions="6,1">开学</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka1ixue2" text="kaixue">kāixué</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">start of term</meaning>
+				<meaning xml:lang="en-US">school opening</meaning>
+			</meanings>
+		</word>
+		<word id="c458a410-2300-101b390012e8" batch="10">
+			<character xml:lang="zh-Hans" page="164" position="5">年</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="nia2n" text="nian">nián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">year</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecbc3-2e60-1b82a100b7d0" batch="7">
+			<characters xml:lang="zh-Hans" pages="278,277" positions="6,2">游泳</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="you2yo3ng" text="youyong">yoúyǒng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to swim</meaning>
+			</meanings>
+		</word>
+		<word id="c4092fbf-a9b0-78b03256181a" batch="0">
+			<characters xml:lang="zh-Hans" pages="45,45" positions="8,8">弟弟</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="di4di" text="didi">dìdi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">younger brother</meaning>
+			</meanings>
+		</word>
+		<word id="c458a4d1-0990-17859c8e17f3" batch="11">
+			<characters xml:lang="zh-Hans" pages="284,61" positions="6,4">月份</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yue2fe2n" text="yuefen">yuéfén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">month</meaning>
+			</meanings>
+		</word>
+		<word id="c488a66c-6520-16e0bff09440" batch="11">
+			<characters xml:lang="zh-Hans" pages="313,269" positions="1,3">作业</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zuo1ye4" text="zuoye">zuōyè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">homework</meaning>
+			</meanings>
+		</word>
+		<word id="c488a929-0450-2b0043741380" batch="12">
+			<characters xml:lang="zh-Hans" pages="75,39" positions="8,8">古代</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="gu3da4i" text="gudai">gǔdài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">old</meaning>
+				<meaning xml:lang="en-US">ancient</meaning>
+				<meaning xml:lang="en-US">classic</meaning>
+			</meanings>
+		</word>
+		<word id="c488ecd1-2440-1ded1610b1f0" batch="13">
+			<characters xml:lang="zh-Hans" pages="161,153" positions="8,2">那么</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="na4me" text="name">nàme</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">like that</meaning>
+			</meanings>
+		</word>
+		<word id="c40b03a2-5050-3dc010001fd5" batch="0">
+			<character xml:lang="zh-Hans" page="131" position="4">蓝</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="la2n" text="lan">lán</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Blue</meaning>
+				<meaning xml:lang="en-US">Kohlrabi</meaning>
+			</meanings>
+		</word>
+		<word id="c42ed03e-6da0-99d0152e1989" batch="7">
+			<characters xml:lang="zh-Hans" pages="156,7" positions="8,5">面包</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="miànba1o" text="miànbao">miànbāo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">bread</meaning>
+				<meaning xml:lang="en-US">"brownie"</meaning>
+			</meanings>
+		</word>
+		<word id="c414c2c2-b400-9bc41c201bcd" batch="5">
+			<character xml:lang="zh-Hans" page="113" position="3">进</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ji4n" text="jin">jìn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to enter</meaning>
+			</meanings>
+		</word>
+		<word id="c48d26b7-2e30-b1d3227aca90" batch="14">
+			<characters xml:lang="zh-Hans" pages="231,164" positions="4,5">兔年</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="tu4nia2n" text="tunian">tùnián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">the year of the rabbit</meaning>
+			</meanings>
+		</word>
+		<word id="c318dc3b-dff1-18cf1bbac1a0" batch="0">
+			<characters xml:lang="zh-Hans" pages="170,278" positions="8,7">朋友</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pe2ngyo3u" text="pengyou">péngyǒu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">friend</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2010-11-26">
+		<word id="c488ed09-6480-2820cc901b68" batch="13">
+			<characters xml:lang="zh-Hans" pages="297,183" positions="5,1">正巧</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhe4ngqia3o" text="zhengqiao">zhèngqiǎo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">just by chance</meaning>
+			</meanings>
+		</word>
+		<word id="c404d5ec-19c0-157019f0d3e0" batch="1">
+			<character xml:lang="zh-Hans" page="149" position="4">马</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma3" text="ma">mǎ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Horse</meaning>
+				<meaning xml:lang="en-US">Surname 马</meaning>
+			</meanings>
+		</word>
+		<word id="c40549d4-0500-180012b13500" batch="1">
+			<character xml:lang="zh-Hans" page="266" position="4">杨</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya2ng" text="yang">yáng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Poplar</meaning>
+			</meanings>
+		</word>
+		<word id="c48e67a3-d790-1c0016301389" batch="15">
+			<character xml:lang="zh-Hans" page="34" position="6">床</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="chua2ng" text="chuang">chuáng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">bed</meaning>
+			</meanings>
+		</word>
+		<word id="c488ec2f-7690-1e08b0f21d83" batch="13">
+			<characters xml:lang="zh-Hans" pages="254,279,179" positions="6,5,4">信用卡</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi4nyo4ngka3" text="xinyongka">xìnyòngkǎ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">credit card</meaning>
+			</meanings>
+		</word>
+		<word id="c488ec92-4950-9c131800e660" batch="13">
+			<character xml:lang="zh-Hans" page="19" position="6">菜</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ca4i" text="cai">cài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">food</meaning>
+				<meaning xml:lang="en-US">vegetables</meaning>
+			</meanings>
+		</word>
+		<word id="c42f7a9e-ac30-b92087f0f380" batch="7">
+			<characters xml:lang="zh-Hans" pages="124,207" positions="2,5">可是</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ke3shi4" text="keshi">kěshì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">but (when the sentence has a twist)</meaning>
+			</meanings>
+		</word>
+		<word id="c488ed18-ef90-850212141ae7" batch="13">
+			<characters xml:lang="zh-Hans" pages="215,72" positions="6,4">送给</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="so4ngge3i" text="songgei">sònggěi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to give as a present</meaning>
+			</meanings>
+		</word>
+		<word id="c48e6775-e260-19cc17609740" batch="15">
+			<characters xml:lang="zh-Hans" pages="235,204,153" positions="5,4,2">为什么</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="we4ishe2nme" text="weishenme">wèishénme</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">why?</meaning>
+			</meanings>
+		</word>
+		<word id="c43f4407-c040-14a011be9330" batch="8">
+			<characters xml:lang="zh-Hans" pages="1,190" positions="7,7">爱人</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="a4ire2n" text="airen">àirén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">husband/wife</meaning>
+			</meanings>
+		</word>
+		<word id="c45f4c79-9c60-153c140c1ed0" batch="11">
+			<characters xml:lang="zh-Hans">多久</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="duo1jiu3" text="duojiu">duōjiǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">how long</meaning>
+			</meanings>
+		</word>
+		<word id="c405521c-caf0-1be0d0b01bd3" batch="1">
+			<character xml:lang="zh-Hans" page="84" position="7">很</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="he3n" text="hen">hěn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Very</meaning>
+			</meanings>
+		</word>
+		<word id="c48e66f0-ca50-2bbeb9b01b10" batch="15">
+			<characters xml:lang="zh-Hans" pages="60,180" positions="6,6">分钱</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="fe1nqia2n" text="fenqian">fēnqián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">measure word for denominations of 1/100 快</meaning>
+			</meanings>
+		</word>
+		<word id="c43f43ad-c790-1edaacf01221" batch="8">
+			<characters xml:lang="zh-Hans" pages="111,154" positions="1,2">姐妹</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jie3me4i" text="jiemei">jiěmèi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">sisters</meaning>
+			</meanings>
+		</word>
+		<word id="c42eccd1-7d90-1552410078e0" batch="7">
+			<characters xml:lang="zh-Hans" pages="39,186" positions="5,3">打球</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dǎqiu2" text="dǎqiu">dǎqiú</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to play ball</meaning>
+			</meanings>
+		</word>
+		<word id="c48d2691-ea90-888018a01571" batch="14">
+			<character xml:lang="zh-Hans" page="46" position="6">典</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dia3n" text="dian">diǎn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">dictionary</meaning>
+			</meanings>
+		</word>
+		<word id="c458a42a-40e0-be4016713220" batch="10">
+			<character xml:lang="zh-Hans" page="124" position="7">课</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ke4" text="ke">kè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">class</meaning>
+			</meanings>
+		</word>
+		<word id="c48c7731-5150-4750453e1e53" batch="14">
+			<characters xml:lang="zh-Hans" pages="39,46,89" positions="5,8,7">打电话</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da3dia4nhua4" text="dadianhua">dǎdiànhuà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to make a call</meaning>
+			</meanings>
+		</word>
+		<word id="c488edb0-df00-11721c8334a0" batch="13">
+			<character xml:lang="zh-Hans" page="24" position="3">场</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="cha2ng" text="chang">cháng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">place</meaning>
+			</meanings>
+		</word>
+		<word id="c40b1c33-3f60-57932c7012b6" batch="0">
+			<character xml:lang="zh-Hans" page="133" position="5">乐</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="le4" text="le">lè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Joy</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2010-11-27">
+		<word id="c488ecf0-cf70-a36b1f521900" batch="13">
+			<character xml:lang="zh-Hans" page="228" position="2">停</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ti2ng" text="ting">tíng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to stop</meaning>
+				<meaning xml:lang="en-US">to park</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecee0-b9b0-d61c1a801699" batch="7">
+			<characters xml:lang="zh-Hans" pages="111,199" positions="3,3">介绍</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jie4sha4o" text="jieshao">jièshào</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to introduce</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4ac4-1ad0-3ab01659138c" batch="11">
+			<characters xml:lang="zh-Hans" pages="269,178" positions="8,6">一起</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1qi3" text="yiqi">yīqǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">together</meaning>
+			</meanings>
+		</word>
+		<word id="c414c3c7-1670-1683191b125d" batch="5">
+			<characters xml:lang="zh-Hans" pages="260,244" positions="1,3">学习</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xuéxí" text="xuéxí">xuéxí</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to learn</meaning>
+				<meaning xml:lang="en-US">to study</meaning>
+				<meaning xml:lang="en-US">gain knowledge</meaning>
+				<meaning xml:lang="en-US">become skilled at</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecb5f-5820-176055ae1730" batch="7">
+			<characters xml:lang="zh-Hans" pages="278,273,214" positions="8,5,3">有意思</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yo3u yi4si" text="you yisi">yǒu yìsi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">interesting</meaning>
+				<meaning xml:lang="en-US">have meaning</meaning>
+			</meanings>
+		</word>
+		<word id="c41d7122-6730-10321a7e9350" batch="6">
+			<characters xml:lang="zh-Hans" pages="281,82" positions="3,1">汉语</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="Ha4nyu3" text="Hanyu">Hànyǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Chinese</meaning>
+			</meanings>
+		</word>
+		<word id="c488a91a-afd0-d22e19ed9040" batch="12">
+			<characters xml:lang="zh-Hans" pages="13,270" positions="6,5">便宜</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pia2nyi" text="pianyi">piányi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">cheap</meaning>
+			</meanings>
+		</word>
+		<word id="c404d5e7-b9f0-1d70606411bd" batch="1">
+			<character xml:lang="zh-Hans" page="15" position="8">波</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bo1" text="bo">bō</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Wave</meaning>
+			</meanings>
+		</word>
+		<word id="c458a437-9f00-1dd0187f77c0" batch="10">
+			<characters xml:lang="zh-Hans" pages="254,198" positions="8,1">星期</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi1ngqi1" text="xingqi">xīngqī</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">week (day)</meaning>
+			</meanings>
+		</word>
+		<word id="c40b0384-7af0-1e5119c0fe10" batch="0">
+			<character xml:lang="zh-Hans" page="195" position="6">色</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="se4" text="se">sè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Color</meaning>
+			</meanings>
+		</word>
+		<word id="c405f1b9-1200-73107650c540" batch="1">
+			<character xml:lang="zh-Hans" page="94" position="5">火</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="huo3" text="huo">huǒ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Fire</meaning>
+			</meanings>
+		</word>
+		<word id="c4179a4a-2090-b2201497d920" batch="5">
+			<character xml:lang="zh-Hans" page="1" position="1">福</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="Fu4" text="Fu">Fù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Blessing</meaning>
+			</meanings>
+		</word>
+		<word id="c488ee0e-7630-16a4154076c0" batch="13">
+			<character xml:lang="zh-Hans" page="101" position="8">间</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1n" text="jian">jiān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">between</meaning>
+			</meanings>
+		</word>
+		<word id="c43c4c40-1590-170daa6f1fd4" batch="7">
+			<characters xml:lang="zh-Hans" pages="238,89" positions="7,4">文化</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="we2nhua4" text="wenhua">wénhuà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">culture</meaning>
+			</meanings>
+		</word>
+		<word id="c414be68-87e0-97401fdca570" batch="5">
+			<characters xml:lang="zh-Hans" pages="150,41" positions="2,2">买单</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma3ida1n" text="maidan">mǎidān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">a bill</meaning>
+			</meanings>
+		</word>
+		<word id="c4092fea-ddf0-b3504a158d10" batch="0">
+			<character xml:lang="zh-Hans" page="143" position="8">六</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="liu4" text="liu">liù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Six</meaning>
+			</meanings>
+		</word>
+		<word id="c48e6803-5b70-14d017d7171e" batch="15">
+			<characters xml:lang="zh-Hans" pages="242,263" positions="7,1">吸烟</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi1ya1n" text="xiyan">xīyān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to smoke</meaning>
+			</meanings>
+		</word>
+		<word id="c48e67b4-c590-7f9019009570" batch="15">
+			<characters xml:lang="zh-Hans" pages="275,67" positions="1,3">应该</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1ngga1i" text="yinggai">yīnggāi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">should</meaning>
+			</meanings>
+		</word>
+		<word id="c488ee0a-4240-629511b015a2" batch="13">
+			<characters xml:lang="zh-Hans" pages="117,4" positions="1,4">酒吧</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jiu3ba1" text="jiuba">jiǔbā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">bar</meaning>
+			</meanings>
+		</word>
+		<word id="c40b1b4a-8c00-17d01f352d30" batch="0">
+			<character xml:lang="zh-Hans" page="59" position="7">非</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="fe1i" text="fei">fēi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">un-， ill- （qualified）</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2010-11-28">
+		<word id="c40b0396-1760-b2d01ae05f30" batch="0">
+			<character xml:lang="zh-Hans" page="4" position="5">白</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba2i" text="bai">bái</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Arctic</meaning>
+				<meaning xml:lang="en-US">Blank</meaning>
+				<meaning xml:lang="en-US">Bright</meaning>
+				<meaning xml:lang="en-US">Clear</meaning>
+				<meaning xml:lang="en-US">Gratuitous</meaning>
+				<meaning xml:lang="en-US">Plain</meaning>
+				<meaning xml:lang="en-US">Snowy</meaning>
+				<meaning xml:lang="en-US">White</meaning>
+			</meanings>
+		</word>
+		<word id="c407d5ef-7580-17e01a565f10" batch="1">
+			<character xml:lang="zh-Hans" page="197" position="2">闪</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha3n" text="shan">shǎn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Flash</meaning>
+				<meaning xml:lang="en-US">Lightning</meaning>
+			</meanings>
+		</word>
+		<word id="c48c7840-f4f0-1680119513fd" batch="14">
+			<character xml:lang="zh-Hans" page="303" position="1">种</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zho3ng" text="zhong">zhǒng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">kind of</meaning>
+				<meaning xml:lang="en-US">type</meaning>
+				<meaning xml:lang="en-US">sort of</meaning>
+			</meanings>
+		</word>
+		<word id="c414c163-0c10-101e7f5830b0" batch="5">
+			<characters xml:lang="zh-Hans" pages="244,90" positions="7,3">喜欢</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi3hua1n" text="xihuan">xǐhuān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">be fond of</meaning>
+				<meaning xml:lang="en-US">like</meaning>
+				<meaning xml:lang="en-US">love</meaning>
+			</meanings>
+		</word>
+		<word id="c488ee14-c2c0-173d46e01145" batch="13">
+			<character xml:lang="zh-Hans" page="273" position="8">因</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1n" text="yin">yīn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">cause</meaning>
+				<meaning xml:lang="en-US">because</meaning>
+			</meanings>
+		</word>
+		<word id="c488edc1-6710-10c016b015c0" batch="13">
+			<characters xml:lang="zh-Hans" pages="86,156" positions="7,8">后面</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ho4umian" text="houmian">hòumian</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">rear</meaning>
+				<meaning xml:lang="en-US">back</meaning>
+				<meaning xml:lang="en-US">behind</meaning>
+			</meanings>
+		</word>
+		<word id="c488edfa-1e30-138a14ae1963" batch="13">
+			<characters xml:lang="zh-Hans" pages="209,150" positions="2,5">售卖</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sho1uma4i" text="shoumai">shōumài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to sell</meaning>
+			</meanings>
+		</word>
+		<word id="c488ebf1-e590-192012951694" batch="13">
+			<character xml:lang="zh-Hans" page="84" position="1">荷</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="he2" text="he">hé</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Netherlands</meaning>
+			</meanings>
+		</word>
+		<word id="c458a44c-b770-d3c712b81aea" batch="10">
+			<characters xml:lang="zh-Hans" pages="246,241" positions="1,2">下午</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia4wu3" text="xiawu">xiàwǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">afternoon</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecb32-4460-1a601f60127d" batch="7">
+			<characters xml:lang="zh-Hans" pages="289,153,267" positions="5,2,2">怎么样</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ze3nmeya4ng" text="zenmeyang">zěnmeyàng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">how is it?</meaning>
+				<meaning xml:lang="en-US">how</meaning>
+			</meanings>
+		</word>
+		<word id="c43c4910-9db0-3457de3026a0" batch="7">
+			<characters xml:lang="zh-Hans" pages="310,97" positions="17">自己</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zi4ji3" text="ziji">zìjǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">self</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecf12-4cf0-1476c5001e39" batch="7">
+			<characters xml:lang="zh-Hans" pages="302,238" positions="4,7">中文</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zho1ngwe2n" text="zhongwen">zhōngwén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Chinese language (written)</meaning>
+			</meanings>
+		</word>
+		<word id="c48c77db-3ac0-687c1cf01750" batch="14">
+			<characters xml:lang="zh-Hans" pages="213,80" positions="3,7">水果</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shui3guo3" text="shuiguo">shuǐguǒ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">fruit</meaning>
+			</meanings>
+		</word>
+		<word id="c43c4806-7570-d17c37b017ad" batch="7">
+			<characters xml:lang="zh-Hans" pages="45,58" positions="7,4">地方</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="di4fang" text="difang">dìfang</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">region</meaning>
+				<meaning xml:lang="en-US">with 什么: where?</meaning>
+			</meanings>
+		</word>
+		<word id="c488a956-5480-142c87f02040" batch="12">
+			<characters xml:lang="zh-Hans" pages="267,80,133" positions="8,3,5">摇滚乐</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya2ogu3nyu4e" text="yaogunyue">yáogǔnyùe</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">rock music</meaning>
+			</meanings>
+		</word>
+		<word id="c48d2712-2060-1970149dd210" batch="14">
+			<characters xml:lang="zh-Hans" pages="59,286" positions="5,7">放在</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa4ngza4i" text="fangzai">fàngzài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">place in</meaning>
+			</meanings>
+		</word>
+		<word id="c446a842-0f20-5cedf870fd90" batch="9">
+			<characters xml:lang="zh-Hans" pages="164,180" positions="5,5">年前</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="nia2nqia2n" text="nianqian">niánqián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">...years ago</meaning>
+			</meanings>
+		</word>
+		<word id="c42ece48-c340-11001fe01c50" batch="7">
+			<characters xml:lang="zh-Hans" pages="154,136" positions="1,4">美丽</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="me3ili4" text="meili">měilì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">pretty</meaning>
+			</meanings>
+		</word>
+		<word id="c404d5f5-7de0-73a8faf2b500" batch="1">
+			<character xml:lang="zh-Hans" page="160" position="7">木</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="mu4" text="mu">mù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Wood</meaning>
+			</meanings>
+		</word>
+		<word id="c404d5c6-54a0-ca601ec0d9a0" batch="1">
+			<character xml:lang="zh-Hans" page="135" position="8">力</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="li4" text="li">lì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Power</meaning>
+				<meaning xml:lang="en-US">Strength</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2010-11-29">
+		<word id="c488a920-08c0-bc7b69701fb9" batch="12">
+			<character xml:lang="zh-Hans" page="135" position="6">里</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="li3" text="li">lǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">place</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecc85-2e60-8b4c1d449cb0" batch="7">
+			<character xml:lang="zh-Hans" page="213" position="7">说</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shuo1" text="shuo">shuō</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">say</meaning>
+				<meaning xml:lang="en-US">speak</meaning>
+			</meanings>
+		</word>
+		<word id="c488ec0e-9d30-188214db89a0" batch="13">
+			<character xml:lang="zh-Hans" page="202" position="2">升</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="she1ng" text="sheng">shēng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">measure word for litre</meaning>
+			</meanings>
+		</word>
+		<word id="c48d271b-9840-17ca11fb51f0" batch="14">
+			<characters xml:lang="zh-Hans" pages="73,63" positions="4,6">功夫</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="go1ngfu" text="gongfu">gōngfu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">skill (Kong Fu)</meaning>
+			</meanings>
+		</word>
+		<word id="c446a736-9e30-c4f01e101a00" batch="9">
+			<characters xml:lang="zh-Hans" pages="226,226" positions="2,2">天天</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="tia1ntia1n" text="tiantian">tiāntiān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">every day</meaning>
+			</meanings>
+		</word>
+		<word id="c458a423-ec50-d8a01e8e4ea0" batch="10">
+			<character xml:lang="zh-Hans" page="218" position="1">岁</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sui4" text="sui">suì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">year</meaning>
+			</meanings>
+		</word>
+		<word id="c458a445-fdf0-bc808ec51740" batch="10">
+			<characters xml:lang="zh-Hans" pages="198,241" positions="2,2">上午</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha4ngwu3" text="shangwu">shàngwǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">morning</meaning>
+			</meanings>
+		</word>
+		<word id="c458a501-76c0-3bc81dfd1cea" batch="10">
+			<characters xml:lang="zh-Hans" pages="42,70" positions="2,3">蛋糕</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da3nga1o" text="dangao">dǎngāo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">cake</meaning>
+			</meanings>
+		</word>
+		<word id="c4067b77-3fd0-1ec011896e80" batch="1">
+			<character xml:lang="zh-Hans" page="18" position="1">步</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bu4" text="bu">bù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Step</meaning>
+				<meaning xml:lang="en-US">Pace</meaning>
+				<meaning xml:lang="en-US">Go on foot</meaning>
+				<meaning xml:lang="en-US">Walk</meaning>
+			</meanings>
+		</word>
+		<word id="c41710-2427-671a53312cec" batch="2">
+			<characters xml:lang="zh-Hans" pages="124,125,124,133" positions="2,8,2,5">可口可乐</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ke3ko3uke3le4" text="kekoukele">kěkǒukělè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">coca cola</meaning>
+			</meanings>
+		</word>
+		<word id="c488a943-5ed0-5851f02027a0" batch="12">
+			<characters xml:lang="zh-Hans" pages="157,101" positions="3,8">民间</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="mi2njia1n" text="minjian">mínjiān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">popular (people's ...)</meaning>
+			</meanings>
+		</word>
+		<word id="c48e6762-0fd0-12f41f101e9e" batch="15">
+			<character xml:lang="zh-Hans" page="23" position="1">差</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="cha4" text="cha">chà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to lack</meaning>
+				<meaning xml:lang="en-US">with time: before, or minus 一点差一刻</meaning>
+			</meanings>
+		</word>
+		<word id="c458a409-8e10-5fc01ed2d220" batch="10">
+			<characters xml:lang="zh-Hans" pages="112,164" positions="2,5">今年</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ji1nnia2n" text="jinnian">jīnnián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">This yeat</meaning>
+			</meanings>
+		</word>
+		<word id="c48d263a-3bb0-1b9015205550" batch="14">
+			<characters xml:lang="zh-Hans" pages="269,276" positions="3,6">业余</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ye4yu2" text="yeyu">yèyú</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">sparetime</meaning>
+			</meanings>
+		</word>
+		<word id="c408dc31-6280-6be113206000" batch="0">
+			<character xml:lang="zh-Hans" page="53" position="5">对</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dui4" text="dui">duì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">To Face</meaning>
+				<meaning xml:lang="en-US">Against </meaning>
+			</meanings>
+		</word>
+		<word id="c4055217-8080-141077706000" batch="1">
+			<character xml:lang="zh-Hans" page="268" position="8">也</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ye3" text="ye">yě</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Too</meaning>
+				<meaning xml:lang="en-US">Also</meaning>
+			</meanings>
+		</word>
+		<word id="c414babc-a110-9c796fffbd20" batch="5">
+			<characters xml:lang="zh-Hans" pages="191,204" positions="3,7">认识</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="re4nshi2" text="renshi">rènshí</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to know</meaning>
+			</meanings>
+		</word>
+		<word id="c446a71d-2900-1a1010c0eef0" batch="9">
+			<characters xml:lang="zh-Hans" pages="164, 209" positions="6,5">念书</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="nia4nshu1" text="nianshu">niànshū</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">study</meaning>
+			</meanings>
+		</word>
+		<word id="c41d735c-1170-23e811661abf" batch="6">
+			<character xml:lang="zh-Hans" page="199" position="5">舌</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="she2" text="she">shé</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">tongue</meaning>
+			</meanings>
+		</word>
+		<word id="c446a88e-1d60-10f015951af0" batch="9">
+			<characters xml:lang="zh-Hans" pages="122,15" positions="4,6">看病</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka1nbi4ng" text="kanbing">kānbìng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">see a doctor</meaning>
+				<meaning xml:lang="en-US">see a patient</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2011-01-11">
+		<word id="c48e6712-34b0-11f09f41e740" batch="15">
+			<character xml:lang="zh-Hans" page="298" position="4">支</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhi1" text="zhi">zhī</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">measure word for stick-like things, such as pens</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4aca-ddd0-505011906db0" batch="11">
+			<character xml:lang="zh-Hans" page="123" position="3">烤</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka3o" text="kao">kǎo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">roast(ed)</meaning>
+			</meanings>
+		</word>
+		<word id="c414c46b-8c20-9f309bd8a600" batch="5">
+			<character xml:lang="zh-Hans" page="208" position="4">手</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sho3u" text="shou">shǒu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">hand</meaning>
+			</meanings>
+		</word>
+		<word id="c4069ac7-2740-65e055d56280" batch="2">
+			<character xml:lang="zh-Hans">玛</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma3" text="ma">mǎ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Name</meaning>
+			</meanings>
+		</word>
+		<word id="c49d3937-e690-9d102a758a80" batch="16">
+			<characters xml:lang="zh-Hans">咖啡厅</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka1fe1iti1ng" text="kafeiting">kāfēitīng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">coffee shop</meaning>
+			</meanings>
+		</word>
+		<word id="c41d7114-b070-1f0a3700f710" batch="6">
+			<character xml:lang="zh-Hans" page="281" position="3">语</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yu3" text="yu">yǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">language</meaning>
+			</meanings>
+		</word>
+		<word id="c488ec19-b470-f30055d418dd" batch="13">
+			<characters xml:lang="zh-Hans" pages="179,278" positions="1,5">汽油</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qi4yo2u" text="qiyou">qìyóu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">gas</meaning>
+			</meanings>
+		</word>
+		<word id="c49d393c-f930-c03a76bd4c20" batch="16">
+			<character xml:lang="zh-Hans">胖</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pa2ng" text="pang">páng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">fat</meaning>
+			</meanings>
+		</word>
+		<word id="c488a97e-f480-5750b4201800" batch="12">
+			<characters xml:lang="zh-Hans" pages="17,39" positions="7,1">不错</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bu4cuo4" text="bucuo">bùcuò</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">correct</meaning>
+				<meaning xml:lang="en-US">pretty good</meaning>
+			</meanings>
+		</word>
+		<word id="c48c77d0-39f0-10f8db50c500" batch="14">
+			<characters xml:lang="zh-Hans" pages="46,276" positions="8,2">电影</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dia4nyi3ng" text="dianying">diànyǐng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">movie</meaning>
+			</meanings>
+		</word>
+		<word id="c458a4f8-d630-1be01e901bb8" batch="10">
+			<characters xml:lang="zh-Hans" pages="19,99" positions="7,8">参加</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ca1njia1" text="canjia">cānjiā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to attend</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecd0a-6860-1355109f1f2e" batch="7">
+			<character xml:lang="zh-Hans" page="255" position="3">行</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi3ng" text="xing">xǐng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">may</meaning>
+			</meanings>
+		</word>
+		<word id="c51710-1510-671a53312ada" batch="2">
+			<character xml:lang="zh-Hans">了</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="le">le</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Partical for completed action (past perfect)</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecbee-7020-12a0d2875760" batch="7">
+			<characters xml:lang="zh-Hans" pages="204,87" positions="6,1">时候</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shi2hou" text="shihou">shíhou</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">time</meaning>
+				<meaning xml:lang="en-US">moment</meaning>
+			</meanings>
+		</word>
+		<word id="c49d3b84-2420-47c5dee01943" batch="16">
+			<character xml:lang="zh-Hans">每</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="me3i" text="mei">měi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">each</meaning>
+			</meanings>
+		</word>
+		<word id="c40b03dd-7390-92d429901bc3" batch="0">
+			<character xml:lang="zh-Hans" page="85" position="8">红</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ho2ng" text="hong">hóng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Red</meaning>
+				<meaning xml:lang="en-US">Revolutionary</meaning>
+				<meaning xml:lang="en-US">Bonus</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecfe8-e7b0-e7e012906910" batch="14">
+			<character xml:lang="zh-Hans" page="46" position="7">点</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dia3n" text="dian">diǎn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">o'clock</meaning>
+				<meaning xml:lang="en-US">point, speck</meaning>
+				<meaning xml:lang="en-US">to order</meaning>
+				<meaning xml:lang="en-US">to select an item from a list</meaning>
+			</meanings>
+		</word>
+		<word id="c48d2451-80b0-71e01ad04cb0" batch="14">
+			<characters xml:lang="zh-Hans" pages="162,58" positions="6,4">南方</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="na2nfa1ng" text="nanfang">nánfāng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">south</meaning>
+			</meanings>
+		</word>
+		<word id="c48d267c-ec10-18602f536b20" batch="14">
+			<characters xml:lang="zh-Hans" pages="77,279" positions="6,5">关于</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="gua1nyu2" text="guanyu">guānyú</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">pertaining to</meaning>
+				<meaning xml:lang="en-US">concerning</meaning>
+			</meanings>
+		</word>
+		<word id="c49d3b78-03c0-102082b014de" batch="16">
+			<characters xml:lang="zh-Hans">知识分子</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhi1shife4nzi3" text="zhishifenzi">zhīshifènzǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">intellectuals</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2011-01-12">
+		<word id="c404d5f4-3f10-7ed718418c70" batch="1">
+			<character xml:lang="zh-Hans" page="39" position="6">大</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da4" text="da">dà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Large</meaning>
+				<meaning xml:lang="en-US">Be large</meaning>
+			</meanings>
+		</word>
+		<word id="c48d26af-10c0-128d1d30110a" batch="14">
+			<character xml:lang="zh-Hans" page="231" position="4">兔</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="tu4" text="tu">tù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">rabbit</meaning>
+			</meanings>
+		</word>
+		<word id="c43c49a0-0180-1c21d9501029" batch="7">
+			<character xml:lang="zh-Hans" page="1" position="7">爱</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="a4i" text="ai">ài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">love</meaning>
+			</meanings>
+		</word>
+		<word id="c48e66db-1690-107c19d2a700" batch="14">
+			<characters xml:lang="zh-Hans" pages="152,180" positions="2,6">毛钱</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma2oqia2n" text="maoqian">máoqián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">measure word for denominations of 1/10 快</meaning>
+			</meanings>
+		</word>
+		<word id="c488edcb-5a20-10c7919018fd" batch="13">
+			<characters xml:lang="zh-Hans" pages="124,10" positions="7,4">课本</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ke4be3n" text="keben">kèběn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">textbook</meaning>
+			</meanings>
+		</word>
+		<word id="c4172e2f-eb30-1aeb47461ec9" batch="5">
+			<character xml:lang="zh-Hans" page="1" position="1">豪</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha2o" text="hao">háo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Talented person</meaning>
+				<meaning xml:lang="en-US">Brave</meaning>
+				<meaning xml:lang="en-US">cavalier</meaning>
+			</meanings>
+		</word>
+		<word id="c49af300-2050-714b169d14c8" batch="16">
+			<character xml:lang="zh-Hans">从</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="co1ng" text="cong">cōng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">via</meaning>
+				<meaning xml:lang="en-US">from</meaning>
+			</meanings>
+		</word>
+		<word id="c406700f-63a0-332b146315cb" batch="1">
+			<character xml:lang="zh-Hans" page="214" position="7">四</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="si4" text="si">sì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Four</meaning>
+			</meanings>
+		</word>
+		<word id="c492ecac-b9c0-c5f299f811f7" batch="16">
+			<characters xml:lang="zh-Hans">保重</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba3ozho4ng" text="baozhong">bǎozhòng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">take care</meaning>
+			</meanings>
+		</word>
+		<word id="c40b03fc-0780-1e6f1e14e3e0" batch="0">
+			<character xml:lang="zh-Hans" page="309" position="8">紫</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zi3" text="zi">zǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Purple</meaning>
+			</meanings>
+		</word>
+		<word id="c40b1b3c-59e0-1aa013f84cf0" batch="0">
+			<character xml:lang="zh-Hans" page="99" position="8">加</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1" text="jia">jiā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Add</meaning>
+			</meanings>
+		</word>
+		<word id="c488eccb-0840-1fe711e418c3" batch="13">
+			<characters xml:lang="zh-Hans" pages="151,316" positions="4,8">慢走!</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma4nzo3u!" text="manzou!">mànzǒu!</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Don't go yet! Stay a while longer.</meaning>
+			</meanings>
+		</word>
+		<word id="c406e46e-2380-bfc0199018b1" batch="2">
+			<character xml:lang="zh-Hans" page="103" position="6">见</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia4n" text="jian">jiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">See</meaning>
+				<meaning xml:lang="en-US">Catch eye of</meaning>
+			</meanings>
+		</word>
+		<word id="c40fd718-b530-197661a06600" batch="0">
+			<characters xml:lang="zh-Hans">秘鲁</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bi4lu3" text="bilu">bìlǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Peru</meaning>
+			</meanings>
+		</word>
+		<word id="c41d70fb-dde0-8cee1c995500" batch="6">
+			<character xml:lang="zh-Hans" page="11" position="3">笔</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bi3" text="bi">bǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">pen</meaning>
+			</meanings>
+		</word>
+		<word id="c488ed57-37e0-15c051e212ea" batch="13">
+			<characters xml:lang="zh-Hans" pages="39,217" positions="5,6">打算</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da3sua4n" text="dasuan">dǎsuàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to plan</meaning>
+			</meanings>
+		</word>
+		<word id="c49af334-e060-9c50e8391fd5" batch="16">
+			<characters xml:lang="zh-Hans">交通堵塞</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1oto1ngdu3se4" text="jiaotongduse">jiāotōngdǔsè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">traffic jam</meaning>
+			</meanings>
+		</word>
+		<word id="c48d2684-dd90-ecb01b95d390" batch="14">
+			<characters xml:lang="zh-Hans" pages="9,7" positions="7,5">背包</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="be1iba1o" text="beibao">bēibāo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">backpack</meaning>
+			</meanings>
+		</word>
+		<word id="c49af2cc-5580-10f016e711a0" batch="16">
+			<characters xml:lang="zh-Hans">例子</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="li4zi" text="lizi">lìzi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">example</meaning>
+			</meanings>
+		</word>
+		<word id="c49d3b9b-8d50-1e32ec47ffe0" batch="16">
+			<character xml:lang="zh-Hans">怕</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pa4" text="pa">pà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">fear</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2011-01-13">
+		<word id="c405f21d-2170-1b2013b016de" batch="1">
+			<character xml:lang="zh-Hans" page="166" position="8">女</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="nv3" text="nu">nǚ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Female</meaning>
+				<meaning xml:lang="en-US">Woman</meaning>
+			</meanings>
+		</word>
+		<word id="c48d265a-a9a0-1eb116b0bda0" batch="14">
+			<characters xml:lang="zh-Hans" pages="271,236" positions="4,5">以为</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi3we2i" text="yiwei">yǐwéi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to believe</meaning>
+				<meaning xml:lang="en-US">to think that...</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecc6d-2a30-1be0a310a2c0" batch="7">
+			<characters xml:lang="zh-Hans" pages="204,101" positions="6,8">时间</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shi2jia1n" text="shijian">shíjiān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">time</meaning>
+			</meanings>
+		</word>
+		<word id="c488ece2-a260-190c1560a750" batch="13">
+			<characters xml:lang="zh-Hans" pages="179,20" positions="1,4">汽车</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qi4che1" text="qiche">qìchē</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">car</meaning>
+			</meanings>
+		</word>
+		<word id="c414be4c-ffc0-aa506b67d680" batch="1">
+			<characters xml:lang="zh-Hans" pages="227,49" positions="7,8">厅懂</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ti1ngdo3ng" text="tingdong">tīngdǒng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">understand, as in hearing someone</meaning>
+			</meanings>
+		</word>
+		<word id="c48d26f3-27e0-b520191e1e15" batch="14">
+			<characters xml:lang="zh-Hans" pages="46,269,22" positions="4,8,2">第一层</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="di4yi1ce2ng" text="diyiceng">dìyīcéng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">first floor (europe)</meaning>
+				<meaning xml:lang="en-US">ground floor (china)</meaning>
+			</meanings>
+		</word>
+		<word id="c48d2721-ed30-170a150017ea" batch="14">
+			<characters xml:lang="zh-Hans" pages="92,43" positions="6,5">回到</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="hui2dao4" text="huidao">huídaò</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">return</meaning>
+			</meanings>
+		</word>
+		<word id="c405523a-dd10-1496a7c06920" batch="1">
+			<character xml:lang="zh-Hans" page="149" position="8">吗</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma" text="ma">ma</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Interrogative particle for questions expecting a yes-no answer</meaning>
+			</meanings>
+		</word>
+		<word id="c48e67c5-6e20-1350cd1019e2" batch="15">
+			<character xml:lang="zh-Hans" page="67" position="3">该</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ga1i" text="gai">gāi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">should</meaning>
+				<meaning xml:lang="en-US">to ought to</meaning>
+			</meanings>
+		</word>
+		<word id="c49af305-b7d0-191012261511" batch="16">
+			<characters xml:lang="zh-Hans">稍微</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha1owe1i" text="shaowei">shāowēi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">a little bit</meaning>
+			</meanings>
+		</word>
+		<word id="c41d7540-6c80-1d00de6a1533" batch="6">
+			<characters xml:lang="zh-Hans" pages="17,277,253" positions="7,5,8">不用谢</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="búyòngxie4" text="búyòngxie">búyòngxiè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">No need to thank</meaning>
+				<meaning xml:lang="en-US">You're welcome</meaning>
+			</meanings>
+		</word>
+		<word id="c488ec86-7d40-143b2a713330" batch="13">
+			<character xml:lang="zh-Hans" page="56" position="1">发</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa1" text="fa">fā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">send</meaning>
+				<meaning xml:lang="en-US">spend</meaning>
+			</meanings>
+		</word>
+		<word id="c492ed2e-7970-5d601ab29230" batch="16">
+			<character xml:lang="zh-Hans">忘</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa4ng" text="wang">wàng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to forget</meaning>
+			</meanings>
+		</word>
+		<word id="c49af30e-e0d0-afc01cb59a80" batch="16">
+			<characters xml:lang="zh-Hans">小心</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3oxi1n" text="xiaoxin">xiǎoxīn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to take care of</meaning>
+			</meanings>
+		</word>
+		<word id="c43f423d-29b0-132017002a60" batch="8">
+			<characters xml:lang="zh-Hans" pages="54,199" positions="2,2">多少</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="duo1shao" text="duoshao">duōshao</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">how many?</meaning>
+				<meaning xml:lang="en-US">how much?</meaning>
+			</meanings>
+		</word>
+		<word id="c48e6f12-eee0-1be21f21b580" batch="15">
+			<characters xml:lang="zh-Hans" pages="293,43" positions="8,5">找到</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zha3oda4o" text="zhaodao">zhǎodào</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to find</meaning>
+			</meanings>
+		</word>
+		<word id="c492ecf7-9990-4a1514106540" batch="16">
+			<character xml:lang="zh-Hans" page="18" position="6">才</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ca2i" text="cai">cái</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">only/just</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4a03-f3a0-1d00135574e0" batch="11">
+			<characters xml:lang="zh-Hans" pages="271,86" positions="4,7">以后</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi3ho4u" text="yihou">yǐhòu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">after</meaning>
+				<meaning xml:lang="en-US">next</meaning>
+				<meaning xml:lang="en-US">later</meaning>
+			</meanings>
+		</word>
+		<word id="c404ffcd-2380-11801ab01e87" batch="1">
+			<character xml:lang="zh-Hans" page="82" position="7">好</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha3o" text="hao">hǎo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Good</meaning>
+				<meaning xml:lang="en-US">Well</meaning>
+				<meaning xml:lang="en-US">Fine</meaning>
+				<meaning xml:lang="en-US">Ok</meaning>
+			</meanings>
+		</word>
+		<word id="c414bd7b-87f0-10601750153f" batch="5">
+			<character xml:lang="zh-Hans" page="233" position="6">外</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa4i" text="wai">wài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">foreign</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2011-01-14">
+		<word id="c49d39f9-7a20-14d0d6505330" batch="16">
+			<character xml:lang="zh-Hans">杯</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="be1i" text="bei">bēi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">classifier for glasses</meaning>
+				<meaning xml:lang="en-US">cup</meaning>
+			</meanings>
+		</word>
+		<word id="c404d574-0c00-130b994e8340" batch="1">
+			<character xml:lang="zh-Hans" page="48" position="5">丁</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="di1ng" text="ding">dīng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Cubes of diced meat</meaning>
+			</meanings>
+		</word>
+		<word id="c488a913-9140-1ae312786e50" batch="12">
+			<character xml:lang="zh-Hans" page="254" position="4">新</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi1n" text="xin">xīn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">new</meaning>
+			</meanings>
+		</word>
+		<word id="c488a890-fa80-14c09e17a3a0" batch="12">
+			<characters xml:lang="zh-Hans" pages="197,47" positions="7,1">商店</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha1ngdia4n" text="shangdian">shāngdiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">store</meaning>
+			</meanings>
+		</word>
+		<word id="c41d70c6-a420-c6eb9ff9ad40" batch="6">
+			<characters xml:lang="zh-Hans" pages="79,256" positions="8,2">贵姓</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="gui4xi4ng" text="guixing">guìxìng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Honorable Surname</meaning>
+			</meanings>
+		</word>
+		<word id="c40fd6e9-8590-b460152c5540" batch="0">
+			<characters xml:lang="zh-Hans" pages="-,-,204" positions="-,-,6">比利时</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bi3li4shi2" text="bilishi">bǐlìshí</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Belgium</meaning>
+			</meanings>
+		</word>
+		<word id="c488a8f8-b8e0-1db0be6318fc" batch="12">
+			<characters xml:lang="zh-Hans" pages="24,24" positions="6,6">常常</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="cha2ngcha2ng" text="changchang">chángcháng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">often</meaning>
+			</meanings>
+		</word>
+		<word id="c488a89c-c3e0-1ed017dc1d3f" batch="12">
+			<characters xml:lang="zh-Hans" pages="274,133" positions="2,5">音乐</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1nyue1" text="yinyue">yīnyuē</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">music</meaning>
+			</meanings>
+		</word>
+		<word id="c43c49b4-bb90-53a014ea30c0" batch="7">
+			<characters xml:lang="zh-Hans" pages="227,231" positions="7,7">听说</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ti1ngshuo1" text="tingshuo">tīngshuō</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">hear (someone) say</meaning>
+			</meanings>
+		</word>
+		<word id="c41d7494-f8c0-29f01510ae60" batch="6">
+			<character xml:lang="zh-Hans" page="278" position="8">有</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yo3u" text="you">yǒu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">there is</meaning>
+				<meaning xml:lang="en-US">there are</meaning>
+				<meaning xml:lang="en-US">have</meaning>
+			</meanings>
+		</word>
+		<word id="c40b041f-c060-68501b20c5e0" batch="0">
+			<character xml:lang="zh-Hans" page="176" position="6">七</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qi1" text="qi">qī</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Seven</meaning>
+			</meanings>
+		</word>
+		<word id="c488ecb2-2800-d1a27fc31c83" batch="13">
+			<characters xml:lang="zh-Hans" pages="176,228,89" positions="4,6,7">普通话</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pu3to1nghua4" text="putonghua">pǔtōnghuà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">common Chinese</meaning>
+			</meanings>
+		</word>
+		<word id="c48e6f2b-1ad0-b020152df5e0" batch="15">
+			<character xml:lang="zh-Hans" page="4" position="4">吧</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba" text="ba">ba</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">suffix to encourage someone 'adhortatief'</meaning>
+			</meanings>
+		</word>
+		<word id="c492eb7e-a2c0-3ad03ba31bf2" batch="16">
+			<characters xml:lang="zh-Hans" pages="5,5" positions="2,2">拜拜</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba2iba2i" text="baibai">báibái</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">bye bye</meaning>
+			</meanings>
+		</word>
+		<word id="c45f996d-1200-163616c34090" batch="11">
+			<character xml:lang="zh-Hans">比</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bi3" text="bi">bǐ</pinyin>
+			<meanings/>
+		</word>
+		<word id="c446a89e-a560-76a317e02380" batch="9">
+			<character xml:lang="zh-Hans" page="103" position="3">减</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia3n" text="jian">jiǎn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">minus</meaning>
+			</meanings>
+		</word>
+		<word id="c404d5f6-8910-490f15007e00" batch="1">
+			<character xml:lang="zh-Hans" page="141" position="3">林</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="li2n" text="lin">lín</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Forest</meaning>
+			</meanings>
+		</word>
+		<word id="c405f1b1-9200-935d1302d6d0" batch="1">
+			<character xml:lang="zh-Hans" page="241" position="1">五</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wu3" text="wu">wǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Five</meaning>
+			</meanings>
+		</word>
+		<word id="c446a7bd-6d80-1af014aa7350" batch="9">
+			<characters xml:lang="zh-Hans" pages="82,234,55" positions="7,3,5">好玩儿</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha3owa2nr" text="haowanr">hǎowánr</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">amusing</meaning>
+				<meaning xml:lang="en-US">interesting</meaning>
+			</meanings>
+		</word>
+		<word id="c41d729e-2d40-1e5643301501" batch="6">
+			<characters xml:lang="zh-Hans" pages="19,227" positions="8,6">餐厅</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ca1nti1ng" text="canting">cāntīng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">dining room</meaning>
+				<meaning xml:lang="en-US">cantina</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2011-01-16">
+		<word id="c48e6740-6fe0-9600f8f066c0" batch="15">
+			<character xml:lang="zh-Hans" page="150" position="5">卖</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma4i" text="mai">mài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to sell</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4a52-6dd0-16008c561bfc" batch="11">
+			<character xml:lang="zh-Hans" page="127" position="6">快</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="kuai" text="kuai">kuai</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">quickly</meaning>
+			</meanings>
+		</word>
+		<word id="c41d749c-e4c0-ced0c0391da9" batch="6">
+			<characters xml:lang="zh-Hans" pages="77,245" positions="6,1">关系</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="gua1nxi" text="guanxi">guānxi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">relation</meaning>
+			</meanings>
+		</word>
+		<word id="c45a48b8-5670-167022f0fe90" batch="11">
+			<character xml:lang="zh-Hans" page="72" position="4">给</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ge3i" text="gei">gěi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">for (买给)</meaning>
+				<meaning xml:lang="en-US">to (送给)</meaning>
+			</meanings>
+		</word>
+		<word id="c488a882-5860-c1801c901658" batch="12">
+			<characters xml:lang="zh-Hans" pages="268,207" positions="4,5">要是</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya4oshi4" text="yaoshi">yàoshì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">if</meaning>
+			</meanings>
+		</word>
+		<word id="c488ed7d-6de0-19679e30e960" batch="13">
+			<characters xml:lang="zh-Hans" pages="117,144" positions="1,7">酒楼</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jiu3lo2u" text="jiulou">jiǔlóu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">restaurant</meaning>
+			</meanings>
+		</word>
+		<word id="c414c26b-0f60-c0c015161d8c" batch="5">
+			<character xml:lang="zh-Hans" page="239" position="4">问</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="we4n" text="wen">wèn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to ask</meaning>
+				<meaning xml:lang="en-US">inquire</meaning>
+			</meanings>
+		</word>
+		<word id="c43c9f71-5450-843f11781992" batch="7">
+			<characters xml:lang="zh-Hans" pages="36,46" positions="1,6">词典</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ci2dia3n" text="cidian">cídiǎn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">dictionary</meaning>
+			</meanings>
+		</word>
+		<word id="c48c77f3-e5c0-15001b7038d0" batch="14">
+			<characters xml:lang="zh-Hans" pages="206,24" positions="4,3">市场</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shi4cha3ng" text="shichang">shìchǎng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">market</meaning>
+			</meanings>
+		</word>
+		<word id="c48d243c-d2d0-ff071980aa80" batch="14">
+			<character xml:lang="zh-Hans" page="112" position="1">斤</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ji1n" text="jin">jīn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">pound (500gr)</meaning>
+			</meanings>
+		</word>
+		<word id="c488ed9e-7a30-1706d4d060d0" batch="13">
+			<characters xml:lang="zh-Hans" pages="192,273" positions="1,1">容易</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ro2ngyi4" text="rongyi">róngyì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">normal</meaning>
+			</meanings>
+		</word>
+		<word id="c49d39d8-e2a0-1d2bbc00d000" batch="16">
+			<characters xml:lang="zh-Hans">饼干</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bi3ngga1n" text="binggan">bǐnggān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">cookie/cracker/biscuit</meaning>
+			</meanings>
+		</word>
+		<word id="c406e407-b720-2b891564136d" batch="2">
+			<character xml:lang="zh-Hans" page="100" position="3">家</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1" text="jia">jiā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Family</meaning>
+				<meaning xml:lang="en-US">Household</meaning>
+				<meaning xml:lang="en-US">Home</meaning>
+				<meaning xml:lang="en-US">measure word for firms and companies</meaning>
+			</meanings>
+		</word>
+		<word id="c414bd89-9df0-84d0196017fe" batch="1">
+			<character xml:lang="zh-Hans" page="227" position="7">厅</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ti1ng" text="ting">tīng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to listen</meaning>
+			</meanings>
+		</word>
+		<word id="c488a8b9-57b0-2619e9c6bb10" batch="12">
+			<characters xml:lang="zh-Hans" pages="78,168" positions="8,5">光盘</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="gua1ngpa2n" text="guangpan">guāngpán</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">disc</meaning>
+				<meaning xml:lang="en-US">cd</meaning>
+			</meanings>
+		</word>
+		<word id="c446a792-4fe0-117011ee168e" batch="9">
+			<character xml:lang="zh-Hans" page="75" position="8">古</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="gu3" text="gu">gǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">old</meaning>
+			</meanings>
+		</word>
+		<word id="c48e66cf-1290-1b20b733faf0" batch="14">
+			<characters xml:lang="zh-Hans" pages="127,180" positions="6,6">块钱</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qua4iqia2n" text="quaiqian">quàiqián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">measure word for denominations of 10</meaning>
+				<meaning xml:lang="en-US">1 快 is 10 毛</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecefb-4c90-b8e047901277" batch="7">
+			<characters xml:lang="zh-Hans" pages="154,211" positions="1,2">美术</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="me3ishu4" text="meishu">měishù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">art</meaning>
+				<meaning xml:lang="en-US">fine arts</meaning>
+			</meanings>
+		</word>
+		<word id="c49af214-a670-1b4017e6b470" batch="16">
+			<characters xml:lang="zh-Hans">学期</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xue2qi3" text="xueqi">xuéqǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">semester</meaning>
+			</meanings>
+		</word>
+		<word id="c43c48fd-4440-1f36bc909840" batch="7">
+			<characters xml:lang="zh-Hans" pages="278,152" positions="8,2">有名</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yo3umi2ng" text="youming">yǒumíng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">famous</meaning>
+				<meaning xml:lang="en-US">well known</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2011-01-23">
+		<word id="c492ece3-ab80-101266ac2000" batch="16">
+			<characters xml:lang="zh-Hans">十分</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shi2fe1n" text="shifen">shífēn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">very</meaning>
+				<meaning xml:lang="en-US">completely</meaning>
+			</meanings>
+		</word>
+		<word id="c41d7503-3110-18ec1b401e41" batch="6">
+			<characters xml:lang="zh-Hans" pages="14,124,178" positions="5,6,7">别克气</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bie2ke4qi4" text="biekeqi">biékèqì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Don't be polite</meaning>
+			</meanings>
+		</word>
+		<word id="c40b1c15-9b00-e5e814f0c950" batch="0">
+			<characters xml:lang="zh-Hans">咖啡</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka1fe1i" text="kafei">kāfēi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Coffee</meaning>
+			</meanings>
+		</word>
+		<word id="c49d3985-0d70-106b125c2200" batch="16">
+			<characters xml:lang="zh-Hans">点心</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dia3nxi1n" text="dianxin">diǎnxīn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">pastry</meaning>
+			</meanings>
+		</word>
+		<word id="c42ecdc3-7c50-af004a9416bc" batch="7">
+			<character xml:lang="zh-Hans" page="13" position="7">遍</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bia4n" text="bian">biàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">number of times</meaning>
+				<meaning xml:lang="en-US">"pieces"</meaning>
+			</meanings>
+		</word>
+		<word id="c48d268a-8860-10f09fb27970" batch="14">
+			<characters xml:lang="zh-Hans" pages="313,100" positions="1,3">作家</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zuo4jia1" text="zuojia">zuòjiā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">author</meaning>
+			</meanings>
+		</word>
+		<word id="c45a4870-6c80-4094a1e11bf1" batch="11">
+			<characters xml:lang="zh-Hans" pages="198,5" positions="2,3">上班</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha4ngba1n" text="shangban">shàngbān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to go to work</meaning>
+			</meanings>
+		</word>
+		<word id="c458a490-3f00-17dd162d7a10" batch="10">
+			<characters xml:lang="zh-Hans" pages="54,39" positions="2,6">多大</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="duo1da4" text="duoda">duōdà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">how big</meaning>
+				<meaning xml:lang="en-US">how much</meaning>
+			</meanings>
+		</word>
+		<word id="c446a76e-d160-1ef2a091107c" batch="9">
+			<character xml:lang="zh-Hans" page="29" position="4">池</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="chi2" text="chi">chí</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">pond</meaning>
+			</meanings>
+		</word>
+		<word id="c414b039-10d0-18f216edbb10" batch="1">
+			<character xml:lang="zh-Hans" page="1" position="1">记</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi4" text="yi">yì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">mark</meaning>
+				<meaning xml:lang="en-US">sign</meaning>
+				<meaning xml:lang="en-US">note</meaning>
+				<meaning xml:lang="en-US">record</meaning>
+				<meaning xml:lang="en-US">remember</meaning>
+			</meanings>
+		</word>
+		<word id="c49d3958-f170-4110df2414cf" batch="16">
+			<characters xml:lang="zh-Hans">浪费</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="la4ngfe1i" text="langfei">làngfēi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">waste</meaning>
+			</meanings>
+		</word>
+		<word id="c43f4433-01f0-18002dde5c00" batch="8">
+			<characters xml:lang="zh-Hans" pages="166,55" positions="8,5">女儿</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="nv3'e2r" text="nu'er">nǚ'ér</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">daughter</meaning>
+			</meanings>
+		</word>
+		<word id="c48e671e-b4c0-18901c70bb50" batch="15">
+			<characters xml:lang="zh-Hans" pages="209,47" positions="5,1">书店</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shu1dia4n" text="shudian">shūdiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">bookstore</meaning>
+			</meanings>
+		</word>
+		<word id="c406e531-5af0-95a21aa39550" batch="10">
+			<character xml:lang="zh-Hans" page="246" position="1">下</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia4" text="xia">xià</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">next</meaning>
+				<meaning xml:lang="en-US">below</meaning>
+				<meaning xml:lang="en-US">under</meaning>
+			</meanings>
+		</word>
+		<word id="c414bff4-ef60-153039101720" batch="5">
+			<character xml:lang="zh-Hans" page="4" position="6">百</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba3i" text="bai">bǎi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">honderd</meaning>
+			</meanings>
+		</word>
+		<word id="c458a4db-12a0-8650150021f0" batch="10">
+			<characters xml:lang="zh-Hans" pages="306,84" positions="6,4">祝贺</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhu4he4" text="zhuhe">zhùhè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">wish</meaning>
+				<meaning xml:lang="en-US">congratulate</meaning>
+			</meanings>
+		</word>
+		<word id="c408dc14-2600-21605d911e00" batch="0">
+			<character xml:lang="zh-Hans" page="220" position="3">太</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ta4i" text="tai">tài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Highest</meaning>
+				<meaning xml:lang="en-US">Greatest</meaning>
+			</meanings>
+		</word>
+		<word id="c4154b35-8740-105f1d601066" batch="5">
+			<character xml:lang="zh-Hans" page="1" position="1">早</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="za3o" text="zao">zǎo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">early</meaning>
+				<meaning xml:lang="en-US">morning</meaning>
+			</meanings>
+		</word>
+		<word id="c49af33e-6760-9fc458f91d04" batch="16">
+			<characters xml:lang="zh-Hans">告诉</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ga4osu" text="gaosu">gàosu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to tell</meaning>
+				<meaning xml:lang="en-US">to inform</meaning>
+			</meanings>
+		</word>
+		<word id="c40b1bb6-c200-1c8d12c01e81" batch="0">
+			<character xml:lang="zh-Hans" page="83" position="3">喝</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="he1" text="he">hē</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Drink</meaning>
+				<meaning xml:lang="en-US">Eat</meaning>
+			</meanings>
+		</word>
+	</day>
+	<day date="2011-01-24">
+		<word id="c488ed37-1f00-801216401ed0" batch="13">
+			<characters xml:lang="zh-Hans" pages="295,266" positions="3,4">这样</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhe4ya4ng" text="zheyang">zhèyàng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">this way</meaning>
+			</meanings>
+		</word>
+		<word id="c49af30e-e0d0-afc01cb59a80" batch="16">
+			<characters xml:lang="zh-Hans">小心</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3oxi1n" text="xiaoxin">xiǎoxīn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to take care of</meaning>
+			</meanings>
+		</word>
+		<word id="c406e329-5410-14b6159bb6c0" batch="2">
+			<character xml:lang="zh-Hans" page="43" position="5">到</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da4o" text="dao">dào</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Arrive</meaning>
+			</meanings>
+		</word>
+		<word id="c48d247f-1940-1fb0185018ee" batch="14">
+			<character xml:lang="zh-Hans" page="14" position="5">别</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bie2" text="bie">bié</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">other</meaning>
+			</meanings>
+		</word>
+		<word id="c43f4433-01f0-18002dde5c00" batch="8">
+			<characters xml:lang="zh-Hans" pages="166,55" positions="8,5">女儿</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="nv3'e2r" text="nu'er">nǚ'ér</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">daughter</meaning>
+			</meanings>
+		</word>
+		<word id="c446a8c5-3950-16d06fb21190" batch="9">
+			<character xml:lang="zh-Hans" page="28" position="7">乘</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="che2ng" text="cheng">chéng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">times</meaning>
+			</meanings>
+		</word>
+		<word id="c43c9f71-5450-843f11781992" batch="7">
+			<characters xml:lang="zh-Hans" pages="36,46" positions="1,6">词典</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ci2dia3n" text="cidian">cídiǎn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">dictionary</meaning>
+			</meanings>
+		</word>
+		<word id="c4a1a5d9-2520-1ff01e20a530" batch="16">
+			<character xml:lang="zh-Hans">穿</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="chua1n" text="chuan">chuān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to wear</meaning>
+			</meanings>
+		</word>
+		<word id="c4a1a635-8080-b50015202540" batch="16">
+			<characters xml:lang="zh-Hans">小便</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3obia4n" text="xiaobian">xiǎobiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">urine</meaning>
+			</meanings>
+		</word>
+		<word id="c488ed70-72e0-112ed9ca3940" batch="13">
+			<characters xml:lang="zh-Hans" pages="206,24" positions="3,6">家常</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1cha2ng" text="jiachang">jiācháng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">daily family life</meaning>
+			</meanings>
+		</word>
+		<word id="c49af382-fb60-1c29125f17b0" batch="16">
+			<characters xml:lang="zh-Hans">锻炼</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dua4nlia4n" text="duanlian">duànliàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to engage in exercise</meaning>
+			</meanings>
+		</word>
+		<word id="c49d39a2-c410-4f00172026a0" batch="16">
+			<characters xml:lang="zh-Hans">光临</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="gua1ngli2n" text="guanglin">guānglín</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">welcome</meaning>
+			</meanings>
+		</word>
+		<word id="c49af334-e060-9c50e8391fd5" batch="16">
+			<characters xml:lang="zh-Hans">交通堵塞</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1oto1ngdu3se4" text="jiaotongduse">jiāotōngdǔsè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">traffic jam</meaning>
+			</meanings>
+		</word>
+		<word id="c43e7ee6-7770-1b6015a41e97" batch="8">
+			<character xml:lang="zh-Hans" page="81" position="1">过</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="guo4" text="guo">guò</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">once</meaning>
+				<meaning xml:lang="en-US">去过 once went</meaning>
+				<meaning xml:lang="en-US">没去过 never been</meaning>
+				<meaning xml:lang="en-US">to cross</meaning>
+				<meaning xml:lang="en-US">to go over</meaning>
+			</meanings>
+		</word>
+		<word id="c49af2a8-73a0-f70517d311f3" batch="16">
+			<characters xml:lang="zh-Hans">营业</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi2ngye4" text="yingye">yíngyè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to do business</meaning>
+			</meanings>
+		</word>
+		<word id="c48c7748-0360-1f57e1f0c390" batch="14">
+			<characters xml:lang="zh-Hans" pages="-,103" positions="-,7">函件</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha2njia4n" text="hanjian">hánjiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">letters</meaning>
+			</meanings>
+		</word>
+		<word id="c40b1c43-5550-370616101642" batch="0">
+			<character xml:lang="zh-Hans" page="274" position="6">饮</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi3n" text="yin">yǐn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Drink</meaning>
+			</meanings>
+		</word>
+		<word id="c414c473-be30-ed5b8dd2a4c0" batch="5">
+			<character xml:lang="zh-Hans" page="263" position="5">言</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya2n" text="yan">yán</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">speech</meaning>
+			</meanings>
+		</word>
+		<word id="c4a1a5e2-81b0-16cc4940f650" batch="16">
+			<characters xml:lang="zh-Hans">休息</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xiu1xi" text="xiuxi">xiūxi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to take a rest</meaning>
+			</meanings>
+		</word>
+		<word id="c49af2ed-8630-a8602ec0bb00" batch="16">
+			<characters xml:lang="zh-Hans">一定</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1di1ng" text="yiding">yīdīng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">surely</meaning>
+			</meanings>
+		</word>
+	</day>
+<day date="2011-01-25"><word id="c49af363-9f20-34da8424f540" batch="16"><characters xml:lang="zh-Hans">从来</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="co2ngla2i" text="conglai">cónglái</pinyin><meanings><meaning xml:lang="en-US">(+ neg 不,没) never</meaning></meanings></word><word id="c408dc4e-fa70-1d9c196d4e00" batch="0">
+			<character xml:lang="zh-Hans" page="278" position="7">友</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yo3u" text="you">yǒu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Friend</meaning>
+				<meaning xml:lang="en-US">Close friend</meaning>
+			</meanings>
+		</word><word id="c48d2435-cf40-139e38334ef0" batch="14"><character xml:lang="zh-Hans" page="226" position="5">甜</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="tia2n" text="tian">tián</pinyin><meanings><meaning xml:lang="en-US">sweet</meaning></meanings></word><word id="c4a1a50b-d120-9aec1c43195f" batch="16"><character xml:lang="zh-Hans">头</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="to2u" text="tou">tóu</pinyin><meanings><meaning xml:lang="en-US">head</meaning></meanings></word><word id="c48e66bb-e600-d8325c00d600" batch="14"><character xml:lang="zh-Hans" page="180" position="6">钱</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="qia2n" text="qian">qián</pinyin><meanings><meaning xml:lang="en-US">money</meaning></meanings></word><word id="c404d5f8-b690-1250c2e0198f" batch="1">
+			<character xml:lang="zh-Hans" page="215" position="5">宋</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="so4ng" text="song">sòng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Surname</meaning>
+			</meanings>
+		</word><word id="c4a1a5dc-8ea0-15f01fe06bd0" batch="16"><characters xml:lang="zh-Hans">衣服</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1fu" text="yifu">yīfu</pinyin><meanings><meaning xml:lang="en-US">clothes</meaning></meanings></word><word id="c488a90e-b5b0-3682e02018d1" batch="12">
+			<characters xml:lang="zh-Hans" pages="213,13" positions="6,6">顺便</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shu4nbia4n" text="shunbian">shùnbiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">conveniently</meaning>
+			</meanings>
+		</word><word id="c414c462-df30-1717f5201ccc" batch="5">
+			<character xml:lang="zh-Hans" page="284" position="6">月</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yue4" text="yue">yuè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">moon</meaning>
+			</meanings>
+		</word><word id="c488a98a-1b10-12dadb851fd2" batch="12">
+			<characters xml:lang="zh-Hans" pages="54,211" positions="2,7">多数</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="duo1shu4" text="duoshu">duōshù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">most</meaning>
+				<meaning xml:lang="en-US">majority</meaning>
+			</meanings>
+		</word><word id="c446a863-ff10-1da531b118e6" batch="9">
+			<characters xml:lang="zh-Hans" pages="136,205" positions="1,4">历史</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="li4shi3" text="lishi">lìshǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">history</meaning>
+			</meanings>
+		</word><word id="c406e1f7-dbd0-c9b3196d1314" batch="2">
+			<character xml:lang="zh-Hans" page="219" position="3">他</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ta1" text="ta">tā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">He, Him, His</meaning>
+			</meanings>
+		</word><word id="c43c4b83-8200-125e105015ad" batch="7">
+			<characters xml:lang="zh-Hans" pages="251,94,309" positions="4,6,6">小伙子</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3ohuo3zi" text="xiaohuozi">xiǎohuǒzi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">young lad</meaning>
+			</meanings>
+		</word><word id="c492ec5c-3e50-1a00e23083d0" batch="16"><characters xml:lang="zh-Hans">手表</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="sho3ubia3o" text="shoubiao">shǒubiǎo</pinyin><meanings><meaning xml:lang="en-US">wrist watch</meaning></meanings></word><word id="c414c025-9000-10d812801542" batch="5">
+			<character xml:lang="zh-Hans" page="179" position="7">千</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qia1n" text="qian">qiān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">thousand</meaning>
+			</meanings>
+		</word><word id="c458a519-a090-b058ffa411aa" batch="10">
+			<character xml:lang="zh-Hans" page="174" position="6">瓶</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pi2ng" text="ping">píng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">classifier for wine</meaning>
+				<meaning xml:lang="en-US">bottle</meaning>
+			</meanings>
+		</word><word id="c488a88a-bf00-da561f711851" batch="12">
+			<characters xml:lang="zh-Hans" pages="32,187" positions="4,3">出去</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="chu1qu4" text="chuqu">chūqù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to go out</meaning>
+			</meanings>
+		</word><word id="c406e227-41c0-1b11c960b000" batch="2">
+			<character xml:lang="zh-Hans" page="309" position="6">子</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zi3" text="zi">zǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Son</meaning>
+			</meanings>
+		</word><word id="c406e1eb-53e0-26f4261016f8" batch="2">
+			<character xml:lang="zh-Hans" page="149" position="2">妈</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma1" text="ma">mā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">mother</meaning>
+			</meanings>
+		</word><word id="c488ed0f-e500-8cf010c038c0" batch="13">
+			<characters xml:lang="zh-Hans" pages="55,208" positions="8,4">二手</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="e4rsho3u" text="ershou">èrshǒu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">second hand</meaning>
+			</meanings>
+		</word></day><day date="2011-02-27"><word id="c49af2f9-2b30-6a72e6667280" batch="16"><characters xml:lang="zh-Hans">马马虎虎</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma3ma3hu1hu1" text="mamahuhu">mǎmǎhūhū</pinyin><meanings><meaning xml:lang="en-US">so so lala</meaning><meaning xml:lang="en-US">careless</meaning></meanings></word><word id="c4aceab6-45a0-18b03d096ed0" batch="16"><characters xml:lang="zh-Hans">脖子</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="bo2zi" text="bozi">bózi</pinyin><meanings><meaning xml:lang="en-US">neck</meaning></meanings></word><word id="c4a1a639-4980-cb40cc0079b0" batch="16"><characters xml:lang="zh-Hans">打针</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="da3zhe1n" text="dazhen">dǎzhēn</pinyin><meanings><meaning xml:lang="en-US">to have an injection</meaning></meanings></word><word id="c42eccfb-78f0-14d010481eca" batch="7">
+			<characters xml:lang="zh-Hans" pages="8,181" positions="6,5">抱歉</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba4oqia4n" text="baoqian">bàoqiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to feel sorry</meaning>
+				<meaning xml:lang="en-US">sorry</meaning>
+			</meanings>
+		</word><word id="c446a80d-b1f0-da309e091390" batch="9">
+			<character xml:lang="zh-Hans" page="89" position="7">话</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="hua4" text="hua">huà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">dialect</meaning>
+			</meanings>
+		</word><word id="c48e66e2-7820-188b70ab8110" batch="15"><character xml:lang="zh-Hans" page="79" position="8">贵</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="gui4" text="gui">guì</pinyin><meanings><meaning xml:lang="en-US">expensive</meaning></meanings></word><word id="c49d3c1a-6200-82d013f013e0" batch="16"><characters xml:lang="zh-Hans">份儿</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fe4nr" text="fenr">fènr</pinyin><meanings><meaning xml:lang="en-US">degree</meaning><meaning xml:lang="en-US">portion</meaning><meaning xml:lang="en-US">alloted share</meaning></meanings></word><word id="c49d3c0f-d080-9f6991767060" batch="16"><characters xml:lang="zh-Hans">里面</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="li3mia4n" text="limian">lǐmiàn</pinyin><meanings><meaning xml:lang="en-US">inside (vs 外面)</meaning></meanings></word><word id="c49d39d2-ed20-a175c23026c0" batch="16"><characters xml:lang="zh-Hans">三明治</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="sa1nmi2ngzhi4" text="sanmingzhi">sānmíngzhì</pinyin><meanings><meaning xml:lang="en-US">sandwich</meaning></meanings></word><word id="c446a8b6-1430-15b054501350" batch="9">
+			<character xml:lang="zh-Hans" page="99" position="8">加</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1" text="jia">jiā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">plus</meaning>
+			</meanings>
+		</word><word id="c408dc81-9be0-17f998601bbc" batch="0">
+			<character xml:lang="zh-Hans" page="209" position="5">书</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shu1" text="shu">shū</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">write</meaning>
+				<meaning xml:lang="en-US">book</meaning>
+			</meanings>
+		</word><word id="c4acebbb-5fd0-13507e70eef0" batch="16"><character xml:lang="zh-Hans">汤</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ta1ng" text="tang">tāng</pinyin><meanings><meaning xml:lang="en-US">soup</meaning></meanings></word><word id="c406e4cb-8200-d81ede73a1e0" batch="2">
+			<character xml:lang="zh-Hans" page="17" position="7">不</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bu4" text="bu">bù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Used to form a negative</meaning>
+			</meanings>
+		</word><word id="c48e67fd-86c0-1e3b1ce04670" batch="15"><characters xml:lang="zh-Hans" pages="39,46" positions="5,1">打的</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="da3di1" text="dadi">dǎdī</pinyin><meanings><meaning xml:lang="en-US">to take a taxi</meaning></meanings></word><word id="c488ebd9-9a80-9c591e62ff40" batch="12">
+			<character xml:lang="zh-Hans" page="139" position="5">粱</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="lia2ng" text="liang">liáng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Surname Leung/Liang</meaning>
+			</meanings>
+		</word><word id="c405496e-1b20-3eb61ad21896" batch="1">
+			<character xml:lang="zh-Hans" page="109" position="3">教</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia4o" text="jiao">jiào</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Teach</meaning>
+				<meaning xml:lang="en-US">Instruct</meaning>
+			</meanings>
+		</word><word id="c40b1d0b-6ea0-645816c013fc" batch="0">
+			<characters xml:lang="zh-Hans" pages="161,55" positions="7,5">哪儿</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="na3r" text="nar">nǎr</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Where</meaning>
+			</meanings>
+		</word><word id="c49af32d-3f60-16e0f81d1f7f" batch="16"><characters xml:lang="zh-Hans">小费</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3ofe1i" text="xiaofei">xiǎofēi</pinyin><meanings><meaning xml:lang="en-US">tip</meaning></meanings></word><word id="c45a49e3-4380-1f315f57f7b0" batch="11">
+			<characters xml:lang="zh-Hans" pages="109,207" positions="3,7">教室</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia4oshi4" text="jiaoshi">jiàoshì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">classroom</meaning>
+			</meanings>
+		</word><word id="c49d3c08-6800-14f02f201800" batch="16"><characters xml:lang="zh-Hans">从前</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="co2ngqia3n" text="congqian">cóngqiǎn</pinyin><meanings><meaning xml:lang="en-US">previously</meaning><meaning xml:lang="en-US">"vroeger"</meaning></meanings></word></day><day date="2011-02-28"><word id="c41d7155-5220-1a6056f012e6" batch="6">
+			<characters xml:lang="zh-Hans" pages="39,100" positions="6,3">大家</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da4jia1" text="dajia">dàjiā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">everyone</meaning>
+				<meaning xml:lang="en-US">'great home'</meaning>
+			</meanings>
+		</word><word id="c4ace9a8-da90-1dc073901593" batch="16"><characters xml:lang="zh-Hans">苍白</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ca1ngba2i" text="cangbai">cāngbái</pinyin><meanings><meaning xml:lang="en-US">pale</meaning></meanings></word><word id="c4067234-4300-3c2811c91d59" batch="1">
+			<character xml:lang="zh-Hans" page="82" position="1">汉</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha4n" text="han">hàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Chinese</meaning>
+				<meaning xml:lang="en-US">Han dynasty</meaning>
+				<meaning xml:lang="en-US">Man</meaning>
+			</meanings>
+		</word><word id="c492ed13-7f80-ca30743ce410" batch="16"><characters xml:lang="zh-Hans">歌手</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ge1sho3u" text="geshou">gēshǒu</pinyin><meanings><meaning xml:lang="en-US">singer</meaning></meanings></word><word id="c4ace9bc-4a10-108054102300" batch="16"><characters xml:lang="zh-Hans">心悸</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi1nji4" text="xinji">xīnjì</pinyin><meanings><meaning xml:lang="en-US">heart palpatations</meaning></meanings></word><word id="c4069af2-34c0-7de470e01153" batch="2">
+			<character xml:lang="zh-Hans" page="136" position="4">丽</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="li4" text="li">lì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Beautiful</meaning>
+			</meanings>
+		</word><word id="c4acebc2-7d30-1c0b18661d95" batch="16"><character xml:lang="zh-Hans">堵</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="du3" text="du">dǔ</pinyin><meanings><meaning xml:lang="en-US">stop</meaning></meanings></word><word id="c42ed0ab-53a0-3140104a1272" batch="7">
+			<characters xml:lang="zh-Hans" pages="13,28,258" positions="2,8,5">编程序</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bia1nche2ngxu4" text="bianchengxu">biānchéngxù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to program + order (a programmer?)</meaning>
+			</meanings>
+		</word><word id="c4a1a541-a6f0-7d409c10a800" batch="16"><characters xml:lang="zh-Hans">发炎</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa1ya2n" text="fayan">fāyán</pinyin><meanings><meaning xml:lang="en-US">become inflamed (radiate heat)</meaning></meanings></word><word id="c408dbb6-e850-543e848da390" batch="2">
+			<characters xml:lang="zh-Hans" pages="65,183" positions="6,8">父亲</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="fu4 qi1n" text="fu qin">fù qīn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Father</meaning>
+			</meanings>
+		</word><word id="c43c48ed-aec0-1150fba09bd0" batch="7">
+			<characters xml:lang="zh-Hans" pages="82,122" positions="7,4">好看</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha3oka1n" text="haokan">hǎokān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">pretty, handsome</meaning>
+			</meanings>
+		</word><word id="c4ace98e-2b80-108baf101e64" batch="16"><characters xml:lang="zh-Hans">潮州</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="cha2ozho1u" text="chaozhou">cháozhōu</pinyin><meanings><meaning xml:lang="en-US">teochew</meaning></meanings></word><word id="c49d3930-0f30-e480f090176d" batch="16"><characters xml:lang="zh-Hans">分子</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fe4nzi3" text="fenzi">fènzǐ</pinyin><meanings><meaning xml:lang="en-US">molecule</meaning></meanings></word><word id="c4055243-4f20-1220ce9c196d" batch="1">
+			<character xml:lang="zh-Hans" page="239" position="7">我</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wo3" text="wo">wǒ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">I</meaning>
+				<meaning xml:lang="en-US">me</meaning>
+			</meanings>
+		</word><word id="c458a4ae-eaa0-15a0a13f1a8d" batch="10">
+			<character xml:lang="zh-Hans" page="210" position="7">属</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shu3" text="shu">shǔ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">born in the year of (animal)</meaning>
+			</meanings>
+		</word><word id="c43f43a2-bb80-1b50d260cc10" batch="8">
+			<characters xml:lang="zh-Hans" pages="256,45" positions="4,8">兄弟</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xio1ngdi4" text="xiongdi">xiōngdì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">brothers</meaning>
+			</meanings>
+		</word><word id="c4aced00-bfb0-ac10191f1a6e" batch="16"><characters xml:lang="zh-Hans">夫妇</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fu1fu4" text="fufu">fūfù</pinyin><meanings><meaning xml:lang="en-US">couple</meaning></meanings></word><word id="c4092fcd-6730-180014cb1a00" batch="0">
+			<character xml:lang="zh-Hans" page="125" position="8">口</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ko3u" text="kou">kǒu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">mouth</meaning>
+			</meanings>
+		</word><word id="c492ecd4-02f0-2aa05210c140" batch="16"><characters xml:lang="zh-Hans">练习</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="lia4nxi2" text="lianxi">liànxí</pinyin><meanings><meaning xml:lang="en-US">practice</meaning></meanings></word><word id="c45a4a9f-e5f0-63101bb04ae0" batch="11">
+			<characters xml:lang="zh-Hans">还是</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha2ishi4" text="haishi">háishì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">or (makes a question)</meaning>
+				<meaning xml:lang="en-US"/>
+			</meanings>
+		</word></day><day date="2011-03-01"><word id="c40547dd-60d0-bed117f01e15" batch="1">
+			<character xml:lang="zh-Hans" page="285" position="3">云</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yu2n" text="yun">yún</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Cloud</meaning>
+			</meanings>
+		</word><word id="c406e2f1-49c0-1360153860c0" batch="2">
+			<character xml:lang="zh-Hans" page="154" position="5">是</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shi4" text="shi">shì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">To be (a noun)</meaning>
+				<meaning xml:lang="en-US">To exist</meaning>
+			</meanings>
+		</word><word id="c4acebd7-d060-a9c9a93096d0" batch="16"><characters xml:lang="zh-Hans">正常</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhe1ngcha2ng" text="zhengchang">zhēngcháng</pinyin><meanings><meaning xml:lang="en-US">normal</meaning></meanings></word><word id="c4ace9b1-a4e0-c0631706d860" batch="16"><characters xml:lang="zh-Hans">呕吐</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="o3utu4" text="outu">ǒutù</pinyin><meanings><meaning xml:lang="en-US">vomit</meaning></meanings></word><word id="c41d739b-b5c0-1f32140a1fda" batch="6">
+			<characters xml:lang="zh-Hans" pages="185,313" positions="5,2">请坐</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qi3ngzuo4" text="qingzuo">qǐngzuò</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">please sit</meaning>
+			</meanings>
+		</word><word id="c48c7771-09a0-17a7aa0a1299" batch="14"><characters xml:lang="zh-Hans" pages="213,84" positions="7,7">说好</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="shuo1ha3o" text="shuohao">shuōhǎo</pinyin><meanings><meaning xml:lang="en-US">agree</meaning><meaning xml:lang="en-US">decide</meaning></meanings></word><word id="c42ecf95-6a30-6bb0147055d0" batch="7">
+			<characters xml:lang="zh-Hans" pages="239,225" positions="4,4">问题</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="we4nti2" text="wenti">wèntí</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">a question</meaning>
+			</meanings>
+		</word><word id="c48d244b-fc50-16b03fa012b9" batch="14"><character xml:lang="zh-Hans" page="6" position="2">半</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba4n" text="ban">bàn</pinyin><meanings><meaning xml:lang="en-US">half</meaning><meaning xml:lang="en-US">and a half</meaning></meanings></word><word id="c4aceab3-aea0-c7621d64d0a0" batch="16"><characters xml:lang="zh-Hans">劲儿</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ji4nr" text="jinr">jìnr</pinyin><meanings><meaning xml:lang="en-US">vigor</meaning></meanings></word><word id="c4a1a520-1060-173015c81242" batch="16"><character xml:lang="zh-Hans">全</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="qua2n" text="quan">quán</pinyin><meanings><meaning xml:lang="en-US">all (over/of)</meaning></meanings></word><word id="c43c47a2-a580-67c0b7d01109" batch="7">
+			<characters xml:lang="zh-Hans" pages="227,231,81" positions="7,7,1">听说过</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ti1ngshuo1guo4" text="tingshuoguo">tīngshuōguò</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">be told, have once heard</meaning>
+			</meanings>
+		</word><word id="c4aceb9e-5770-f61f3680f110" batch="16"><character xml:lang="zh-Hans">碗</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa3n" text="wan">wǎn</pinyin><meanings><meaning xml:lang="en-US">bowl</meaning></meanings></word><word id="c488edb8-6490-13c062ecb180" batch="13">
+			<characters xml:lang="zh-Hans" pages="124,125" positions="2,8">可口</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ke3kou" text="kekou">kěkou</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">tasty</meaning>
+			</meanings>
+		</word><word id="c48c7785-3790-961118208fd0" batch="14"><characters xml:lang="zh-Hans" pages="46,89" positions="8,7">电话</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="dia4nhua4" text="dianhua">diànhuà</pinyin><meanings><meaning xml:lang="en-US">a call</meaning></meanings></word><word id="c42ecded-68c0-14c035001e42" batch="7">
+			<characters xml:lang="zh-Hans" pages="46,207" positions="8,3">电视</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="dia4nshi4" text="dianshi">diànshì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">television</meaning>
+			</meanings>
+		</word><word id="c4acec01-f870-7ea060d07f60" batch="16"><character xml:lang="zh-Hans">放</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa4ng" text="fang">fàng</pinyin><meanings><meaning xml:lang="en-US">put into</meaning></meanings></word><word id="c4a1a60d-6710-ce80119de9d0" batch="16"><character xml:lang="zh-Hans">药</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya4o" text="yao">yào</pinyin><meanings><meaning xml:lang="en-US">medicine</meaning></meanings></word><word id="c4a1a5f3-36a0-9f3e18401f37" batch="16"><characters xml:lang="zh-Hans">住院</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhu4yua4n" text="zhuyuan">zhùyuàn</pinyin><meanings><meaning xml:lang="en-US">to be in the hospital</meaning></meanings></word><word id="c49af2a2-4b20-9dd01db71d3f" batch="16"><characters xml:lang="zh-Hans">进行</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ji4nxi2ng" text="jinxing">jìnxíng</pinyin><meanings><meaning xml:lang="en-US">to conduct</meaning></meanings></word><word id="c488a930-df50-ab80d9601f75" batch="12">
+			<characters xml:lang="zh-Hans" pages="75,46" positions="8,6">古典</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="gu3dia3n" text="gudian">gǔdiǎn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">classic</meaning>
+			</meanings>
+		</word></day><day date="2011-03-02"><word id="c446a926-59b0-18da17b01f3c" batch="9">
+			<character xml:lang="zh-Hans" page="293" position="8">找</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zha3o" text="zhao">zhǎo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">search</meaning>
+			</meanings>
+		</word><word id="c488ee1c-d340-12f01aa0fb00" batch="13">
+			<characters xml:lang="zh-Hans" pages="273,236" positions="8,5">因为</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1nwe2i" text="yinwei">yīnwéi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">because</meaning>
+			</meanings>
+		</word><word id="c48d2430-22d0-1e3113001081" batch="14"><character xml:lang="zh-Hans" page="262" position="1">牙</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya2" text="ya">yá</pinyin><meanings><meaning xml:lang="en-US">tooth</meaning><meaning xml:lang="en-US">ivory</meaning></meanings></word><word id="c4acec67-a350-1bc0cd9ee390" batch="16"><characters xml:lang="zh-Hans">劣等食物</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="lie4de3ngshi4wu4" text="liedengshiwu">lièděngshìwù</pinyin><meanings><meaning xml:lang="en-US">bad food</meaning><meaning xml:lang="en-US">inferior food</meaning></meanings></word><word id="c49d3972-a660-80a01e201137" batch="16"><characters xml:lang="zh-Hans">同意</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="to2ngyi4" text="tongyi">tóngyì</pinyin><meanings><meaning xml:lang="en-US">agree</meaning></meanings></word><word id="c42ecd20-dac0-575d180010b6" batch="7">
+			<characters xml:lang="zh-Hans" pages="125,167" positions="7,7">恐怕</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ko3ngpa4" text="kongpa">kǒngpà</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to be afraid that</meaning>
+				<meaning xml:lang="en-US">perhaps</meaning>
+			</meanings>
+		</word><word id="c40b1c62-2c50-c3508c186ea0" batch="0">
+			<characters xml:lang="zh-Hans" pages="154,154" positions="2,2">妹妹</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="me4imei" text="meimei">mèimei</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Younger sister</meaning>
+			</meanings>
+		</word><word id="c488a94d-1b70-1750cc6d1183" batch="12">
+			<characters xml:lang="zh-Hans" pages="143,255" positions="5,3">流行</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="liu2xi2ng" text="liuxing">liúxíng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">popular</meaning>
+				<meaning xml:lang="en-US">fashionable</meaning>
+			</meanings>
+		</word><word id="c43c497d-31a0-1d001e501dc1" batch="7">
+			<character xml:lang="zh-Hans" page="306" position="2">住</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhu4" text="zhu">zhù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to live</meaning>
+				<meaning xml:lang="en-US">to remain</meaning>
+			</meanings>
+		</word><word id="c41d74b6-0650-15e0183014cf" batch="6">
+			<character xml:lang="zh-Hans" page="234" position="6">晚</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa3n" text="wan">wǎn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">late</meaning>
+				<meaning xml:lang="en-US">too late</meaning>
+				<meaning xml:lang="en-US">be late</meaning>
+			</meanings>
+		</word><word id="c492ecca-2570-2ba819506010" batch="16"><character xml:lang="zh-Hans" page="36" position="1">词</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ci2" text="ci">cí</pinyin><meanings><meaning xml:lang="en-US">sentence</meaning><meaning xml:lang="en-US">word</meaning></meanings></word><word id="c41d7139-2b00-11327a84b230" batch="6">
+			<character xml:lang="zh-Hans" page="161" position="6">拿</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="na2" text="na">ná</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">hold</meaning>
+				<meaning xml:lang="en-US">take</meaning>
+				<meaning xml:lang="en-US">bring</meaning>
+			</meanings>
+		</word><word id="c458a508-a440-16c198e0189e" batch="10">
+			<character xml:lang="zh-Hans" page="150" position="2">买</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma3i" text="mai">mǎi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">buy</meaning>
+			</meanings>
+		</word><word id="c41d745c-a000-14201370aa00" batch="6">
+			<character xml:lang="zh-Hans" page="153" position="3">没</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="me2i" text="mei">méi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">No (used with certain verbs, such as with 没有)</meaning>
+			</meanings>
+		</word><word id="c42ece26-c570-14101d3e4a00" batch="7">
+			<characters xml:lang="zh-Hans" pages="184,33" positions="8,3">清楚</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qi1ngchu" text="qingchu">qīngchu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">clear</meaning>
+				<meaning xml:lang="en-US">clearly understood</meaning>
+			</meanings>
+		</word><word id="c43c4c73-b600-1c601100a9f0" batch="7">
+			<characters xml:lang="zh-Hans" pages="109,209" positions="3,5">教书</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia4oshu1" text="jiaoshu">jiàoshū</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to teach (in a school)</meaning>
+			</meanings>
+		</word><word id="c45a499a-4b10-19a01f7b1e71" batch="11">
+			<character xml:lang="zh-Hans" page="198" position="2">上</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha4ng" text="shang">shàng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">above</meaning>
+				<meaning xml:lang="en-US">previous</meaning>
+				<meaning xml:lang="en-US">last</meaning>
+				<meaning xml:lang="en-US">on, on top</meaning>
+			</meanings>
+		</word><word id="c49d3946-f430-19c01f896850" batch="16"><characters xml:lang="zh-Hans">发送</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa1so4ng" text="fasong">fāsòng</pinyin><meanings><meaning xml:lang="en-US">transmit, send</meaning></meanings></word><word id="c492ec55-8260-1edc736d11a8" batch="16"><characters xml:lang="zh-Hans">麻烦</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma2fan" text="mafan">máfan</pinyin><meanings><meaning xml:lang="en-US">trouble</meaning></meanings></word><word id="c4092fc5-4c30-1fd085118b40" batch="0">
+			<characters xml:lang="zh-Hans" pages="70,70" positions="7,7">哥哥</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ge1ge" text="gege">gēge</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">older brother</meaning>
+			</meanings>
+		</word></day><day date="2011-03-03"><word id="c4092fe5-f200-1a805dc3b000" batch="0">
+			<character xml:lang="zh-Hans" page="200" position="5">谁</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="she2i" text="shei">shéi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Who, Whom</meaning>
+			</meanings>
+		</word><word id="c406e332-1510-671a64201ada" batch="7">
+			<character xml:lang="zh-Hans" page="237" position="8">位</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="we4i" text="wei">wèi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">measure word for titles, more specific than 个</meaning>
+			</meanings>
+		</word><word id="c48e724d-14c0-b8df148e1014" batch="15"><characters xml:lang="zh-Hans" pages="218,166,55" positions="4,8,5">孙女儿</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="su1nnv3r" text="sunnvr">sūnnǚr</pinyin><meanings><meaning xml:lang="en-US">grandaughter on son's side</meaning></meanings></word><word id="c4a1a551-c4f0-8af8c550d4c0" batch="16"><characters xml:lang="zh-Hans">中药</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zho1ngya4o" text="zhongyao">zhōngyào</pinyin><meanings><meaning xml:lang="en-US">Chinese Medicine</meaning></meanings></word><word id="c414c329-c5b0-12901c101fae" batch="5">
+			<characters xml:lang="zh-Hans" pages="113,130" positions="3,7">进来</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ji4nlai" text="jinlai">jìnlai</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to come in</meaning>
+			</meanings>
+		</word><word id="c45a4aef-d7b0-2372cb95138f" batch="11">
+			<characters xml:lang="zh-Hans" pages="122,103" positions="4,6">看见</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka4njia4n" text="kanjian">kànjiàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to remark, to notice</meaning>
+			</meanings>
+		</word><word id="c405f076-1f00-11405bd71aff" batch="1">
+			<character xml:lang="zh-Hans" page="269" position="8">一</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1" text="yi">yī</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">One</meaning>
+			</meanings>
+		</word><word id="c48d2488-b020-180016301688" batch="14"><characters xml:lang="zh-Hans" pages="...,309" positions="...,6">橙子</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="che2ngzi" text="chengzi">chéngzi</pinyin><meanings><meaning xml:lang="en-US">orange (fruit)</meaning></meanings></word><word id="c49d3bc4-c4e0-150012e82fe0" batch="16"><characters xml:lang="zh-Hans">网吧</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa3ngba" text="wangba">wǎngba</pinyin><meanings><meaning xml:lang="en-US">Internet Cafe</meaning></meanings></word><word id="c43c4a46-9440-13af1ad08d90" batch="7">
+			<characters xml:lang="zh-Hans" pages="10,130" positions="4,7">本来</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="be3nla2i" text="benlai">běnlái</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">original</meaning>
+				<meaning xml:lang="en-US">originally</meaning>
+			</meanings>
+		</word><word id="c48d26a6-4cf0-1e4015d01b18" batch="14"><characters xml:lang="zh-Hans" pages="151,151,316" positions="4,4,8">慢慢走</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma4nma4nzo3u" text="manmanzou">mànmànzǒu</pinyin><meanings><meaning xml:lang="en-US">safe trip (home) (walk slowly)</meaning></meanings></word><word id="c492ece7-d780-cdc014301d31" batch="16"><characters xml:lang="zh-Hans">学会</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xue2hui4" text="xuehui">xuéhuì</pinyin><meanings><meaning xml:lang="en-US">to learn</meaning></meanings></word><word id="c48c76b4-2400-d4ab1c224a20" batch="14"><characters xml:lang="zh-Hans" pages="103,80" positions="6,6">法国</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fa2guo1" text="faguo">fáguō</pinyin><meanings><meaning xml:lang="en-US">France</meaning></meanings></word><word id="c4acec8f-63f0-1070107b1890" batch="16"><characters xml:lang="zh-Hans">按摩</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="a4nmo2" text="anmo">ànmó</pinyin><meanings><meaning xml:lang="en-US">massage</meaning></meanings></word><word id="c43f42c3-9030-de06721018d3" batch="8">
+			<characters xml:lang="zh-Hans" pages="127,1" positions="2,7">可爱</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ke3'a4i" text="ke'ai">kě'ài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">cute</meaning>
+				<meaning xml:lang="en-US">worth loving"</meaning>
+			</meanings>
+		</word><word id="c488a8be-86b0-144e8058148b" batch="12">
+			<character xml:lang="zh-Hans" page="312" position="2">最</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zui4" text="zui">zuì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">most</meaning>
+				<meaning xml:lang="en-US">最好: best</meaning>
+			</meanings>
+		</word><word id="c48d26e3-6ad0-00d01a241800" batch="14"><characters xml:lang="zh-Hans" pages="251,213" positions="4,7">小说</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3oxhuo1" text="xiaoxhuo">xiǎoxhuō</pinyin><meanings><meaning xml:lang="en-US">novel</meaning></meanings></word><word id="c458a537-5740-1d00aa901d39" batch="10">
+			<characters xml:lang="zh-Hans" pages="127,133" positions="6,5">快乐</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="kua4ile4" text="kuaile">kuàilè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">happy</meaning>
+			</meanings>
+		</word><word id="c43c4941-c560-b9f01bf166e0" batch="7">
+			<character xml:lang="zh-Hans" page="29" position="3">吃</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="chi1" text="chi">chī</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">eat</meaning>
+				<meaning xml:lang="en-US">to have a meal</meaning>
+			</meanings>
+		</word><word id="c48c77b5-7b40-157013bfd1e0" batch="14"><characters xml:lang="zh-Hans" pages="164,184,190" positions="5,6,7">年轻人</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="nia2nqi1ngre2n" text="nianqingren">niánqīngrén</pinyin><meanings><meaning xml:lang="en-US">young people</meaning></meanings></word></day><day date="2011-03-04"><word id="c488ec08-e2b0-173c1b631844" batch="13">
+			<characters xml:lang="zh-Hans" pages="99,278,292" positions="8,5,4">加油站</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1yo2uzha4n" text="jiayouzhan">jiāyóuzhàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">gas station</meaning>
+			</meanings>
+		</word><word id="c48c7804-1160-1c9311242900" batch="14"><characters xml:lang="zh-Hans" pages="174,80" positions="4,7">苹果</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="pi2ngguo3" text="pingguo">píngguǒ</pinyin><meanings><meaning xml:lang="en-US">apple</meaning></meanings></word><word id="c4ace9a5-dc80-10a0164047d0" batch="16"><characters xml:lang="zh-Hans">脸色</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="lia3nse4" text="lianse">liǎnsè</pinyin><meanings><meaning xml:lang="en-US">look</meaning><meaning xml:lang="en-US">appearance</meaning></meanings></word><word id="c4acebbe-93c0-1430a00024a0" batch="16"><characters xml:lang="zh-Hans">耳朵</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="e3rduo" text="erduo">ěrduo</pinyin><meanings><meaning xml:lang="en-US">ear</meaning></meanings></word><word id="c488a962-5970-18c01e805800" batch="12">
+			<characters xml:lang="zh-Hans" pages="209,101" positions="5,1">书架</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="shu1jia4" text="shujia">shūjià</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">bookshelf</meaning>
+				<meaning xml:lang="en-US">shelf</meaning>
+			</meanings>
+		</word><word id="c48d263f-7290-1b00995111d0" batch="14"><character xml:lang="zh-Hans" page="298" position="5">汁</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhi1" text="zhi">zhī</pinyin><meanings><meaning xml:lang="en-US">juice</meaning></meanings></word><word id="c492ecbf-5390-1fd217db19e7" batch="16"><characters xml:lang="zh-Hans">免费</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="mia3nfe4i" text="mianfei">miǎnfèi</pinyin><meanings><meaning xml:lang="en-US">free</meaning></meanings></word><word id="c4a1a627-5c10-1b6011a0180a" batch="16"><characters xml:lang="zh-Hans">化验</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="hua4ya4n" text="huayan">huàyàn</pinyin><meanings><meaning xml:lang="en-US">to have a medical test</meaning></meanings></word><word id="c42eceee-96c0-9f90a7e7c140" batch="7">
+			<characters xml:lang="zh-Hans" pages="307,269" positions="3,3">专业</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhua1nye4" text="zhuanye">zhuānyè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">major</meaning>
+			</meanings>
+		</word><word id="c43f441c-39d0-19c01d709590" batch="8">
+			<characters xml:lang="zh-Hans" pages="55,309" positions="5,6">儿子</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="e2rzi" text="erzi">érzi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">son</meaning>
+			</meanings>
+		</word><word id="c48c782d-b730-142830201478" batch="14"><characters xml:lang="zh-Hans" pages="269,93,55" positions="8,2,5">一会儿</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1hui4r" text="yihuir">yīhuìr</pinyin><meanings><meaning xml:lang="en-US">a while</meaning></meanings></word><word id="c48e67e7-3670-135bff50127a" batch="15"><characters xml:lang="zh-Hans" pages="92,39" positions="6,4">回答</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="hui2da2" text="huida">huídá</pinyin><meanings><meaning xml:lang="en-US">to answer</meaning></meanings></word><word id="c488ed75-fde0-5e76ec401a4d" batch="13">
+			<character xml:lang="zh-Hans" page="13" position="6">便</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bia4n" text="bian">biàn</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">ordinary</meaning>
+			</meanings>
+		</word><word id="c406e468-5f00-10e016001d88" batch="2">
+			<character xml:lang="zh-Hans" page="286" position="6">再</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="za4i" text="zai">zài</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Again</meaning>
+				<meaning xml:lang="en-US">Once more</meaning>
+			</meanings>
+		</word><word id="c4092fdf-9cc0-a27112623df0" batch="0">
+			<character xml:lang="zh-Hans" page="190" position="7">人</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="re2n" text="ren">rén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Person</meaning>
+				<meaning xml:lang="en-US">People</meaning>
+			</meanings>
+		</word><word id="c4a1a622-a5a0-1d60b1a4dfb0" batch="16"><characters xml:lang="zh-Hans">开刀</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka1ida1o" text="kaidao">kāidāo</pinyin><meanings><meaning xml:lang="en-US">to have an operation</meaning></meanings></word><word id="c48d2413-f880-100c16e01a81" batch="14"><characters xml:lang="zh-Hans" pages="134,309" positions="8,6">梨子</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="li2zi" text="lizi">lízi</pinyin><meanings><meaning xml:lang="en-US">pear</meaning></meanings></word><word id="c40fd55c-3840-10e0da40a0d0" batch="5">
+			<character xml:lang="zh-Hans" page="275" position="2">英</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi1ng" text="ying">yīng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Brave</meaning>
+				<meaning xml:lang="en-US">Brittain (英国)</meaning>
+			</meanings>
+		</word><word id="c48c785e-9120-1d9419fd9f70" batch="14"><characters xml:lang="zh-Hans" pages="176,224" positions="2,2">葡萄</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="pu2tao" text="putao">pútao</pinyin><meanings><meaning xml:lang="en-US">grape</meaning></meanings></word><word id="c43c48ad-7980-1bb01cb0d6b0" batch="7">
+			<characters xml:lang="zh-Hans" pages="81,309" positions="3,7">孩子</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha2izi" text="haizi">háizi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">child </meaning>
+				<meaning xml:lang="en-US">男孩子 (boy)</meaning>
+				<meaning xml:lang="en-US">女孩子 (girl)</meaning>
+			</meanings>
+		</word></day><day date="2011-03-05"><word id="c4a1a50f-3670-a05b1cc02680" batch="16"><character xml:lang="zh-Hans">疼</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="te2ng" text="teng">téng</pinyin><meanings><meaning xml:lang="en-US">painful</meaning></meanings></word><word id="c4acec88-1df0-143db0b012a7" batch="16"><character xml:lang="zh-Hans">觉</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="jue2" text="jue">jué</pinyin><meanings><meaning xml:lang="en-US">feel</meaning></meanings></word><word id="c4a1a55d-a660-1a007e70129a" batch="16"><characters xml:lang="zh-Hans">西药</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi1ya4o" text="xiyao">xīyào</pinyin><meanings><meaning xml:lang="en-US">Western medicine</meaning></meanings></word><word id="c4aced27-d3a0-8b122d8113fb" batch="16"><characters xml:lang="zh-Hans">食物</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="shi2wu4" text="shiwu">shíwù</pinyin><meanings><meaning xml:lang="en-US">food</meaning></meanings></word><word id="c45a4a71-8a70-1dbf1d73114f" batch="11">
+			<character xml:lang="zh-Hans" page="163" position="7">能</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ne2ng" text="neng">néng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">can</meaning>
+				<meaning xml:lang="en-US">may</meaning>
+			</meanings>
+		</word><word id="c404ffcd-2360-18c0df8a181c" batch="1">
+			<character xml:lang="zh-Hans" page="164" position="3">你</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ni3" text="ni">nǐ</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">you</meaning>
+				<meaning xml:lang="en-US">your</meaning>
+			</meanings>
+		</word><word id="c4ace9c9-a510-1ae22b20a800" batch="16"><character xml:lang="zh-Hans">夜</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ye4" text="ye">yè</pinyin><meanings><meaning xml:lang="en-US">night</meaning></meanings></word><word id="c404ff06-1be0-10301a809340" batch="1">
+			<character xml:lang="zh-Hans" page="133" position="2">老</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="la3o" text="lao">lǎo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Old</meaning>
+				<meaning xml:lang="en-US">Aged</meaning>
+			</meanings>
+		</word><word id="c49d3b7f-85b0-a99211cec770" batch="16"><characters xml:lang="zh-Hans">说明</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="shuo1mi2ng" text="shuoming">shuōmíng</pinyin><meanings><meaning xml:lang="en-US">explain</meaning></meanings></word><word id="c488ede9-c1f0-19f0f2301f36" batch="13">
+			<characters xml:lang="zh-Hans" pages="10,304" positions="4,6">本子</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="be3nzi" text="benzi">běnzi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">notebook</meaning>
+			</meanings>
+		</word><word id="c405f0b6-9730-6989e8e02850" batch="1">
+			<character xml:lang="zh-Hans" page="154" position="3">门</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="me2n" text="men">mén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Door</meaning>
+			</meanings>
+		</word><word id="c4acecfd-a2b0-1a0056b01647" batch="16"><characters xml:lang="zh-Hans">便饭</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="bia4nfa4n" text="bianfan">biànfàn</pinyin><meanings><meaning xml:lang="en-US">potluck</meaning></meanings></word><word id="c48e6807-db00-be8c1929fd00" batch="15"><character xml:lang="zh-Hans" page="14" position="4">表</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="bia3o" text="biao">biǎo</pinyin><meanings><meaning xml:lang="en-US">watch</meaning></meanings></word><word id="c4aceb98-4870-896016d91ecb" batch="16"><characters xml:lang="zh-Hans">脉搏</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma4ibo2" text="maibo">màibó</pinyin><meanings><meaning xml:lang="en-US">pulse</meaning></meanings></word><word id="c4a1a62a-6a10-1e90e7401666" batch="16"><character xml:lang="zh-Hans">血</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xie3" text="xie">xiě</pinyin><meanings><meaning xml:lang="en-US">blood</meaning></meanings></word><word id="c4a1a566-f470-35bc1cd11f10" batch="16"><characters xml:lang="zh-Hans">愿意</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="yua4nyi4" text="yuanyi">yuànyì</pinyin><meanings><meaning xml:lang="en-US">want</meaning><meaning xml:lang="en-US">be prepared to</meaning><meaning xml:lang="en-US">feel like doing</meaning><meaning xml:lang="en-US">feel in for</meaning></meanings></word><word id="c4a1a631-7380-fb4c1e00b230" batch="16"><characters xml:lang="zh-Hans">大便</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="da4bia4n" text="dabian">dàbiàn</pinyin><meanings><meaning xml:lang="en-US">stool</meaning></meanings></word><word id="c4acec34-f820-12001750dbf0" batch="16"><characters xml:lang="zh-Hans">快菜</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="kua4ica1i" text="kuaicai">kuàicāi</pinyin><meanings><meaning xml:lang="en-US">fast food</meaning></meanings></word><word id="c45a487d-cb00-12121a80ff70" batch="11">
+			<characters xml:lang="zh-Hans" pages="6,73,207" positions="1,3,7">办公室</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba4ngo1ngshi4" text="bangongshi">bàngōngshì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">office</meaning>
+				<meaning xml:lang="en-US">manage|common|space</meaning>
+			</meanings>
+		</word><word id="c48e679d-fe10-102716e0190e" batch="15"><characters xml:lang="zh-Hans" pages="178,34" positions="6,6">起床</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="qi3chua2ng" text="qichuang">qǐchuáng</pinyin><meanings><meaning xml:lang="en-US">to get up</meaning></meanings></word></day><day date="2011-03-06"><word id="c48d240b-44f0-91e05d40164e" batch="14"><characters xml:lang="zh-Hans" pages="137,309" positions="1,6">栗子</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="li4zi" text="lizi">lìzi</pinyin><meanings><meaning xml:lang="en-US">chestnut</meaning></meanings></word><word id="c4aceba4-7070-16cb11fb45c0" batch="16"><characters xml:lang="zh-Hans">西红柿</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="x1ho2ngshi4" text="xhongshi">x1hóngshì</pinyin><meanings><meaning xml:lang="en-US">tomatoe</meaning></meanings></word><word id="c406e5c0-f180-8b60b0f01760" batch="2">
+			<character xml:lang="zh-Hans" page="51" position="2">都</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="do1u" text="dou">dōu</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Both</meaning>
+				<meaning xml:lang="en-US">All</meaning>
+			</meanings>
+		</word><word id="c4acecb1-48e0-aa511da2179c" batch="16"><characters xml:lang="zh-Hans">从不</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="co2ngbu4" text="congbu">cóngbù</pinyin><meanings><meaning xml:lang="en-US">never</meaning></meanings></word><word id="c43f4228-bd70-11757b814d30" batch="8">
+			<character xml:lang="zh-Hans" page="295" position="8">真</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhe2n" text="zhen">zhén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">real</meaning>
+				<meaning xml:lang="en-US">really</meaning>
+			</meanings>
+		</word><word id="c492ed02-c010-2c00e0e41255" batch="16"><character xml:lang="zh-Hans">剧</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ju4" text="ju">jù</pinyin><meanings><meaning xml:lang="en-US">opera</meaning><meaning xml:lang="en-US">play</meaning><meaning xml:lang="en-US">drama</meaning></meanings></word><word id="c49af2d2-6980-6fd073b118d5" batch="16"><character xml:lang="zh-Hans">迷</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="mi2" text="mi">mí</pinyin><meanings><meaning xml:lang="en-US">crazy about</meaning><meaning xml:lang="en-US">fan</meaning><meaning xml:lang="en-US">lost</meaning></meanings></word><word id="c4acec93-4f70-18c91d681242" batch="16"><character xml:lang="zh-Hans">片</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="pia1n" text="pian">piān</pinyin><meanings><meaning xml:lang="en-US">slice/card</meaning></meanings></word><word id="c458a4c0-a4c0-124f4b77f390" batch="10">
+			<characters xml:lang="zh-Hans" pages="119,93" positions="8,2">聚会</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ju4hui4" text="juhui">jùhuì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">meeting</meaning>
+			</meanings>
+		</word><word id="c4aceb2a-b070-6d906a501c5a" batch="16"><characters xml:lang="zh-Hans">症状</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhe1ngzhua4ng" text="zhengzhuang">zhēngzhuàng</pinyin><meanings><meaning xml:lang="en-US">symptoms</meaning></meanings></word><word id="c48e6705-9030-177856f0dba0" batch="15"><character xml:lang="zh-Hans" page="283" position="1">元</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="yua2n" text="yuan">yuán</pinyin><meanings><meaning xml:lang="en-US">money (used in written form)</meaning></meanings></word><word id="c43c4c17-fb00-f1c0503724b0" batch="7">
+			<characters xml:lang="zh-Hans" pages="198,124" positions="2,7">上课</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha4ngke4" text="shangke">shàngkè</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to attend class</meaning>
+			</meanings>
+		</word><word id="c492ed10-1590-61131c201b93" batch="16"><characters xml:lang="zh-Hans">歌唱家</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ge1cha4ngjia1" text="gechangjia">gēchàngjiā</pinyin><meanings><meaning xml:lang="en-US">singer</meaning></meanings></word><word id="c458a4a0-8690-bd40614c6750" batch="10">
+			<character xml:lang="zh-Hans" page="32" position="4">出</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="chu1" text="chu">chū</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to go out</meaning>
+			</meanings>
+		</word><word id="c488ed67-3950-29941919189b" batch="13">
+			<character xml:lang="zh-Hans" page="44" position="6">等</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="de3ng" text="deng">děng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to wait</meaning>
+			</meanings>
+		</word><word id="c4aceb23-6b00-15ab30d0ca90" batch="16"><characters xml:lang="zh-Hans">见面</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1nmia4n" text="jianmian">jiānmiàn</pinyin><meanings><meaning xml:lang="en-US">meet</meaning></meanings></word><word id="c488ee00-18b0-613057201145" batch="13">
+			<characters xml:lang="zh-Hans" pages="233,156" positions="6,8">外面</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa4imian" text="waimian">wàimian</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">outside</meaning>
+			</meanings>
+		</word><word id="c488ebe8-0da0-1d4617aad840" batch="13">
+			<characters xml:lang="zh-Hans" pages="197,190" positions="7,7">商人</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha1ngre2n" text="shangren">shāngrén</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">business</meaning>
+			</meanings>
+		</word><word id="c48e6718-77c0-fb8d1b001bd9" batch="15"><character xml:lang="zh-Hans" page="61" position="4">份</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fe4n" text="fen">fèn</pinyin><meanings><meaning xml:lang="en-US">measure word for newspapers and publications</meaning></meanings></word><word id="c4054933-67c0-c3e4c1dd1281" batch="1">
+			<character xml:lang="zh-Hans" page="292" position="5">张</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zha1ng" text="zhang">zhāng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Surname Zhāng</meaning>
+			</meanings>
+		</word></day><day date="2011-03-07"><word id="c4acead5-90b0-16d83690d9d0" batch="16"><characters xml:lang="zh-Hans">僵硬</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia1ngyi4ng" text="jiangying">jiāngyìng</pinyin><meanings><meaning xml:lang="en-US">stiff</meaning></meanings></word><word id="c4a1a57e-b5f0-4e401eb66350" batch="16"><characters xml:lang="zh-Hans">状况</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhua4ngkua4ng" text="zhuangkuang">zhuàngkuàng</pinyin><meanings><meaning xml:lang="en-US">health situation</meaning></meanings></word><word id="c49af2da-a020-1b701e601bb0" batch="16"><character xml:lang="zh-Hans">班</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba1n" text="ban">bān</pinyin><meanings><meaning xml:lang="en-US">class</meaning></meanings></word><word id="c406e1ff-0960-abc0185711b0" batch="2">
+			<character xml:lang="zh-Hans" page="219" position="5">她</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ta1" text="ta">tā</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">She, Her, Hers</meaning>
+			</meanings>
+		</word><word id="c40fd69c-15e0-1640c2601fae" batch="0">
+			<character xml:lang="zh-Hans">中</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zho1ng" text="zhong">zhōng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">center</meaning>
+				<meaning xml:lang="en-US">China (中国)</meaning>
+			</meanings>
+		</word><word id="c4066f8e-2930-19c5b9d476d0" batch="1">
+			<character xml:lang="zh-Hans" page="55" position="8">二</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="e4r" text="er">èr</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Two</meaning>
+			</meanings>
+		</word><word id="c405478b-d8e0-1ca011ae32a0" batch="1">
+			<character xml:lang="zh-Hans" page="235" position="3">王</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa2ng" text="wang">wáng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">King</meaning>
+				<meaning xml:lang="en-US">Prince</meaning>
+			</meanings>
+		</word><word id="c4a1a61d-1f70-139a779c4020" batch="16"><characters xml:lang="zh-Hans">肚子</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="du4zi" text="duzi">dùzi</pinyin><meanings><meaning xml:lang="en-US">stomach</meaning></meanings></word><word id="c49d3955-42f0-c6d01d6112f2" batch="16"><characters xml:lang="zh-Hans">非常</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fe1icha2ng" text="feichang">fēicháng</pinyin><meanings><meaning xml:lang="en-US">unusual</meaning></meanings></word><word id="c48e66fc-02c0-13401b4010e4" batch="15"><characters xml:lang="zh-Hans" pages="293,180" positions="8,6">找钱</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zha3oqia2n" text="zhaoqian">zhǎoqián</pinyin><meanings><meaning xml:lang="en-US">to give change</meaning><meaning xml:lang="en-US">to make/find change</meaning></meanings></word><word id="c4a1a5c6-8590-21ef1d806660" batch="16"><characters xml:lang="zh-Hans">舒服</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="shu1fu" text="shufu">shūfu</pinyin><meanings><meaning xml:lang="en-US">comfortable</meaning></meanings></word><word id="c48d24a5-3290-1c5010f61727" batch="14"><characters xml:lang="zh-Hans" pages="24,208" positions="2,7">长寿</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="cha2ngsho4u" text="changshou">chángshòu</pinyin><meanings><meaning xml:lang="en-US">longevity</meaning></meanings></word><word id="c458a53e-8b40-10b610968390" batch="10">
+			<characters xml:lang="zh-Hans" pages="173,139" positions="2,7">漂亮</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pia4oliang" text="piaoliang">piàoliang</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">pretty</meaning>
+			</meanings>
+		</word><word id="c492ecba-2310-d9701840168e" batch="16"><character xml:lang="zh-Hans" page="7" position="3">棒</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba4ng" text="bang">bàng</pinyin><meanings><meaning xml:lang="en-US">stick</meaning><meaning xml:lang="en-US">smart</meaning><meaning xml:lang="en-US">intelligent</meaning><meaning xml:lang="en-US">'super'</meaning></meanings></word><word id="c49af20e-5ff0-e18019428a10" batch="16"><characters xml:lang="zh-Hans">星巴克</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi1ngbake4" text="xingbake">xīngbakè</pinyin><meanings><meaning xml:lang="en-US">starbucks</meaning></meanings></word><word id="c406e210-6bb0-ef4020f11f83" batch="2">
+			<character xml:lang="zh-Hans" page="154" position="5">们</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="men" text="men">men</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Used after pronoun to show plural number</meaning>
+			</meanings>
+		</word><word id="c40b1c66-4ee0-1602138045d0" batch="0">
+			<character xml:lang="zh-Hans" page="187" position="3">去</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="qu4" text="qu">qù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">go</meaning>
+			</meanings>
+		</word><word id="c4a1a643-cd90-16c031701695" batch="16"><characters xml:lang="zh-Hans">生活</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="she1nghuo2" text="shenghuo">shēnghuó</pinyin><meanings><meaning xml:lang="en-US">life</meaning></meanings></word><word id="c4ace9ad-5b00-f0a51f5013a0" batch="16"><characters xml:lang="zh-Hans">样子</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya4ngzi" text="yangzi">yàngzi</pinyin><meanings><meaning xml:lang="en-US">appearance</meaning></meanings></word><word id="c41d7e0f-bc70-b900c020e400" batch="7">
+			<characters xml:lang="zh-Hans" pages="295,55" positions="3,5">这儿</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhe4r" text="zher">zhèr</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">here</meaning>
+			</meanings>
+		</word></day><day date="2011-03-08"><word id="c40b0404-d780-91a0d87b4f40" batch="0">
+			<character xml:lang="zh-Hans" page="92" position="2">灰</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="hui1" text="hui">huī</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Grey</meaning>
+				<meaning xml:lang="en-US">Ash</meaning>
+				<meaning xml:lang="en-US">Discouraged</meaning>
+			</meanings>
+		</word><word id="c4ace9c6-2270-85007e051196" batch="16"><characters xml:lang="zh-Hans">困难</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ku4nna2n" text="kunnan">kùnnán</pinyin><meanings><meaning xml:lang="en-US">difficult</meaning></meanings></word><word id="c43ee932-37d0-145f52c71617" batch="8">
+			<characters xml:lang="zh-Hans" pages="42,189" positions="3,4">当然</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="da1ngra2n" text="dangran">dāngrán</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">only natural</meaning>
+			</meanings>
+		</word><word id="c4aceb41-d7a0-d5f919d811d4" batch="16"><characters xml:lang="zh-Hans">看样子</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka4nya4ngzi" text="kanyangzi">kànyàngzi</pinyin><meanings><meaning xml:lang="en-US">as far as I can see</meaning></meanings></word><word id="c43c4a90-ce50-38a014bb8450" batch="7">
+			<characters xml:lang="zh-Hans" pages="234,198" positions="6,2">晚上</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="wa3nshang" text="wanshang">wǎnshang</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">in the evening</meaning>
+			</meanings>
+		</word><word id="c42ecd63-5060-af8b11e076c0" batch="7"><character xml:lang="zh-Hans" page="122" position="4">看</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ka4n" text="kan">kàn</pinyin><meanings><meaning xml:lang="en-US">see</meaning><meaning xml:lang="en-US">read</meaning></meanings></word><word id="c40b1c3b-2dc0-ffc0186119bd" batch="0">
+			<characters xml:lang="zh-Hans" pages="204,153" positions="4,2">什么</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="she2nme" text="shenme">shénme</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">What kind</meaning>
+			</meanings>
+		</word><word id="c488ed2a-91f0-cbc01de037b0" batch="13">
+			<characters xml:lang="zh-Hans" pages="88,180" positions="7,6">花 (钱)</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="hua1 (qia2n)" text="hua (qian)">huā (qián)</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">spend (money)</meaning>
+			</meanings>
+		</word><word id="c42ecb10-3ba0-1a0d440023a0" batch="7">
+			<characters xml:lang="zh-Hans" pages="114,119" positions="1,3">京剧</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ji1ngju4" text="jingju">jīngjù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Beijing Opera</meaning>
+				<meaning xml:lang="en-US">capital theatre</meaning>
+			</meanings>
+		</word><word id="c4092fd8-8200-71e0f5b011cb" batch="0">
+			<character xml:lang="zh-Hans" page="124" position="2">可</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ke3" text="ke">kě</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Can</meaning>
+				<meaning xml:lang="en-US">May</meaning>
+			</meanings>
+		</word><word id="c43f43bc-3120-14871f208af0" batch="8">
+			<character xml:lang="zh-Hans" page="152" position="1">猫</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ma1o" text="mao">māo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">cat</meaning>
+			</meanings>
+		</word><word id="c40c153c-5b80-291015c01f6a" batch="4">
+			<character xml:lang="zh-Hans">茶</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="cha" text="cha">chá</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Tea</meaning>
+			</meanings>
+		</word><word id="c4acec26-1f00-148543a61c87" batch="16"><characters xml:lang="zh-Hans">储采</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="chu1ca4i" text="chucai">chūcài</pinyin><meanings><meaning xml:lang="en-US">vegetables</meaning></meanings></word><word id="c43c4a0e-0d90-f3a01538105d" batch="7">
+			<characters xml:lang="zh-Hans" pages="17,82,273,214" positions="7,7,5,3">不好意思</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bu4ha3oyi4si" text="buhaoyisi">bùhǎoyìsi</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to feel embarrassed</meaning>
+			</meanings>
+		</word><word id="c4acec5b-6040-1540ac911b40" batch="16"><characters xml:lang="zh-Hans">生气</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="she1ngqi4" text="shengqi">shēngqì</pinyin><meanings><meaning xml:lang="en-US">angry</meaning></meanings></word><word id="c4acebfe-62f0-de80b75b6df0" batch="16"><characters xml:lang="zh-Hans">厨师</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="chu2shi1" text="chushi">chúshī</pinyin><meanings><meaning xml:lang="en-US">cook</meaning></meanings></word><word id="c43c4950-15a0-7ba014101995" batch="7">
+			<characters xml:lang="zh-Hans" pages="287,19" positions="8,6">早餐</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="za3oca1n" text="zaocan">zǎocān</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">breakfast</meaning>
+			</meanings>
+		</word><word id="c41d74ad-a0c0-126063f016f6" batch="6">
+			<character xml:lang="zh-Hans" page="82" position="8">号</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="ha4o" text="hao">hào</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">to use after a number</meaning>
+				<meaning xml:lang="en-US">number</meaning>
+			</meanings>
+		</word><word id="c40fd59c-3bf0-143cd77623f0" batch="5">
+			<characters xml:lang="zh-Hans" pages="84,131" positions="1,1">荷兰</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="he2la2n" text="helan">hélán</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Netherlands</meaning>
+			</meanings>
+		</word><word id="c49af370-d980-1e036f512df0" batch="16"><characters xml:lang="zh-Hans">关上</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="gua1nsha4ng" text="guanshang">guānshàng</pinyin><meanings><meaning xml:lang="en-US">to close</meaning><meaning xml:lang="en-US">to be (turned) off</meaning></meanings></word></day><day date="2011-03-09"><word id="c49af2e6-9020-cea01456c5d0" batch="16"><characters xml:lang="zh-Hans">小时</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia3oshi" text="xiaoshi">xiǎoshi</pinyin><meanings><meaning xml:lang="en-US">hour</meaning></meanings></word><word id="c42ecba2-5730-13206fe01f38" batch="7">
+			<characters xml:lang="zh-Hans" pages="226,178" positions="2,7">天气</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string=" tia1nqi4" text=" tianqi"> tiānqì</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">weather</meaning>
+			</meanings>
+		</word><word id="c4a1a63f-f4b0-c327b4001de8" batch="16"><characters xml:lang="zh-Hans">凉快</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="lia2ngkuai" text="liangkuai">liángkuai</pinyin><meanings><meaning xml:lang="en-US">cool</meaning></meanings></word><word id="c48e674f-8f50-1c021ce714d8" batch="15"><characters xml:lang="zh-Hans" pages="213,95" positions="8,7">司机</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="si1ji1" text="siji">sījī</pinyin><meanings><meaning xml:lang="en-US">driver</meaning></meanings></word><word id="c4acea91-7940-13c016c01e12" batch="16"><characters xml:lang="zh-Hans">厕所</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ce4suo3" text="cesuo">cèsuǒ</pinyin><meanings><meaning xml:lang="en-US">toilet</meaning></meanings></word><word id="c4aceb59-68b0-2fe693c07f30" batch="16"><character xml:lang="zh-Hans">护</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="hu4" text="hu">hù</pinyin><meanings><meaning xml:lang="en-US">protect</meaning><meaning xml:lang="en-US">care</meaning></meanings></word><word id="c48d247b-62e0-1b601bc2e220" batch="14"><characters xml:lang="zh-Hans" pages="249,107" positions="3,7">香蕉</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia1ngjia1o" text="xiangjiao">xiāngjiāo</pinyin><meanings><meaning xml:lang="en-US">banana</meaning></meanings></word><word id="c4acea99-9a40-1b80152018ea" batch="16"><character xml:lang="zh-Hans">晕</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="yu1n" text="yun">yūn</pinyin><meanings><meaning xml:lang="en-US">dizzy</meaning></meanings></word><word id="c48e67d7-1320-e922143318cc" batch="15"><characters xml:lang="zh-Hans" pages="227,241" positions="2,6">跳舞</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="tia4owu3" text="tiaowu">tiàowǔ</pinyin><meanings><meaning xml:lang="en-US">to dance</meaning></meanings></word><word id="c4a1a5ee-4240-17cdccd060a0" batch="16"><character xml:lang="zh-Hans">烧</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="sha1o" text="shao">shāo</pinyin><meanings><meaning xml:lang="en-US">to burn</meaning></meanings></word><word id="c49af315-90d0-1e571e5073d0" batch="16"><characters xml:lang="zh-Hans">打开</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="da3ka1i" text="dakai">dǎkāi</pinyin><meanings><meaning xml:lang="en-US">to open</meaning><meaning xml:lang="en-US">to turn on</meaning></meanings></word><word id="c49d39e8-0dc0-b6c019f7d2d0" batch="16"><characters xml:lang="zh-Hans">自费</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zi4fe4i" text="zifei">zìfèi</pinyin><meanings><meaning xml:lang="en-US">at one's own expense</meaning></meanings></word><word id="c404d5ef-7520-17e01a561f10" batch="1">
+			<character xml:lang="zh-Hans" page="89" position="1">华</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="hua2" text="hua">huá</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Brilliant</meaning>
+				<meaning xml:lang="en-US">Magnificent</meaning>
+				<meaning xml:lang="en-US">Splendid</meaning>
+			</meanings>
+		</word><word id="c48e676c-0ef0-1ccf352da000" batch="15"><character xml:lang="zh-Hans" page="60" position="6">分</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fe1n" text="fen">fēn</pinyin><meanings><meaning xml:lang="en-US">minute</meaning></meanings></word><word id="c48e67cc-60a0-145833693b70" batch="15"><characters xml:lang="zh-Hans" pages="25,71" positions="4,4">下课</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xia4ke4" text="xiake">xiàkè</pinyin><meanings><meaning xml:lang="en-US">to finish class</meaning></meanings></word><word id="c48e6787-82f0-9020eb5b1098" batch="15"><characters xml:lang="zh-Hans" pages="213,180" positions="5,6">睡觉</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="shui4jia4o" text="shuijiao">shuìjiào</pinyin><meanings><meaning xml:lang="en-US">to sleep</meaning></meanings></word><word id="c4aceb82-8e10-1be2ccce2da0" batch="16"><characters xml:lang="zh-Hans">心脏</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="zi1nza4ng" text="zinzang">zīnzàng</pinyin><meanings><meaning xml:lang="en-US">heart</meaning></meanings></word><word id="c492ed1f-87a0-10378f5097d0" batch="16"><characters xml:lang="zh-Hans">习惯</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="xi2gua4n" text="xiguan">xíguàn</pinyin><meanings><meaning xml:lang="en-US">habit</meaning><meaning xml:lang="en-US">to have the habit to</meaning></meanings></word><word id="c41d74a4-8dd0-3df0adba1de0" batch="6">
+			<characters xml:lang="zh-Hans" pages="298,43" positions="8,8">知道</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="zhi1da4o" text="zhidao">zhīdào</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">know</meaning>
+			</meanings>
+		</word><word id="c48d264f-8710-f9c21356153e" batch="14"><characters xml:lang="zh-Hans" pages="208,119" positions="3,4">收据</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="sho1uju4" text="shouju">shōujù</pinyin><meanings><meaning xml:lang="en-US">receipt</meaning></meanings></word></day><day date="2011-03-13"><word id="c4a1a5d1-b7f0-c6101b60f160" batch="16"><character xml:lang="zh-Hans">冷</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="le3ng" text="leng">lěng</pinyin><meanings><meaning xml:lang="en-US">cold</meaning></meanings></word><word id="c4acecba-1b70-45201291e3f0" batch="16"><characters xml:lang="zh-Hans">从来没有</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="co2ngla2ime2iyo3u" text="conglaimeiyou">cóngláiméiyǒu</pinyin><meanings><meaning xml:lang="en-US">have never</meaning><meaning xml:lang="en-US">never before</meaning></meanings></word><word id="c492eb4e-8690-dec61ab2dda0" batch="16"><character xml:lang="zh-Hans" page="92" position="6">回</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="hui2" text="hui">huí</pinyin><meanings><meaning xml:lang="en-US">return</meaning></meanings></word><word id="c488a977-2ee0-1730bc901ad8" batch="12">
+			<characters xml:lang="zh-Hans" pages="17,81" positions="7,1">不过</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="bu4gu4o" text="buguo">bùgùo</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">only</meaning>
+				<meaning xml:lang="en-US">merely</meaning>
+			</meanings>
+		</word><word id="c49d3941-a030-12bc4f805c50" batch="16"><characters xml:lang="zh-Hans">起来</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="qi3la2i" text="qilai">qǐlái</pinyin><meanings><meaning xml:lang="en-US">stand up</meaning><meaning xml:lang="en-US">begin something</meaning></meanings></word><word id="c492ed0a-38a0-18936c0f2d60" batch="16"><characters xml:lang="zh-Hans">酒吧间</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="jiu3ba1jia1n" text="jiubajian">jiǔbājiān</pinyin><meanings><meaning xml:lang="en-US">a bar (also just 酒吧)</meaning></meanings></word><word id="c4acebe8-3570-e0e0c7c129d0" batch="16"><characters xml:lang="zh-Hans">白糖</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ba2ita2ng" text="baitang">báitáng</pinyin><meanings><meaning xml:lang="en-US">sugar</meaning></meanings></word><word id="c42ece89-7f40-1fd3101083e0" batch="7">
+			<character xml:lang="zh-Hans" page="117" position="4">就</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="jiu4" text="jiu">jiù</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">therefore</meaning>
+				<meaning xml:lang="en-US">"dus"</meaning>
+			</meanings>
+		</word><word id="c4aceb18-2400-14701500194f" batch="16"><characters xml:lang="zh-Hans">救护</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="jiu4hu4" text="jiuhu">jiùhù</pinyin><meanings><meaning xml:lang="en-US">ambulance</meaning></meanings></word><word id="c49af2df-7aa0-136c1f001994" batch="16"><characters xml:lang="zh-Hans">减肥</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="jia3nfe2i" text="jianfei">jiǎnféi</pinyin><meanings><meaning xml:lang="en-US">to lose weight</meaning></meanings></word><word id="c45a4b02-3bc0-cca01e905760" batch="11">
+			<characters xml:lang="zh-Hans" pages="203,251" positions="1,7">学校</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="xue2xia4o" text="xuexiao">xuéxiào</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">school</meaning>
+			</meanings>
+		</word><word id="c488ecaa-af00-1c121f6199f0" batch="13">
+			<characters xml:lang="zh-Hans" pages="176,228" positions="4,6">普通</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="pu3to1ng" text="putong">pǔtōng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">common</meaning>
+				<meaning xml:lang="en-US">general</meaning>
+			</meanings>
+		</word><word id="c488a8d3-fc90-17e02bbdbf70" batch="12">
+			<characters xml:lang="zh-Hans" pages="190,157" positions="7,8">人民</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="re2nmi2n" text="renmin">rénmín</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">people</meaning>
+			</meanings>
+		</word><word id="c4b03e00-1840-1de0b7d1170e" batch="16"><character xml:lang="zh-Hans">让</character><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ra4ng" text="rang">ràng</pinyin><meanings><meaning xml:lang="en-US">to permit</meaning><meaning xml:lang="en-US">to let someone do something</meaning><meaning xml:lang="en-US">to have someone do something</meaning></meanings></word><word id="c48c7799-30e0-12601a7e1eb0" batch="14"><characters xml:lang="zh-Hans" pages="213,84" positions="7,7">说话</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="shuo1hua4" text="shuohua">shuōhuà</pinyin><meanings><meaning xml:lang="en-US">to speak</meaning><meaning xml:lang="en-US">to talk</meaning></meanings></word><word id="c48d2426-e420-99e01e00f0b0" batch="14"><characters xml:lang="zh-Hans" pages="261,134" positions="8,8">鸭梨</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="ya4li2" text="yali">yàlí</pinyin><meanings><meaning xml:lang="en-US">Yali Pear</meaning></meanings></word><word id="c45a4a11-7840-1f491e504640" batch="11">
+			<characters xml:lang="zh-Hans" pages="271,180" positions="4,5">以前</characters>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="yi3qia2n" text="yiqian">yǐqián</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">previously</meaning>
+				<meaning xml:lang="en-US">before</meaning>
+				<meaning xml:lang="en-US">earlier</meaning>
+			</meanings>
+		</word><word id="c492ecd0-15f0-8c772cd01492" batch="16"><characters xml:lang="zh-Hans">付钱</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="fu4qia2n" text="fuqian">fùqián</pinyin><meanings><meaning xml:lang="en-US">to pay money</meaning></meanings></word><word id="c40b03b4-9b40-120012502fc0" batch="0">
+			<character xml:lang="zh-Hans" page="91" position="6">黄</character>
+			<pinyin xml:lang="zh-Latn-x-pinyin" order-string="hua2ng" text="huang">huáng</pinyin>
+			<meanings>
+				<meaning xml:lang="en-US">Yellow</meaning>
+				<meaning xml:lang="en-US">Sulphur</meaning>
+				<meaning xml:lang="en-US">Primary Color</meaning>
+			</meanings>
+		</word><word id="c492ec36-d800-804c80501a66" batch="16"><characters xml:lang="zh-Hans">唱歌</characters><pinyin xml:lang="zh-Latn-x-pinyin" order-string="cha4ngge1" text="changge">chànggē</pinyin><meanings><meaning xml:lang="en-US">to sing a song</meaning></meanings></word></day></daily-list>

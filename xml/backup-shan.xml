@@ -1,0 +1,2148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shan>
+  <title>
+    <chinese xml:lang="zh-Hans">闪</chinese>Shǎn
+  </title>
+  <tips-for-learning>
+    <tip>
+      <title>Use Flash Cards</title>
+      <paragraph>Using 3 sides flash cards allows you practice your memory of a character, the pinyin pronunciation and the meaning.</paragraph>
+    </tip>
+    <tip>
+      <title>Writing Sentences to Learn Words</title>
+      <paragraph>You can drill words all you want, but writing and forming and playing with sentences is a better way of becoming familiar with the characters and the use of words.</paragraph>
+      <paragraph>Also use basic sentences from online resources to enlargen your vocabulary. Working ahead in the book is also encouraged. </paragraph>
+    </tip>
+    <tip>
+      <title>Writing Characters</title>
+      <paragraph>When practicing your caligraphy, it is best to do each character a few times, instead of trying to 'fill up the page' with the same character.</paragraph>
+    </tip>
+    <tip>
+      <title>Learn Chinese</title>
+      <paragraph>
+        It might seem obvious, but how often might you be trying to learn a translation of a word or phrase and learn the Chinese <emphasis>through</emphasis> that. Instead directly learn the Chinese, take it to heart, as they say. Chinese is a different language than most European languages. It's words know many different uses.
+      </paragraph>
+    </tip>
+    <tip>
+      <title>Review Within 15 Minutes After Class. </title>
+      <paragraph>Studies have shown that students have much greater retention of learned material if they review briefly right after class.</paragraph>
+    </tip>
+    <tip>
+      <title>Studying in General</title>
+      <paragraph>Studying an hour per day, and a few minutes here and there will reinforce the use of Chinese and the learning experience in your mind, allowing you to pick up things faster.</paragraph>
+    </tip>
+  </tips-for-learning>
+  <cards>
+    <card id="c404d574-0c00-130b994e8340" batch="1">
+      <character xml:lang="zh-Hans" page="48" position="5">丁</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="di1ng" text="ding">dīng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Cubes of diced meat</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5c6-54a0-ca601ec0d9a0" batch="1">
+      <character xml:lang="zh-Hans" page="135" position="8">力</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="li4" text="li">lì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Power</meaning>
+        <meaning xml:lang="en-US">Strength</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5e7-b9f0-1d70606411bd" batch="1">
+      <character xml:lang="zh-Hans" page="15" position="8">波</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bo1" text="bo">bō</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Wave</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5f4-3f10-7ed718418c70" batch="1">
+      <character xml:lang="zh-Hans" page="39" position="6">大</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="da4" text="da">dà</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Large</meaning>
+        <meaning xml:lang="en-US">Be large</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5f5-7de0-73a8faf2b500" batch="1">
+      <character xml:lang="zh-Hans" page="160" position="7">木</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="mu4" text="mu">mù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Wood</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5f6-8910-490f15007e00" batch="1">
+      <character xml:lang="zh-Hans" page="141" position="3">林</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="li2n" text="lin">lín</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Forest</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5e7-b9f0-1d70606416bd" batch="1">
+      <character xml:lang="zh-Hans" page="161" position="8">娜</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="na4" text="na">nà</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Name</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5ec-19c0-157019f0d3e0" batch="1">
+      <character xml:lang="zh-Hans" page="149" position="4">马</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ma3" text="ma">mǎ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Horse</meaning>
+        <meaning xml:lang="en-US">Surname 马</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5f8-b690-1250c2e0198f" batch="1">
+      <character xml:lang="zh-Hans" page="215" position="5">宋</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="so4ng" text="song">sòng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Surname</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5f2-7d00-1a001b8b9390" batch="1">
+      <character xml:lang="zh-Hans" page="236" position="5">为</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="we2i" text="wei">wéi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Do</meaning>
+        <meaning xml:lang="en-US">Act</meaning>
+      </meanings>
+    </card>
+    <card id="c404d5ef-7520-17e01a561f10" batch="1">
+      <character xml:lang="zh-Hans" page="89" position="1">华</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="hua2" text="hua">huá</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Brilliant</meaning>
+        <meaning xml:lang="en-US">Magnificent</meaning>
+        <meaning xml:lang="en-US">Splendid</meaning>
+      </meanings>
+    </card>
+    <card id="c407d5ef-7580-17e01a565f10" batch="1">
+      <character xml:lang="zh-Hans" page="197" position="2">闪</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="sha3n" text="shan">shǎn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Flash</meaning>
+        <meaning xml:lang="en-US">Lightning</meaning>
+      </meanings>
+    </card>
+    <card id="c404ff06-1be0-10301a809340" batch="1">
+      <character xml:lang="zh-Hans" page="133" position="2">老</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="la3o" text="lao">lǎo</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Old</meaning>
+        <meaning xml:lang="en-US">Aged</meaning>
+      </meanings>
+    </card>
+    <card id="c404ff06-1bb0-17901c9b1263" batch="1">
+      <character xml:lang="zh-Hans" page="203" position="6">师</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="shi1" text="shi">shī</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Teacher</meaning>
+        <meaning xml:lang="en-US">Master</meaning>
+      </meanings>
+    </card>
+    <card id="c404ffcd-2360-18c0df8a181c" batch="1">
+      <character xml:lang="zh-Hans" page="164" position="3">你</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ni3" text="ni">nǐ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">you</meaning>
+        <meaning xml:lang="en-US">your</meaning>
+      </meanings>
+    </card>
+    <card id="c404ffcd-2380-11801ab01e87" batch="1">
+      <character xml:lang="zh-Hans" page="82" position="7">好</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ha3o" text="hao">hǎo</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Good</meaning>
+        <meaning xml:lang="en-US">Well</meaning>
+        <meaning xml:lang="en-US">Fine</meaning>
+        <meaning xml:lang="en-US">Ok</meaning>
+      </meanings>
+    </card>
+    <card id="c405478b-d8e0-1ca011ae32a0" batch="1">
+      <character xml:lang="zh-Hans" page="235" position="3">王</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="wa2ng" text="wang">wáng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">King</meaning>
+        <meaning xml:lang="en-US">Prince</meaning>
+      </meanings>
+    </card>
+    <card id="c40547ac-7fb0-f5a5cd86f1b0" batch="1">
+      <character xml:lang="zh-Hans" page="251" position="4">小</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xia3o" text="xiao">xiǎo</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Small</meaning>
+        <meaning xml:lang="en-US">Little</meaning>
+        <meaning xml:lang="en-US">Petty</meaning>
+        <meaning xml:lang="en-US">To be small</meaning>
+      </meanings>
+    </card>
+    <card id="c40547dd-60d0-bed117f01e15" batch="1">
+      <character xml:lang="zh-Hans" page="285" position="3">云</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yu2n" text="yun">yún</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Cloud</meaning>
+      </meanings>
+    </card>
+    <card id="c405481f-9ff0-80581df01358" batch="1">
+      <character xml:lang="zh-Hans" page="145" position="6">陆</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="lu4" text="lu">lù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Land</meaning>
+      </meanings>
+    </card>
+    <card id="c4054851-31c0-471014f0b8f0" batch="1">
+      <character xml:lang="zh-Hans" page="281" position="2">雨</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yu3" text="yu">yǔ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Rain</meaning>
+      </meanings>
+    </card>
+    <card id="c4054891-fb40-16d86200113c" batch="1">
+      <character xml:lang="zh-Hans" page="174" position="2">平</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="pi2ng" text="ping">píng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Flat</meaning>
+        <meaning xml:lang="en-US">Even</meaning>
+        <meaning xml:lang="en-US">Level</meaning>
+        <meaning xml:lang="en-US">Smooth</meaning>
+      </meanings>
+    </card>
+    <card id="c40548ba-79b0-638ee2467c50" batch="1">
+      <character xml:lang="zh-Hans" page="27" position="4">陈</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="che2n" text="chen">chén</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Put on display</meaning>
+        <meaning xml:lang="en-US">State</meaning>
+      </meanings>
+    </card>
+    <card id="c4054933-67c0-c3e4c1dd1281" batch="1">
+      <character xml:lang="zh-Hans" page="292" position="5">张</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zha1ng" text="zhang">zhāng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Surname Zhāng</meaning>
+      </meanings>
+    </card>
+    <card id="c405496e-1b20-3eb61ad21896" batch="1">
+      <character xml:lang="zh-Hans" page="109" position="3">教</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jia4o" text="jiao">jiào</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Teach</meaning>
+        <meaning xml:lang="en-US">Instruct</meaning>
+      </meanings>
+    </card>
+    <card id="c405499f-78d0-e3508b505010" batch="1">
+      <character xml:lang="zh-Hans" page="209" position="1">授</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="sho4u" text="shou">shòu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Award</meaning>
+        <meaning xml:lang="en-US">Vest</meaning>
+        <meaning xml:lang="en-US">Give</meaning>
+        <meaning xml:lang="en-US">Teach</meaning>
+      </meanings>
+    </card>
+    <card id="c405496e-1b20-3eb61ad21896" batch="1">
+      <character xml:lang="zh-Hans" page="109" position="3">教</character>
+      <character xml:lang="zh-Hans" page="209" position="1">授</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jia4osho4u" text="jiaoshou">jiàoshòu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Professor</meaning>
+      </meanings>
+    </card>
+    <card id="c40549d4-0500-180012b13500" batch="1">
+      <character xml:lang="zh-Hans" page="266" position="4">杨</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ya2ng" text="yang">yáng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Poplar</meaning>
+      </meanings>
+    </card>
+    <card id="c4055217-8080-141077706000" batch="1">
+      <character xml:lang="zh-Hans" page="268" position="8">也</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ye3" text="ye">yě</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Too</meaning>
+        <meaning xml:lang="en-US">Also</meaning>
+      </meanings>
+    </card>
+    <card id="c405521c-caf0-1be0d0b01bd3" batch="1">
+      <character xml:lang="zh-Hans" page="84" position="7">很</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="he3n" text="hen">hěn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Very</meaning>
+      </meanings>
+    </card>
+    <card id="c4055228-e080-1060985adc20" batch="1">
+      <character xml:lang="zh-Hans" page="164" position="1">呢</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ne" text="ne">ne</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Modal particle for elliptical questions</meaning>
+      </meanings>
+    </card>
+    <card id="c405523a-dd10-1496a7c06920" batch="1">
+      <character xml:lang="zh-Hans" page="149" position="8">吗</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ma" text="ma">ma</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Interrogative particle for questions expecting a yes-no answer</meaning>
+      </meanings>
+    </card>
+    <card id="c4055243-4f20-1220ce9c196d" batch="1">
+      <character xml:lang="zh-Hans" page="239" position="7">我</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="wo3" text="wo">wǒ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">I</meaning>
+        <meaning xml:lang="en-US">me</meaning>
+      </meanings>
+    </card>
+    <card id="c405f076-1f00-11405bd71aff" batch="1">
+      <character xml:lang="zh-Hans" page="269" position="8">一</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yi1" text="yi">yī</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">One</meaning>
+      </meanings>
+    </card>
+    <card id="c405f0b6-9730-6989e8e02850" batch="1">
+      <character xml:lang="zh-Hans" page="154" position="3">门</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="me2n" text="men">mén</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Door</meaning>
+      </meanings>
+    </card>
+    <card id="c405f0c0-a1c0-dcd01650fbc0" batch="1">
+      <character xml:lang="zh-Hans" page="3" position="2">八</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ba1" text="ba">bā</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Eight</meaning>
+      </meanings>
+    </card>
+    <card id="c405f1b1-9200-935d1302d6d0" batch="1">
+      <character xml:lang="zh-Hans" page="241" position="1">五</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="wu3" text="wu">wǔ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Five</meaning>
+      </meanings>
+    </card>
+    <card id="c405f1b9-1200-73107650c540" batch="1">
+      <character xml:lang="zh-Hans" page="94" position="5">火</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="huo3" text="huo">huǒ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Fire</meaning>
+      </meanings>
+    </card>
+    <card id="c405f21d-2170-1b2013b016de" batch="1">
+      <character xml:lang="zh-Hans" page="166" position="8">女</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="nv3" text="nu">nǚ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Female</meaning>
+        <meaning xml:lang="en-US">Woman</meaning>
+      </meanings>
+    </card>
+    <card id="c4066cfd-cd00-167c12c0c700" batch="1">
+      <character xml:lang="zh-Hans" page="310" position="2">字</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zi4" text="zi">zì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Word</meaning>
+        <meaning xml:lang="en-US">Character</meaning>
+        <meaning xml:lang="en-US">letter</meaning>
+      </meanings>
+    </card>
+    <card id="c4066f8e-2930-19c5b9d476d0" batch="1">
+      <character xml:lang="zh-Hans" page="55" position="8">二</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="e4r" text="er">èr</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Two</meaning>
+      </meanings>
+    </card>
+    <card id="c4066ffe-c2b0-6f00acc61109" batch="1">
+      <character xml:lang="zh-Hans" page="194" position="3">三</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="sa1n" text="san">sān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Three</meaning>
+      </meanings>
+    </card>
+    <card id="c4067234-4300-3c2811c91d59" batch="1">
+      <character xml:lang="zh-Hans" page="82" position="1">汉</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ha4n" text="han">hàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Chinese</meaning>
+        <meaning xml:lang="en-US">Han dynasty</meaning>
+        <meaning xml:lang="en-US">Man</meaning>
+      </meanings>
+    </card>
+    <card id="c406700f-63a0-332b146315cb" batch="1">
+      <character xml:lang="zh-Hans" page="214" position="7">四</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="si4" text="si">sì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Four</meaning>
+      </meanings>
+    </card>
+    <card id="c4067b77-3fd0-1ec011896e80" batch="1">
+      <character xml:lang="zh-Hans" page="18" position="1">步</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bu4" text="bu">bù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Step</meaning>
+        <meaning xml:lang="en-US">Pace</meaning>
+        <meaning xml:lang="en-US">Go on foot</meaning>
+        <meaning xml:lang="en-US">Walk</meaning>
+      </meanings>
+    </card>
+    <card id="c4067b76-91c0-8a36baf0f530" batch="1">
+      <character xml:lang="zh-Hans" page="213" position="3">水</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="shui3" text="shui">shuǐ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Water</meaning>
+      </meanings>
+    </card>
+    <card id="c4069ac7-2740-65e055d56280" batch="2">
+      <character xml:lang="zh-Hans">玛</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ma3" text="ma">mǎ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Name</meaning>
+      </meanings>
+    </card>
+    <card id="c4069af2-34c0-7de470e01153" batch="2">
+      <character xml:lang="zh-Hans" page="136" position="4">丽</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="li4" text="li">lì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Beautiful</meaning>
+      </meanings>
+    </card>
+    <card id="c406e1eb-53e0-26f4261016f8" batch="2">
+      <character xml:lang="zh-Hans" page="149" position="2">妈</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ma1" text="ma">mā</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">mother</meaning>
+      </meanings>
+    </card>
+    <card id="c406e1f7-dbd0-c9b3196d1314" batch="2">
+      <character xml:lang="zh-Hans" page="219" position="3">他</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ta1" text="ta">tā</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">He, Him, His</meaning>
+      </meanings>
+    </card>
+    <card id="c406e1ff-0960-abc0185711b0" batch="2">
+      <character xml:lang="zh-Hans" page="219" position="5">她</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ta1" text="ta">tā</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">She, Her, Hers</meaning>
+      </meanings>
+    </card>
+    <card id="c406e210-6bb0-ef4020f11f83" batch="2">
+      <character xml:lang="zh-Hans" page="154" position="5">们</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="men" text="men">men</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Used after pronoun to show plural number</meaning>
+      </meanings>
+    </card>
+    <card id="c406e227-41c0-1b11c960b000" batch="2">
+      <character xml:lang="zh-Hans" page="309" position="6">子</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zi3" text="zi">zǐ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Son</meaning>
+      </meanings>
+    </card>
+    <card id="c406e2f1-49c0-1360153860c0" batch="2">
+      <character xml:lang="zh-Hans" page="154" position="5">是</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="shi4" text="shi">shì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">To be (a noun)</meaning>
+        <meaning xml:lang="en-US">To exist</meaning>
+      </meanings>
+    </card>
+    <card id="c406e31e-44d0-f3b0eb579930" batch="2">
+      <character xml:lang="zh-Hans" page="286" position="7">在</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="za4i" text="zai">zài</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Exist</meaning>
+        <meaning xml:lang="en-US">Indicating a position</meaning>
+      </meanings>
+    </card>
+    <card id="c406e329-5410-14b6159bb6c0" batch="2">
+      <character xml:lang="zh-Hans" page="43" position="5">到</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="da4o" text="dao">dào</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Arrive</meaning>
+      </meanings>
+    </card>
+    <card id="c51710-1510-671a53312ada" batch="2">
+      <character xml:lang="zh-Hans">了</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="le">le</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Partical for completed action (past perfect)</meaning>
+      </meanings>
+    </card>
+    <card id="c406e332-1510-671a64201ada" batch="7">
+      <character xml:lang="zh-Hans" page="237" position="8">位</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="we4i" text="wei">wèi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">measure word for titles, more specific than 个</meaning>
+      </meanings>
+    </card>
+    <card id="c406e407-b720-2b891564136d" batch="2">
+      <character xml:lang="zh-Hans" page="100" position="3">家</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jia1" text="jia">jiā</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Family</meaning>
+        <meaning xml:lang="en-US">Household</meaning>
+        <meaning xml:lang="en-US">Home</meaning>
+      </meanings>
+    </card>
+    <card id="c406e468-5f00-10e016001d88" batch="2">
+      <character xml:lang="zh-Hans" page="286" position="6">再</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="za4i" text="zai">zài</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Again</meaning>
+        <meaning xml:lang="en-US">Once more</meaning>
+      </meanings>
+    </card>
+    <card id="c406e46e-2380-bfc0199018b1" batch="2">
+      <character xml:lang="zh-Hans" page="103" position="6">见</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jia4n" text="jian">jiàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">See</meaning>
+        <meaning xml:lang="en-US">Catch eye of</meaning>
+      </meanings>
+    </card>
+    <card id="c406e46e-1360-bfc0349015y1" batch="2">
+      <character xml:lang="zh-Hans" page="286" position="6">再</character>
+      <character xml:lang="zh-Hans" page="103" position="6">见</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="za4ijia4n" text="zaijian">zàijiàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">See you again</meaning>
+      </meanings>
+    </card>
+    <card id="c406e4cb-8200-d81ede73a1e0" batch="2">
+      <character xml:lang="zh-Hans" page="17" position="7">不</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bu4" text="bu">bù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Used to form a negative</meaning>
+      </meanings>
+    </card>
+    <card id="c406e531-5af0-95a21aa39550" batch="2">
+      <character xml:lang="zh-Hans" page="198" position="2">上</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="sha4ng" text="shang">shàng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Evening</meaning>
+      </meanings>
+    </card>
+    <card id="c406e5a6-d4a0-18883a9f4d60" batch="2">
+      <character xml:lang="zh-Hans" page="151" position="6">忙</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ma2ng" text="mang">máng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">busy</meaning>
+      </meanings>
+    </card>
+    <card id="c406e5af-9a30-196015581579" batch="2">
+      <character xml:lang="zh-Hans" page="4" position="1">爸</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ba4" text="ba">bà</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Father</meaning>
+      </meanings>
+    </card>
+    <card id="c406e5c0-f180-8b60b0f01760" batch="2">
+      <character xml:lang="zh-Hans" page="51" position="2">都</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="do1u" text="dou">dōu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Both</meaning>
+        <meaning xml:lang="en-US">All</meaning>
+      </meanings>
+    </card>
+    <card id="c408dbb6-e850-543e848da390" batch="2">
+      <character xml:lang="zh-Hans" page="65" position="6">父</character>
+      <character xml:lang="zh-Hans" page="183" position="8">亲</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="fu4 qi1n" text="fu qin">fù qīn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Father</meaning>
+      </meanings>
+    </card>
+    <card id="c408dbbc-c130-16701c543a10" batch="2">
+      <character xml:lang="zh-Hans" page="160" position="5">母</character>
+      <character xml:lang="zh-Hans" page="183" position="8">亲</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="mu3 qi1n" text="mu qin">mǔ qīn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Mother</meaning>
+      </meanings>
+    </card>
+    <card id="c408dbd8-1870-1e188fb01e85" batch="2">
+      <character xml:lang="zh-Hans" page="183" position="8">亲</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="qi1n" text="qin">qīn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Family</meaning>
+      </meanings>
+    </card>
+    <card id="c408dbeb-0170-e7e98b004040" batch="0">
+      <character xml:lang="zh-Hans" page="2" position="1">安</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="a1n" text="an">ān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Peace</meaning>
+      </meanings>
+    </card>
+    <card id="c408dbf2-6be0-cce08ad0fac0" batch="0">
+      <character xml:lang="zh-Hans" page="165" position="4">您</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ni2n" text="nin">nín</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">you (formal)</meaning>
+      </meanings>
+    </card>
+    <card id="c408dc14-2600-21605d911e00" batch="0">
+      <character xml:lang="zh-Hans" page="220" position="3">太</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ta4i" text="tai">tài</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Highest</meaning>
+        <meaning xml:lang="en-US">Greatest</meaning>
+      </meanings>
+    </card>
+    <card id="c408dc31-6280-6be113206000" batch="0">
+      <character xml:lang="zh-Hans" page="53" position="5">对</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="dui4" text="dui">duì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">To Face</meaning>
+        <meaning xml:lang="en-US">Against </meaning>
+      </meanings>
+    </card>
+    <card id="c408dc35-aa00-96b01b7a67f0" batch="0">
+      <character xml:lang="zh-Hans" page="178" position="6">起</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="qi3" text="qi">qǐ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Used in conjunction with 不 to form 'can afford'</meaning>
+      </meanings>
+    </card>
+    <card id="c408dc3a-0d70-16454768c8d0" batch="0">
+      <character xml:lang="zh-Hans" page="268" position="4">要</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ya4o,ya1o" text="yao,yao">yào,yāo</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Demand</meaning>
+        <meaning xml:lang="en-US">Ask</meaning>
+        <meaning xml:lang="en-US">Need</meaning>
+        <meaning xml:lang="en-US">Want</meaning>
+        <meaning xml:lang="en-US">Desire</meaning>
+      </meanings>
+    </card>
+    <card id="c408dc3e-4870-4f9019c01251" batch="0">
+      <character xml:lang="zh-Hans" page="310" position="8">走</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zo3u" text="zou">zǒu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Walk</meaning>
+        <meaning xml:lang="en-US">Go</meaning>
+        <meaning xml:lang="en-US">Leave</meaning>
+      </meanings>
+    </card>
+    <card id="c408dc4a-dff0-18cf1bbec1a0" batch="0">
+      <character xml:lang="zh-Hans" page="170" position="8">朋</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="pe2ng" text="peng">péng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Friend</meaning>
+      </meanings>
+    </card>
+    <card id="c408dc4e-fa70-1d9c196d4e00" batch="0">
+      <character xml:lang="zh-Hans" page="278" position="7">友</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yo3u" text="you">yǒu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Friend</meaning>
+        <meaning xml:lang="en-US">Close friend</meaning>
+      </meanings>
+    </card>
+    <card id="c318dc3b-dff1-18cf1bbac1a0" batch="0">
+      <character xml:lang="zh-Hans" page="170" position="8">朋</character>
+      <character xml:lang="zh-Hans" page="278" position="7">友</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="pe2ngyo3u" text="pengyou">péngyǒu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Friend</meaning>
+      </meanings>
+    </card>
+    <card id="c408dc55-9070-15f07de0136e" batch="0">
+      <character xml:lang="zh-Hans" page="46" position="1">的</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="de" text="de">de,dì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">(adverb to make possessive)</meaning>
+      </meanings>
+    </card>
+    <card id="c408dc81-9be0-17f998601bbc" batch="0">
+      <character xml:lang="zh-Hans" page="209" position="5">书</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="shu1" text="shu">shū</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Write</meaning>
+        <meaning xml:lang="en-US">Book</meaning>
+      </meanings>
+    </card>
+    <card id="c4092fbf-a9b0-78b03256181a" batch="0">
+      <character xml:lang="zh-Hans" page="45" position="8">弟</character>
+      <character xml:lang="zh-Hans" page="45" position="8">弟</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="di4di" text="didi">dìdi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Younger brother</meaning>
+      </meanings>
+    </card>
+    <card id="c4092fc5-4c30-1fd085118b40" batch="0">
+      <character xml:lang="zh-Hans" page="90" position="7">哥</character>
+      <character xml:lang="zh-Hans" page="90" position="7">哥</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ge1ge" text="gege">gēge</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Older brother</meaning>
+      </meanings>
+    </card>
+    <card id="c4092fca-cb20-1e0015ae1677" batch="0">
+      <character xml:lang="zh-Hans" page="42" position="8">刀</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="da1o" text="dao">dāo</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Knife</meaning>
+      </meanings>
+    </card>
+    <card id="c4092fcd-6730-180014cb1a00" batch="0">
+      <character xml:lang="zh-Hans" page="125" position="8">口</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ko3u" text="kou">kǒu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Mouth</meaning>
+      </meanings>
+    </card>
+    <card id="c4092fd8-8200-71e0f5b011cb" batch="0">
+      <character xml:lang="zh-Hans" page="124" position="2">可</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ke3" text="ke">kě</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Can</meaning>
+        <meaning xml:lang="en-US">May</meaning>
+      </meanings>
+    </card>
+    <card id="c4092fdf-9cc0-a27112623df0" batch="0">
+      <character xml:lang="zh-Hans" page="190" position="7">人</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="re2n" text="ren">rén</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Person</meaning>
+        <meaning xml:lang="en-US">People</meaning>
+      </meanings>
+    </card>
+    <card id="c4092fe5-f200-1a805dc3b000" batch="0">
+      <character xml:lang="zh-Hans" page="200" position="5">谁</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="she2i" text="shei">shéi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Who, Whom</meaning>
+      </meanings>
+    </card>
+    <card id="c4092fea-ddf0-b3504a158d10" batch="0">
+      <character xml:lang="zh-Hans" page="143" position="8">六</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="liu4" text="liu">liù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Six</meaning>
+      </meanings>
+    </card>
+    <card id="c40b0384-7af0-1e5119c0fe10" batch="0">
+      <character xml:lang="zh-Hans" page="195" position="6">色</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="se4" text="se">sè</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Color</meaning>
+      </meanings>
+    </card>
+    <card id="c40b0396-1760-b2d01ae05f30" batch="0">
+      <character xml:lang="zh-Hans" page="4" position="5">白</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ba2i" text="bai">bái</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Arctic</meaning>
+        <meaning xml:lang="en-US">Blank</meaning>
+        <meaning xml:lang="en-US">Bright</meaning>
+        <meaning xml:lang="en-US">Clear</meaning>
+        <meaning xml:lang="en-US">Gratuitous</meaning>
+        <meaning xml:lang="en-US">Plain</meaning>
+        <meaning xml:lang="en-US">Snowy</meaning>
+        <meaning xml:lang="en-US">White</meaning>
+      </meanings>
+    </card>
+    <card id="c40b03a2-5050-3dc010001fd5" batch="0">
+      <character xml:lang="zh-Hans" page="131" position="4">蓝</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="la2n" text="lan">lán</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Blue</meaning>
+        <meaning xml:lang="en-US">Kohlrabi</meaning>
+      </meanings>
+    </card>
+    <card id="c40b03b4-9b40-120012502fc0" batch="0">
+      <character xml:lang="zh-Hans" page="91" position="6">黄</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="hua2ng" text="huang">huáng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Yellow</meaning>
+        <meaning xml:lang="en-US">Sulphur</meaning>
+        <meaning xml:lang="en-US">Primary Color</meaning>
+      </meanings>
+    </card>
+    <card id="c40b03b9-aa30-15f017308580" batch="0">
+      <character xml:lang="zh-Hans" page="147" position="1">绿</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="lv4" text="lu">lǜ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Green</meaning>
+      </meanings>
+    </card>
+    <card id="c40b03dd-7390-92d429901bc3" batch="0">
+      <character xml:lang="zh-Hans" page="85" position="8">红</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ho2ng" text="hong">hóng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Red</meaning>
+        <meaning xml:lang="en-US">Revolutionary</meaning>
+        <meaning xml:lang="en-US">Bonus</meaning>
+      </meanings>
+    </card>
+    <card id="c40b03eb-0590-198027901e21" batch="0">
+      <character xml:lang="zh-Hans" page="118" position="3">橘</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ju2" text="ju">jú</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Orange</meaning>
+        <meaning xml:lang="en-US">Tangerine</meaning>
+      </meanings>
+    </card>
+    <card id="c40b03ee-e810-1a4487c0c360" batch="0">
+      <character xml:lang="zh-Hans">橙</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="che2ng" text="cheng">chéng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Orange</meaning>
+        <meaning xml:lang="en-US">Orange Tree</meaning>
+      </meanings>
+    </card>
+    <card id="c40b03f7-0a00-103014b01f9e" batch="0">
+      <character xml:lang="zh-Hans" page="84" position="5">黑</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="he1i" text="hei">hēi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Black</meaning>
+        <meaning xml:lang="en-US">Dark</meaning>
+      </meanings>
+    </card>
+    <card id="c40b03fc-0780-1e6f1e14e3e0" batch="0">
+      <character xml:lang="zh-Hans" page="309" position="8">紫</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zi3" text="zi">zǐ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Purple</meaning>
+      </meanings>
+    </card>
+    <card id="c40b0404-d780-91a0d87b4f40" batch="0">
+      <character xml:lang="zh-Hans" page="92" position="2">灰</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="hui1" text="hui">huī</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Grey</meaning>
+        <meaning xml:lang="en-US">Ash</meaning>
+        <meaning xml:lang="en-US">Discouraged</meaning>
+      </meanings>
+    </card>
+    <card id="c40b041f-c060-68501b20c5e0" batch="0">
+      <character xml:lang="zh-Hans" page="176" position="6">七</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="qi1" text="qi">qī</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Seven</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1b3c-59e0-1aa013f84cf0" batch="0">
+      <character xml:lang="zh-Hans" page="99" position="8">加</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jia1" text="jia">jiā</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Add</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1b4a-8c00-17d01f352d30" batch="0">
+      <character xml:lang="zh-Hans" page="59" position="7">非</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="fe1i" text="fei">fēi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">un-， ill- （qualified）</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1b54-fc00-1a26c6d33070" batch="0">
+      <character xml:lang="zh-Hans" page="250" position="1">想</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xia3ng" text="xiang">xiǎng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Think about</meaning>
+        <meaning xml:lang="en-US">Used for politeness</meaning>
+        <meaning xml:lang="en-US">plan to + verb</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1bb6-c200-1c8d12c01e81" batch="0">
+      <character xml:lang="zh-Hans" page="83" position="3">喝</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="he1" text="he">hē</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Drink</meaning>
+        <meaning xml:lang="en-US">Eat</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c15-9b00-e5e814f0c950" batch="0">
+      <character xml:lang="zh-Hans">咖</character>
+      <character xml:lang="zh-Hans">啡</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ka1fe1i" text="kafei">kāfēi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Coffee</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c33-3f60-57932c7012b6" batch="0">
+      <character xml:lang="zh-Hans" page="133" position="5">乐</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="le4" text="le">lè</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Joy</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c3b-2dc0-ffc0186119bd" batch="0">
+      <character xml:lang="zh-Hans" page="204" position="4">什</character>
+      <character xml:lang="zh-Hans" page="153" position="2">么</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="she2nme" text="shenme">shénme</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">What kind</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c43-5550-370616101642" batch="0">
+      <character xml:lang="zh-Hans" page="274" position="6">饮</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yi3n" text="yin">yǐn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Drink</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c4a-3050-8ae0144689f0" batch="0">
+      <character xml:lang="zh-Hans" page="140" position="6">料</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="lia4o" text="liao">liào</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Stuff</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c54-44d0-1b00130017f6" batch="0">
+      <character xml:lang="zh-Hans" page="121" position="6">开</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ka1i" text="kai">kāi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Boil</meaning>
+        <meaning xml:lang="en-US">Make move</meaning>
+        <meaning xml:lang="en-US">Open</meaning>
+        <meaning xml:lang="en-US">Steer</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c5a-c7d0-ce00179012c1" batch="0">
+      <character xml:lang="zh-Hans" page="111" position="1">姐</character>
+      <character xml:lang="zh-Hans" page="111" position="1">姐</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jie3jie" text="jiejie">jiějie</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Older sister</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c62-2c50-c3508c186ea0" batch="0">
+      <character xml:lang="zh-Hans" page="154" position="2">妹</character>
+      <character xml:lang="zh-Hans" page="154" position="2">妹</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="me4imei" text="meimei">mèimei</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Younger sister</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1c66-4ee0-1602138045d0" batch="0">
+      <character xml:lang="zh-Hans" page="187" position="3">去</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="qu4" text="qu">qù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">go</meaning>
+      </meanings>
+    </card>
+    <card id="c40b1d0b-6ea0-645816c013fc" batch="0">
+      <character xml:lang="zh-Hans" page="161" position="7">哪</character>
+      <character xml:lang="zh-Hans" page="55" position="5">儿</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="na3r" text="nar">nǎr</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Where</meaning>
+      </meanings>
+    </card>
+    <card id="c40bb8ec-9a00-1d6e174c1511" batch="0">
+      <character xml:lang="zh-Hans" page="55" position="5">儿</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="e2r" text="er">ér</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Son</meaning>
+        <meaning xml:lang="en-US">Child</meaning>
+        <meaning xml:lang="en-US">YoungsÓÓter</meaning>
+      </meanings>
+    </card>
+    <card id="c40d8b94-4be0-cab05ce01588" batch="0">
+      <character xml:lang="zh-Hans" page="83" position="7">和</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="he2" text="he">hé</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">and</meaning>
+      </meanings>
+    </card>
+    <card id="c40b702c-f8b0-1f63daa01c1b" batch="0">
+      <character xml:lang="zh-Hans" page="108" position="8">叫</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jia4o" text="jiao">jiào</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">call</meaning>
+      </meanings>
+    </card>
+    <card id="c40c153c-5b80-291015c01f6a" batch="4">
+      <character xml:lang="zh-Hans">茶</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="cha" text="cha">chá</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Tea</meaning>
+      </meanings>
+    </card>
+    <card id="c40fd55c-3840-10e0da40a0d0" batch="5">
+      <character xml:lang="zh-Hans" page="275" position="2">英</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yi1ng" text="ying">yīng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Brave</meaning>
+        <meaning xml:lang="en-US">Brittain (英国)</meaning>
+      </meanings>
+    </card>
+    <card id="c40fd577-afb0-16f05440aa50" batch="5">
+      <character xml:lang="zh-Hans" page="56" position="6">法</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="fa3" text="fa">fǎ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">France (法国)</meaning>
+        <meaning xml:lang="en-US">Law</meaning>
+      </meanings>
+    </card>
+    <card id="c40fd59c-3bf0-143cd77623f0" batch="5">
+      <character xml:lang="zh-Hans" page="84" position="1">荷</character>
+      <character xml:lang="zh-Hans" page="131" position="1">兰</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="he2la2n" text="helan">hélán</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Netherlands</meaning>
+      </meanings>
+    </card>
+    <card id="c40fd6b5-9b90-1248d5628310" batch="0">
+      <character xml:lang="zh-Hans" page="80" position="6">国</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="guo2" text="guo">guó</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Country</meaning>
+        <meaning xml:lang="en-US">Nation</meaning>
+        <meaning xml:lang="en-US">State</meaning>
+        <meaning xml:lang="en-US">National</meaning>
+      </meanings>
+    </card>
+    <card id="c40fd69c-15e0-1640c2601fae" batch="0">
+      <character xml:lang="zh-Hans">中</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zho1ng" text="zhong">zhōng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">center</meaning>
+        <meaning xml:lang="en-US">China (中国)</meaning>
+      </meanings>
+    </card>
+    <card id="c40fd6e9-8590-b460152c5540" batch="0">
+      <character xml:lang="zh-Hans">比</character>
+      <character xml:lang="zh-Hans">利</character>
+      <character xml:lang="zh-Hans" page="204" position="6">时</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bi3li4shi2" text="bilishi">bǐlìshí</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Belgium</meaning>
+      </meanings>
+    </card>
+    <card id="c40fd718-b530-197661a06600" batch="0">
+      <character xml:lang="zh-Hans">秘</character>
+      <character xml:lang="zh-Hans">鲁</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bi4lu3" text="bilu">bìlǔ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Peru</meaning>
+      </meanings>
+    </card>
+    <card id="c414b039-10d0-18f216edbb10" batch="1">
+      <character xml:lang="zh-Hans" page="1" position="1">记</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yi4" text="yi">yì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">mark</meaning>
+        <meaning xml:lang="en-US">sign</meaning>
+        <meaning xml:lang="en-US">note</meaning>
+        <meaning xml:lang="en-US">record</meaning>
+        <meaning xml:lang="en-US">remember</meaning>
+      </meanings>
+    </card>
+    <card id="c414babc-a110-9c796fffbd20" batch="5">
+      <character xml:lang="zh-Hans" page="191" position="3">认</character>
+      <character xml:lang="zh-Hans" page="204" position="7">识</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="re4nshi2" text="renshi">rènshí</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to know</meaning>
+      </meanings>
+    </card>
+    <card id="c414bd3f-1910-10cf9c587290" batch="5">
+      <character xml:lang="zh-Hans" page="256" position="2">姓</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xi4ng" text="xing">xìng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">surname</meaning>
+        <meaning xml:lang="en-US">one's surname is</meaning>
+      </meanings>
+    </card>
+    <card id="c414bd7b-87f0-10601750153f" batch="5">
+      <character xml:lang="zh-Hans" page="2331" position="6">外</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="wa4i" text="wai">wài</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">foreign</meaning>
+      </meanings>
+    </card>
+    <card id="c414bd89-9df0-84d0196017fe" batch="1">
+      <character xml:lang="zh-Hans" page="227" position="7">厅</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ti1ng" text="ting">tīng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to listen</meaning>
+      </meanings>
+    </card>
+    <card id="c414bd9b-4be0-116f1a4011f4" batch="5">
+      <character xml:lang="zh-Hans" page="49" position="8">懂</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="do3ng" text="dong">dǒng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">understand</meaning>
+      </meanings>
+    </card>
+    <card id="c414bda7-f5f0-3964145fb2c0" batch="5">
+      <character xml:lang="zh-Hans" page="17" position="3">啤</character>
+      <character xml:lang="zh-Hans" page="117" position="1">酒</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="pi4jiu3" text="pijiu">pìjiǔ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">beer</meaning>
+      </meanings>
+    </card>
+    <card id="c414bde1-4fe0-1f3919001ed4" batch="5">
+      <character xml:lang="zh-Hans" page="72" position="2">个</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ge4" text="ge">gè</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">measure word for a lot of nouns</meaning>
+      </meanings>
+    </card>
+    <card id="c414be4c-ffc0-aa506b67d680" batch="1">
+      <character xml:lang="zh-Hans" page="227" position="7">厅</character>
+      <character xml:lang="zh-Hans" page="49" position="8">懂</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ti1ngdo3ng" text="tingdong">tīngdǒng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">understand, as in hearing someone</meaning>
+      </meanings>
+    </card>
+    <card id="c414be68-87e0-97401fdca570" batch="5">
+      <character xml:lang="zh-Hans" page="150" position="2">买</character>
+      <character xml:lang="zh-Hans" page="41" position="2">单</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ma3ida1n" text="maidan">mǎidān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">a bill</meaning>
+      </meanings>
+    </card>
+    <card id="c414beab-0830-1db01144193d" batch="1">
+      <character xml:lang="zh-Hans" page="130" position="7">来</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="la2i" text="lai">lái</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to come</meaning>
+        <meaning xml:lang="en-US">to arrive</meaning>
+        <meaning xml:lang="en-US">to take place</meaning>
+      </meanings>
+    </card>
+    <card id="c414bf6d-e3f0-2f361e6516b5" batch="5">
+      <character xml:lang="zh-Hans" page="234" position="8">万</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="wa4n" text="wan">wàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">ten thousand</meaning>
+      </meanings>
+    </card>
+    <card id="c414bfd0-eb70-15cc4224112e" batch="5">
+      <character xml:lang="zh-Hans" page="271" position="8">亿</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yi4" text="yi">yì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">hundred million</meaning>
+        <meaning xml:lang="en-US">calculate</meaning>
+      </meanings>
+    </card>
+    <card id="c414bff4-ef60-153039101720" batch="5">
+      <character xml:lang="zh-Hans" page="4" position="6">百</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ba3i" text="bai">bǎi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">honderd</meaning>
+      </meanings>
+    </card>
+    <card id="c414c004-5fe0-1e103b00102d" batch="5">
+      <character xml:lang="zh-Hans" page="139" position="6">两</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="lia3ng" text="liang">liǎng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">other word for 二 </meaning>
+      </meanings>
+    </card>
+    <card id="c414c025-9000-10d812801542" batch="5">
+      <character xml:lang="zh-Hans" page="179" position="7">千</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="qia1n" text="qian">qiān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">thousand</meaning>
+      </meanings>
+    </card>
+    <card id="c414c163-0c10-101e7f5830b0" batch="5">
+      <character xml:lang="zh-Hans" page="244" position="7">喜</character>
+      <character xml:lang="zh-Hans" page="90" position="3">欢</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xi3hua1n" text="xihuan">xǐhuān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">be fond of</meaning>
+        <meaning xml:lang="en-US">like</meaning>
+        <meaning xml:lang="en-US">love</meaning>
+      </meanings>
+    </card>
+    <card id="c414c195-7820-1b3323001407" batch="5">
+      <character xml:lang="zh-Hans" page="116" position="7">九</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ji3u" text="jiu">jǐu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">nine</meaning>
+      </meanings>
+    </card>
+    <card id="c414c20c-c920-191179924e20" batch="5">
+      <character xml:lang="zh-Hans" page="70" position="1">高</character>
+      <character xml:lang="zh-Hans" page="254" position="7">兴</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ga1oxi4ng" text="gaoxing">gāoxìng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">happy</meaning>
+        <meaning xml:lang="en-US">pleased</meaning>
+      </meanings>
+    </card>
+    <card id="c414c220-2e30-1d30150018a2" batch="5">
+      <character xml:lang="zh-Hans" page="98" position="3">记</character>
+      <character xml:lang="zh-Hans" page="295" position="1">者</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ji4zhe3" text="jizhe">jìzhě</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">reporter</meaning>
+      </meanings>
+    </card>
+    <card id="c414c26b-0f60-c0c015161d8c" batch="5">
+      <character xml:lang="zh-Hans" page="239" position="4">问</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="we4n" text="wen">wèn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to ask</meaning>
+        <meaning xml:lang="en-US">inquire</meaning>
+      </meanings>
+    </card>
+    <card id="c414c2c2-b400-9bc41c201bcd" batch="5">
+      <character xml:lang="zh-Hans" page="113" position="3">进</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ji4n" text="jin">jìn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to enter</meaning>
+      </meanings>
+    </card>
+    <card id="c414c329-c5b0-12901c101fae" batch="5">
+      <character xml:lang="zh-Hans" page="113" position="3">进</character>
+      <character xml:lang="zh-Hans" page="130" position="7">来</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ji4nlai" text="jinlai">jìnlai</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to come in</meaning>
+      </meanings>
+    </card>
+    <card id="c414c3a0-5670-8a101a521ce1" batch="5">
+      <character xml:lang="zh-Hans" page="260" position="1">学</character>
+      <character xml:lang="zh-Hans" page="203" position="5">生</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xue2sheng" text="xuesheng">xuésheng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">student</meaning>
+      </meanings>
+    </card>
+    <card id="c414c3c7-1670-1683191b125d" batch="5">
+      <character xml:lang="zh-Hans" page="260" position="1">学</character>
+      <character xml:lang="zh-Hans" page="244" position="3">习</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xuéxí" text="xuéxí">xuéxí</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to learn</meaning>
+        <meaning xml:lang="en-US">to study</meaning>
+        <meaning xml:lang="en-US">gain knowledge</meaning>
+        <meaning xml:lang="en-US">become skilled at</meaning>
+      </meanings>
+    </card>
+    <card id="c414c406-4400-257b16071b95" batch="5">
+      <character xml:lang="zh-Hans" page="260" position="1">学</character>
+      <character xml:lang="zh-Hans" page="284" position="3">院</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xue2yua4n" text="xueyuan">xuéyuàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">institute</meaning>
+        <meaning xml:lang="en-US">college</meaning>
+      </meanings>
+    </card>
+    <card id="c414c462-df30-1717f5201ccc" batch="5">
+      <character xml:lang="zh-Hans" page="284" position="6">月</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yue4" text="yue">yuè</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">moon</meaning>
+      </meanings>
+    </card>
+    <card id="c414c46b-8c20-9f309bd8a600" batch="5">
+      <character xml:lang="zh-Hans" page="208" position="4">手</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="sho3u" text="shou">shǒu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">hand</meaning>
+      </meanings>
+    </card>
+    <card id="c414c473-be30-ed5b8dd2a4c0" batch="5">
+      <character xml:lang="zh-Hans" page="263" position="5">言</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ya2n" text="yan">yán</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">speech</meaning>
+      </meanings>
+    </card>
+    <card id="c4154b35-8740-105f1d601066" batch="5">
+      <character xml:lang="zh-Hans" page="1" position="1">早</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="za3o" text="zao">zǎo</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">early</meaning>
+        <meaning xml:lang="en-US">morning</meaning>
+      </meanings>
+    </card>
+    <card id="c4172e2f-eb30-1aeb47461ec9" batch="5">
+      <character xml:lang="zh-Hans" page="1" position="1">豪</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ha2o" text="hao">háo</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Talented person</meaning>
+        <meaning xml:lang="en-US">Brave</meaning>
+        <meaning xml:lang="en-US">cavalier</meaning>
+      </meanings>
+    </card>
+    <card id="c4179a4a-2090-b2201497d920" batch="5">
+      <character xml:lang="zh-Hans" page="1" position="1">福</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="Fu4" text="Fu">Fù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Blessing</meaning>
+      </meanings>
+    </card>
+    <card id="c41d70c6-a420-c6eb9ff9ad40" batch="6">
+      <character xml:lang="zh-Hans" page="79" position="8">贵</character>
+      <character xml:lang="zh-Hans" page="256" position="2">姓</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="gui4xi4ng" text="guixing">guìxìng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Honorable Surname</meaning>
+      </meanings>
+    </card>
+    <card id="c41d70dd-53c0-1b9016e51cbd" batch="6">
+      <character xml:lang="zh-Hans" page="246" position="5">先</character>
+      <character xml:lang="zh-Hans" page="203" position="5">生</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xia1nshe1ng" text="xiansheng">xiānshēng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">mister</meaning>
+      </meanings>
+    </card>
+    <card id="c41d70e7-a8c0-74801d00aae0" batch="6">
+      <character xml:lang="zh-Hans" page="313" position="1">作</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zuo4" text="zuo">zuò</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Do</meaning>
+      </meanings>
+    </card>
+    <card id="c41d70f4-9360-2f4a1d1016b1" batch="6">
+      <character xml:lang="zh-Hans" page="49" position="5">东</character>
+      <character xml:lang="zh-Hans" page="242" position="6">西</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="do1ngxi1" text="dongxi">dōngxī</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">stuff</meaning>
+      </meanings>
+    </card>
+    <card id="c41d70fb-dde0-8cee1c995500" batch="6">
+      <character xml:lang="zh-Hans" page="11" position="3">笔</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bi3" text="bi">bǐ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">pen</meaning>
+      </meanings>
+    </card>
+    <card id="c41d710c-6870-4df01700f420" batch="6">
+      <character xml:lang="zh-Hans" page="9" position="1">杯</character>
+      <character xml:lang="zh-Hans" page="309" position="6">子</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="be1izi" text="beizi">bēizi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">cup</meaning>
+        <meaning xml:lang="en-US">mug</meaning>
+        <meaning xml:lang="en-US">glass</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7114-b070-1f0a3700f710" batch="6">
+      <character xml:lang="zh-Hans" page="281" position="3">语</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yu3" text="yu">yǔ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">language</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7122-6730-10321a7e9350" batch="6">
+      <character xml:lang="zh-Hans" page="281" position="3">汉</character>
+      <character xml:lang="zh-Hans" page="82" position="1">语</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="Ha4nyu3" text="Hanyu">Hànyǔ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Chinese</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7139-2b00-11327a84b230" batch="6">
+      <character xml:lang="zh-Hans" page="161" position="6">拿</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="na2" text="na">ná</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">hold</meaning>
+        <meaning xml:lang="en-US">take</meaning>
+        <meaning xml:lang="en-US">bring</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7155-5220-1a6056f012e6" batch="6">
+      <character xml:lang="zh-Hans" page="73" position="1">工</character>
+      <character xml:lang="zh-Hans" page="313" position="1">作</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="go1ngzuo4" text="gongzuo">gōngzuò</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">work</meaning>
+        <meaning xml:lang="en-US">job</meaning>
+      </meanings>
+    </card>
+    <card id="c41d716a-50f0-18f5e8e01d0b" batch="6">
+      <character xml:lang="zh-Hans" page="208" position="4">手</character>
+      <character xml:lang="zh-Hans" page="97" position="6">机</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="sho3uji1" text="shouji">shǒujī</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Mobile phone</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7245-88d0-1120199b4b80" batch="6">
+      <character xml:lang="zh-Hans" page="158" position="2">名</character>
+      <character xml:lang="zh-Hans" page="310" position="2">字</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="mi2ngzi4" text="mingzi">míngzì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">name</meaning>
+        <meaning xml:lang="en-US">firstname</meaning>
+      </meanings>
+    </card>
+    <card id="c41d729e-2d40-1e5643301501" batch="6">
+      <character xml:lang="zh-Hans" page="19" position="8">餐</character>
+      <character xml:lang="zh-Hans" page="227" position="6">厅</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ca1nti1ng" text="canting">cāntīng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">dining room</meaning>
+        <meaning xml:lang="en-US">cantina</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7353-d1f0-1a70f450dc20" batch="6">
+      <character xml:lang="zh-Hans" page="217" position="2">宿</character>
+      <character xml:lang="zh-Hans" page="200" position="1">舍</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="su4she4" text="sushe">sùshè</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">dormitory</meaning>
+      </meanings>
+    </card>
+    <card id="c41d735c-1170-23e811661abf" batch="6">
+      <character xml:lang="zh-Hans" page="199" position="5">舌</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="she2" text="she">shé</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">tongue</meaning>
+      </meanings>
+    </card>
+    <card id="c41d739b-b5c0-1f32140a1fda" batch="6">
+      <character xml:lang="zh-Hans" page="185" position="5">请</character>
+      <character xml:lang="zh-Hans" page="313" position="2">坐</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="qi3ngzuo4" text="qingzuo">qǐngzuò</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">please sit</meaning>
+      </meanings>
+    </card>
+    <card id="c41d73c0-01d0-151c7c4083a0" batch="6">
+      <character xml:lang="zh-Hans" page="9" position="4">北</character>
+      <character xml:lang="zh-Hans" page="114" position="2">京</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="be3iji1ng" text="beijing">běijīng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Beijing</meaning>
+      </meanings>
+    </card>
+    <card id="c41d745c-a000-14201370aa00" batch="6">
+      <character xml:lang="zh-Hans" page="153" position="3">没</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="me2i" text="mei">méi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">No (used with certain verbs, such as with 没有)</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7494-f8c0-29f01510ae60" batch="6">
+      <character xml:lang="zh-Hans" page="278" position="8">有</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yo3u" text="you">yǒu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">there is</meaning>
+        <meaning xml:lang="en-US">there are</meaning>
+        <meaning xml:lang="en-US">have</meaning>
+      </meanings>
+    </card>
+    <card id="c41d749c-e4c0-ced0c0391da9" batch="6">
+      <character xml:lang="zh-Hans" page="77" position="6">关</character>
+      <character xml:lang="zh-Hans" page="245" position="1">系</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="gua1nxi" text="guanxi">guānxi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">relation</meaning>
+      </meanings>
+    </card>
+    <card id="c41d74a4-8dd0-3df0adba1de0" batch="6">
+      <character xml:lang="zh-Hans" page="298" position="8">知</character>
+      <character xml:lang="zh-Hans" page="43" position="8">道</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zhi1da4o" text="zhidao">zhīdào</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">know</meaning>
+      </meanings>
+    </card>
+    <card id="c41d74ad-a0c0-126063f016f6" batch="6">
+      <character xml:lang="zh-Hans" page="82" position="8">号</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ha4o" text="hao">hào</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to use after a number</meaning>
+        <meaning xml:lang="en-US">number</meaning>
+      </meanings>
+    </card>
+    <card id="c41d74b6-0650-15e0183014cf" batch="6">
+      <character xml:lang="zh-Hans" page="234" position="6">晚</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="wa3n" text="wan">wǎn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">late</meaning>
+        <meaning xml:lang="en-US">too late</meaning>
+        <meaning xml:lang="en-US">be late</meaning>
+      </meanings>
+    </card>
+    <card id="c41d74b9-9c50-d60019907760" batch="6">
+      <character xml:lang="zh-Hans" page="22" position="2">层</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ce2ng" text="ceng">céng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">floor</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7503-3110-18ec1b401e41" batch="6">
+      <character xml:lang="zh-Hans" page="14" position="5">别</character>
+      <character xml:lang="zh-Hans" page="124" position="6">克</character>
+      <character xml:lang="zh-Hans" page="178" position="7">气</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bie2ke4qi4" text="biekeqi">biékèqì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Don't be polite</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7540-6c80-1d00de6a1533" batch="6">
+      <character xml:lang="zh-Hans" page="17" position="7">不</character>
+      <character xml:lang="zh-Hans" page="277" position="5">用</character>
+      <character xml:lang="zh-Hans" page="253" position="8">谢</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="búyòngxie4" text="búyòngxie">búyòngxiè</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">No need to thank</meaning>
+        <meaning xml:lang="en-US">You're welcome</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7dfc-8670-11a8c9fd1036" batch="7">
+      <character xml:lang="zh-Hans" page="161" position="8">那</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="nà,nèi" text="nà,nèi">nà,nèi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">that (far away)</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7e04-eb60-81108e10168b" batch="7">
+      <character xml:lang="zh-Hans" page="295" position="3">这</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zhe4,zhe4i" text="zhe,zhei">zhè,zhèi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">this (close by)</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7e0f-bc70-b900c020e400" batch="7">
+      <character xml:lang="zh-Hans" page="295" position="3">这</character>
+      <character xml:lang="zh-Hans" page="55" position="5">儿</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zhe4r" text="zher">zhèr</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">here</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7e17-6d70-14801a001b73" batch="6">
+      <character xml:lang="zh-Hans" page="161" position="8">那</character>
+      <character xml:lang="zh-Hans" page="55" position="5">儿</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="na4r" text="nar">nàr</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">there</meaning>
+      </meanings>
+    </card>
+    <card id="c41d7ea4-3700-171f1f00ca80" batch="7">
+      <character xml:lang="zh-Hans" page="161" position="7">哪</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="na3,ne3i" text="na, nei">nǎ,něi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">which?</meaning>
+      </meanings>
+    </card>
+    <card id="c41dc4a4-1ee0-a93014d014c0" batch="7">
+      <character xml:lang="zh-Hans" page="162" position="3">奶</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="na3i" text="nai">nǎi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">breasts</meaning>
+        <meaning xml:lang="en-US">milk</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecae8-8a50-120010e02930" batch="7">
+      <character xml:lang="zh-Hans" page="313" position="1">昨</character>
+      <character xml:lang="zh-Hans" page=" 226" position="2">天</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zuo2tia1n" text="zuotian">zuótiān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">yesterday</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecb10-3ba0-1a0d440023a0" batch="7">
+      <character xml:lang="zh-Hans" page="114" position="1">京</character>
+      <character xml:lang="zh-Hans" page="119" position="3">剧</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ji1ngju4" text="jingju">jīngjù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Beijing Opera</meaning>
+        <meaning xml:lang="en-US">capital theatre</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecb32-4460-1a601f60127d" batch="7">
+      <character xml:lang="zh-Hans" page="289" position="5">怎</character>
+      <character xml:lang="zh-Hans" page="153" position="2">么</character>
+      <character xml:lang="zh-Hans" page="267" position="2">样</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ze3nmeya4ng" text="zenmeyang">zěnmeyàng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">how is it?</meaning>
+        <meaning xml:lang="en-US">how</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecb5f-5820-176055ae1730" batch="7">
+      <character xml:lang="zh-Hans" page="278" position="8">有</character>
+      <character xml:lang="zh-Hans" page="273" position="5">意</character>
+      <character xml:lang="zh-Hans" page="214" position="3">思</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yo3u yi4si" text="you yisi">yǒu yìsi</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">interesting</meaning>
+        <meaning xml:lang="en-US">have meaning</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecba2-5730-13206fe01f38" batch="7">
+      <character xml:lang="zh-Hans" page="226" position="2">天</character>
+      <character xml:lang="zh-Hans" page="178" position="7">气</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string=" tia1nqi4" text=" tianqi"> tiānqì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">weather</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecbc3-2e60-1b82a100b7d0" batch="7">
+      <character xml:lang="zh-Hans" page="278" position="6">游</character>
+      <character xml:lang="zh-Hans" page="277" position="2">泳</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="you2yo3ng" text="youyong">yoúyǒng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to swim</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecbee-7020-12a0d2875760" batch="7">
+      <character xml:lang="zh-Hans" page="204" position="6">时</character>
+      <character xml:lang="zh-Hans" page="87" position="1">候</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="shi2hou" text="shihou">shíhou</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">time</meaning>
+        <meaning xml:lang="en-US">moment</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecc15-3d70-181bf7203750" batch="7">
+      <character xml:lang="zh-Hans" page="248" position="1">现</character>
+      <character xml:lang="zh-Hans" page="286" position="7">在</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xia4nza4i" text="xianzai">xiànzài</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">now</meaning>
+        <meaning xml:lang="en-US">now-here</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecc2d-1470-ffbe2570ac00" batch="7">
+      <character xml:lang="zh-Hans" page="158" position="3">明</character>
+      <character xml:lang="zh-Hans" page="226" position="2">天</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="mi2ngtia1n" text="mingtian">míngtiān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">tomorrow</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecc6d-2a30-1be0a310a2c0" batch="7">
+      <character xml:lang="zh-Hans" page="204" position="6">时</character>
+      <character xml:lang="zh-Hans" page="101" position="8">间</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="shi2jia1n" text="shijian">shíjiān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">time</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecc85-2e60-8b4c1d449cb0" batch="7">
+      <character xml:lang="zh-Hans" page="213" position="7">说</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="shuo1" text="shuo">shuō</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">say</meaning>
+        <meaning xml:lang="en-US">speak</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecc8a-55f0-cac6d82215aa" batch="7">
+      <character xml:lang="zh-Hans" page="226" position="2">天</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="tia1n" text="tian">tiān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">day</meaning>
+        <meaning xml:lang="en-US">heaven</meaning>
+      </meanings>
+    </card>
+    <card id="c42eccd1-7d90-1552410078e0" batch="7">
+      <character xml:lang="zh-Hans" page="39" position="5">打</character>
+      <character xml:lang="zh-Hans" page="186" position="3">球</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="dǎqiu2" text="dǎqiu">dǎqiú</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to play ball</meaning>
+      </meanings>
+    </card>
+    <card id="c42eccfb-78f0-14d010481eca" batch="7">
+      <character xml:lang="zh-Hans" page="8" position="6">抱</character>
+      <character xml:lang="zh-Hans" page="181" position="5">歉</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ba4oqia4n" text="baoqian">bàoqiàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to feel sorry</meaning>
+        <meaning xml:lang="en-US">sorry</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecd0a-6860-1355109f1f2e" batch="7">
+      <character xml:lang="zh-Hans" page="225" position="3">行</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xi3ng" text="xing">xǐng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to be ok</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecd20-dac0-575d180010b6" batch="7">
+      <character xml:lang="zh-Hans" page="125" position="7">恐</character>
+      <character xml:lang="zh-Hans" page="167" position="7">怕</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ko3ngpa4" text="kongpa">kǒngpà</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to be afraid that</meaning>
+        <meaning xml:lang="en-US">perhaps</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecd30-aa00-90d0b1fe46f0" batch="7">
+      <character xml:lang="zh-Hans" page="253" position="2">写</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="xie3" text="xie">xiě</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to write</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecd49-f860-19231ba09580" batch="7">
+      <character xml:lang="zh-Hans" page="151" position="4">慢</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ma4n" text="man">màn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">slow</meaning>
+        <meaning xml:lang="en-US">slow of understanding, thick</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecd63-5060-af8b11e076c0" batch="7">
+      <character xml:lang="zh-Hans" page="122" position="4">看</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ka4n" text="kan">kàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">see</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecd76-9df0-3efb2d40bcc0" batch="7">
+      <character xml:lang="zh-Hans" page="227" position="7">听</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ti1ng" text="ting">tīng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to listen</meaning>
+        <meaning xml:lang="en-US">to hear</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecd8e-1ef0-10c0a2f0cf10" batch="7">
+      <character xml:lang="zh-Hans" page="112" position="2">今</character>
+      <character xml:lang="zh-Hans" page="226" position="2">天</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ji1ntia1n" text="jintian">jīntiān</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">today</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecda4-4ea0-158010c21f5b" batch="7">
+      <character xml:lang="zh-Hans" page="29" position="3">吃</character>
+      <character xml:lang="zh-Hans" page="57" position="8">饭</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="chi1fa4n" text="chifan">chīfàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to eat</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecdc3-7c50-af004a9416bc" batch="7">
+      <character xml:lang="zh-Hans" page="13" position="7">遍</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bia4n" text="bian">biàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">number of times</meaning>
+        <meaning xml:lang="en-US">"pieces"</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecded-68c0-14c035001e42" batch="7">
+      <character xml:lang="zh-Hans" page="46" position="8">电</character>
+      <character xml:lang="zh-Hans" page="207" position="3">视</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="dia4nshi4" text="dianshi">diànshì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">television</meaning>
+      </meanings>
+    </card>
+    <card id="c42ece26-c570-14101d3e4a00" batch="7">
+      <character xml:lang="zh-Hans" page="184" position="8">清</character>
+      <character xml:lang="zh-Hans" page="33" position="3">楚</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="qi1ngchu" text="qingchu">qīngchu</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">clear</meaning>
+        <meaning xml:lang="en-US">clearly understood</meaning>
+      </meanings>
+    </card>
+    <card id="c42ece48-c340-11001fe01c50" batch="7">
+      <character xml:lang="zh-Hans" page="154" position="1">美</character>
+      <character xml:lang="zh-Hans" page="136" position="4">丽</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="me3ili4" text="meili">měilì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">pretty</meaning>
+      </meanings>
+    </card>
+    <card id="c42ece76-12c0-19401ed01b30" batch="7">
+      <character xml:lang="zh-Hans" page="158" position="2">名</character>
+      <character xml:lang="zh-Hans" page="172" position="8">片</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="mi2ngpia4n" text="mingpian">míngpiàn</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">name card</meaning>
+        <meaning xml:lang="en-US">business card</meaning>
+      </meanings>
+    </card>
+    <card id="c42ece89-7f40-1fd3101083e0" batch="7">
+      <character xml:lang="zh-Hans" page="117" position="4">就</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jiu4" text="jiu">jiù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">therefore</meaning>
+        <meaning xml:lang="en-US">"dus"</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecea1-ea10-2a401133146e" batch="7">
+      <character xml:lang="zh-Hans" page="228" position="7">同</character>
+      <character xml:lang="zh-Hans" page="260" position="1">学</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="to2ngxue2" text="tongxue">tóngxué</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">classmate</meaning>
+      </meanings>
+    </card>
+    <card id="c42eced1-d2d0-17039179102d" batch="7">
+      <character xml:lang="zh-Hans" page="269" position="8">一</character>
+      <character xml:lang="zh-Hans" page="246" position="1">下</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="yi2xia4" text="yixia">yíxià</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">for a moment</meaning>
+        <meaning xml:lang="en-US">all of a sudden</meaning>
+        <meaning xml:lang="en-US">give it a go</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecee0-b9b0-d61c1a801699" batch="7">
+      <character xml:lang="zh-Hans" page="111" position="3">介</character>
+      <character xml:lang="zh-Hans" page="199" position="3">绍</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="jie4sha4o" text="jieshao">jièshào</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to introduce</meaning>
+      </meanings>
+    </card>
+    <card id="c42eceee-96c0-9f90a7e7c140" batch="7">
+      <character xml:lang="zh-Hans" page="307" position="3">专</character>
+      <character xml:lang="zh-Hans" page="269" position="3">业</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zhua1nye4" text="zhuanye">zhuānyè</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">major</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecefb-4c90-b8e047901277" batch="7">
+      <character xml:lang="zh-Hans" page="154" position="1">美</character>
+      <character xml:lang="zh-Hans" page="211" position="2">术</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="me3ishu4" text="meishu">měishù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">art</meaning>
+        <meaning xml:lang="en-US">fine arts</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecf12-4cf0-1476c5001e39" batch="7">
+      <character xml:lang="zh-Hans" page="302" position="4">中</character>
+      <character xml:lang="zh-Hans" page="238" position="7">文</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="zho1ngwe2n" text="zhongwen">zhōngwén</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">Chinese language (written)</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecf34-6820-36101ba08ed0" batch="7">
+      <character xml:lang="zh-Hans" page="121" position="6">开</character>
+      <character xml:lang="zh-Hans" page="260" position="1">学</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ka1ixue2" text="kaixue">kāixué</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">start of term</meaning>
+        <meaning xml:lang="en-US">school opening</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecf40-f710-4415aa72dce0" batch="7">
+      <character xml:lang="zh-Hans" page="73" position="1">工</character>
+      <character xml:lang="zh-Hans" page="313" position="1">作</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="go1ngzuo4" text="gongzuo">gōngzuò</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">work</meaning>
+        <meaning xml:lang="en-US">job</meaning>
+        <meaning xml:lang="en-US">construction</meaning>
+        <meaning xml:lang="en-US">task</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecf95-6a30-6bb0147055d0" batch="7">
+      <character xml:lang="zh-Hans" page="239" position="4">问</character>
+      <character xml:lang="zh-Hans" page="225" position="4">题</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="we4nti2" text="wenti">wèntí</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">a question</meaning>
+      </meanings>
+    </card>
+    <card id="c42ecfe8-e7b0-e7e012906910" batch="7">
+      <character xml:lang="zh-Hans" page="163" position="7">能</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ne2ng" text="neng">néng</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">can</meaning>
+        <meaning xml:lang="en-US">may</meaning>
+      </meanings>
+    </card>
+    <card id="c42ed015-3a80-d2801990108e" batch="7">
+      <character xml:lang="zh-Hans" page="161" position="7">哪</character>
+      <character xml:lang="zh-Hans" page="135" position="6">里</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="nǎ lǐ" text="nǎ lǐ">nǎ lǐ</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">where</meaning>
+      </meanings>
+    </card>
+    <card id="c42ed03e-6da0-99d0152e1989" batch="7">
+      <character xml:lang="zh-Hans" page="156" position="8">面</character>
+      <character xml:lang="zh-Hans" page="7" position="5">包</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="miànba1o" text="miànbao">miànbāo</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">bread</meaning>
+        <meaning xml:lang="en-US">"brownie"</meaning>
+      </meanings>
+    </card>
+    <card id="c42ed0ab-53a0-3140104a1272" batch="7">
+      <character xml:lang="zh-Hans" page="13" position="2">编</character>
+      <character xml:lang="zh-Hans" page="28" position="8">程</character>
+      <character xml:lang="zh-Hans" page="258" position="5">序</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="bia1nche2ngxu4" text="bianchengxu">biānchéngxù</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">to program + order (a programmer?)</meaning>
+      </meanings>
+    </card>
+    <card id="c42f7a9e-ac30-b92087f0f380" batch="7">
+      <character xml:lang="zh-Hans" page="124" position="2">可</character>
+      <character xml:lang="zh-Hans" page="207" position="5">是</character>
+      <pronunciation xml:lang="zh-Latn-x-pinyin" order-string="ke3shi4" text="keshi">kěshì</pronunciation>
+      <meanings>
+        <meaning xml:lang="en-US">but (when the sentence has a twist)</meaning>
+      </meanings>
+    </card>
+  </cards>
+  <text>
+    <conversation id="c406c1e1-8800-fe4010d51895">
+      <line id="c4067fbf-02e0-a84e18e01980">
+        <speaker xml:lang="zh-Hans">杨老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你好</chinese>
+          <english xml:lang="en-US">Hello</english>
+        </phrase>
+      </line>
+      <line id="needid4ac1ec8545fe1">
+        <speaker xml:lang="zh-Hans">丁刀波</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你好</chinese>
+          <english xml:lang="en-US">Hello</english>
+        </phrase>
+      </line>
+      <line id="needid4ac2057ef4065">
+        <speaker xml:lang="zh-Hans">杨老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你好吗？</chinese>
+          <english xml:lang="en-US">How are you? </english>
+        </phrase>
+      </line>
+      <line id="needid4ac20662d1b13">
+        <speaker xml:lang="zh-Hans">丁刀波 </speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">我很好，你呢？</chinese>
+          <english xml:lang="en-US">I am very well, and you?</english>
+        </phrase>
+      </line>
+      <line id="needid4ac24773a8adc">
+        <speaker xml:lang="zh-Hans">杨老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">我也很好。</chinese>
+          <english xml:lang="en-US">I am also very well</english>
+        </phrase>
+      </line>
+    </conversation>
+    <conversation id="needid4ac3c065b66fc">
+      <line id="needid4ac3c065b6710">
+        <speaker xml:lang="zh-Hans">林那</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">晚上好</chinese>
+          <english xml:lang="en-US">Good evening</english>
+        </phrase>
+      </line>
+      <line id="needid4ac3c0d2690f0">
+        <speaker xml:lang="zh-Hans">王小云</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">晚上好</chinese>
+          <english xml:lang="en-US">Good evening</english>
+        </phrase>
+      </line>
+      <line id="needid4ac3c322705e5">
+        <speaker xml:lang="zh-Hans">林那</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你是老师吗？</chinese>
+          <english xml:lang="en-US">Are you a teacher?</english>
+        </phrase>
+      </line>
+      <line id="needid4ac3c37ed374c">
+        <speaker xml:lang="zh-Hans">王小云</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">我不是老师。</chinese>
+          <english xml:lang="en-US">I am not a teacher.</english>
+        </phrase>
+      </line>
+      <line id="needid4ac3c6c263b35">
+        <speaker xml:lang="zh-Hans">林那</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">陈呢？</chinese>
+          <english xml:lang="en-US">And Chen？</english>
+        </phrase>
+      </line>
+      <line id="needid4ac3c75a67272">
+        <speaker xml:lang="zh-Hans">王小云</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">他也不是老师。他是教授。</chinese>
+          <english xml:lang="en-US">He is not a teacher either. He is a professor.</english>
+        </phrase>
+      </line>
+    </conversation>
+    <conversation id="c4093028-7d70-c260e70871e0">
+      <line id="c4093028-7e30-5ba0a263fba0">
+        <speaker xml:lang="zh-Hans">张教授</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你好</chinese>
+          <english xml:lang="en-US">Hello</english>
+        </phrase>
+      </line>
+      <line id="needid4ad1c8e27f97b">
+        <speaker xml:lang="zh-Hans">扬老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你好</chinese>
+          <english xml:lang="en-US">Hello</english>
+        </phrase>
+      </line>
+      <line id="needid4ad1c9a542dc8">
+        <speaker xml:lang="zh-Hans">张教授</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你爸爸妈妈都好吗</chinese>
+          <english xml:lang="en-US">How are your parents?</english>
+        </phrase>
+      </line>
+      <line id="needid4ad1ca76c8b40">
+        <speaker xml:lang="zh-Hans">扬老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">他们都很好。</chinese>
+          <english xml:lang="en-US">They are both very well.</english>
+        </phrase>
+      </line>
+      <line id="c40aab13-88b0-ab231c5038c0">
+        <speaker xml:lang="zh-Hans">张教授</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你的哥哥呢？</chinese>
+          <english xml:lang="en-US">And your brother?</english>
+        </phrase>
+      </line>
+    </conversation>
+    <conversation id="c40aa97f-1bd0-180215bab4c0">
+      <line id="c40aa97f-1c30-9bedfee01ccc">
+        <phrase>
+          <chinese xml:lang="zh-Hans">对不起</chinese>
+          <english xml:lang="en-US">I am sorry (I cannot afford to face you).</english>
+        </phrase>
+      </line>
+    </conversation>
+    <conversation id="c40aab6e-2790-167313e61b89">
+      <line id="c40aab6e-2840-1dc07f3b1df8">
+        <speaker xml:lang="zh-Hans">陈老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你忙吗?</chinese>
+          <english xml:lang="en-US">Are you busy?</english>
+        </phrase>
+      </line>
+      <line id="needid4ad1ce628555f">
+        <speaker xml:lang="zh-Hans">马大为</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">我不忙, 你呢？</chinese>
+          <english xml:lang="en-US">I am not busy, are you?</english>
+        </phrase>
+      </line>
+      <line id="needid4ad1cf44393dd">
+        <speaker xml:lang="zh-Hans">陈老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">我也不忙。他的朋友呢？</chinese>
+          <english xml:lang="en-US">I am not busy either. What about your friend?</english>
+        </phrase>
+      </line>
+      <line id="needid4ad1d066c3063">
+        <speaker xml:lang="zh-Hans">马大为</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">他也不忙。</chinese>
+          <english xml:lang="en-US">He is not busy either.</english>
+        </phrase>
+      </line>
+      <line id="needid4ad1d0c0cacb7">
+        <speaker xml:lang="zh-Hans">陈老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你和你的朋友都要咖啡马？</chinese>
+          <english xml:lang="en-US">Do you and your friend want coffee?</english>
+        </phrase>
+      </line>
+      <line id="needid4ad1d106826c9">
+        <speaker xml:lang="zh-Hans">马大为</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">好，我们喝咖啡。</chinese>
+          <english xml:lang="en-US">Ok, We'll drink coffee.</english>
+        </phrase>
+      </line>
+    </conversation>
+    <conversation id="c40be846-4020-12e61de91b8a">
+      <line id="c40be846-40a0-f21019101dd4">
+        <speaker xml:lang="zh-Hans">妹妹</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你好</chinese>
+          <english xml:lang="en-US">Hello</english>
+        </phrase>
+      </line>
+      <line id="needid4ad785721f5e6">
+        <speaker xml:lang="zh-Hans">弟弟</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你好</chinese>
+          <english xml:lang="en-US">Hello</english>
+        </phrase>
+      </line>
+      <line id="needid4ad786ad6ff83">
+        <speaker xml:lang="zh-Hans">妹妹</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你想喝什么饮料？</chinese>
+          <english xml:lang="en-US">What would you like to drink?</english>
+        </phrase>
+      </line>
+      <line id="needid4ad7894f4eb0b">
+        <speaker xml:lang="zh-Hans">弟弟</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">我想喝可口可乐。</chinese>
+          <english xml:lang="en-US">I'd like to drink a coca cola</english>
+        </phrase>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你想喝吗？</chinese>
+          <english xml:lang="en-US">What do you want to drink?</english>
+        </phrase>
+      </line>
+    </conversation>
+    <conversation id="c40fd611-d180-9eac13604e20">
+      <line id="c40fd611-d1f0-18c11a901e36">
+        <speaker xml:lang="zh-Hans">陈老师</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">你是哪国人？</chinese>
+          <english xml:lang="en-US">From what country are you?</english>
+        </phrase>
+      </line>
+      <line id="c40fd637-f590-14906b31cd40">
+        <speaker xml:lang="zh-Hans">扬教授</speaker>
+        <phrase>
+          <chinese xml:lang="zh-Hans">我是荷兰人，你呢？</chinese>
+          <english xml:lang="en-US">I am from the netherlands, and you?</english>
+        </phrase>
+      </line>
+    </conversation>
+  </text>
+  <application>
+    <label id="next">
+      <chinese xml:lang="zh-Hans">下一个</chinese>
+      <english xml:lang="en-US">Next</english>
+    </label>
+    <label id="add">
+      <chinese xml:lang="zh-Hans">添加单词</chinese>
+      <english xml:lang="en-US">Add a Word</english>
+    </label>
+    <label id="showall">
+      <chinese xml:lang="zh-Hans">显示所有</chinese>
+      <english xml:lang="en-US">Show All</english>
+    </label>
+    <label id="wordlist">
+      <chinese xml:lang="zh-Hans">词列表</chinese>
+      <english xml:lang="en-US">Word List</english>
+    </label>
+    <label id="cancel">
+      <chinese xml:lang="zh-Hans">取消</chinese>
+      <english xml:lang="en-US">Cancel</english>
+    </label>
+    <label id="changeview">
+      <chinese xml:lang="zh-Hans">更改视图</chinese>
+      <english xml:lang="en-US">Change View</english>
+    </label>
+    <label id="conversation">
+      <chinese xml:lang="zh-Hans">会话</chinese>
+      <english xml:lang="en-US">Conversation</english>
+    </label>
+    <label id="c40aa97d-3980-13006ef04eb0">
+      <chinese xml:lang="zh-Hans">新增线路</chinese>
+      <english xml:lang="en-US">New Line</english>
+    </label>
+  </application>
+</shan>

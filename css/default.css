@@ -1,0 +1,235 @@
+@import url(menu.css);
+@import url(dialog.css);
+@import url(page.css);
+
+html
+{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	margin:0;
+	padding:1em;
+	font-family:"Lucida Sans Unicode","Lucida Sans";
+	font-size:0.7em; 
+	cursor:default; 
+}
+
+/* common */
+h1,h2,h3,h4
+{
+	text-shadow:1px 1px 2px silver;
+	margin:0;
+}
+h1
+{
+	font-size:3em;
+	margin:0;
+	padding-left:0.5em;
+}
+h1 a 
+{  
+	color:black;
+	text-decoration:none;
+}
+h1 a:hover
+{  
+	color:grey;
+	text-decoration:none;
+}
+
+ul 
+{
+	list-style-type:square;
+	margin:0;
+	padding:0 0 2em 20px;
+}
+
+a 
+{
+	text-decoration:none;
+}
+a:hover
+{
+	text-decoration:underline;
+}
+
+.character, 
+.chinese
+{
+	color:darkred;
+	font-size:140%;
+	font-family:KaiTi_GB2312, Kai, simsun;
+}
+
+
+.box
+{
+	padding:1em;
+	-moz-box-shadow:4px 4px 8px silver;
+	-moz-border-radius-topleft:4px;
+	-webkit-border-top-left-radius:4px;
+	border-radius-topleft:4px;
+	-moz-border-radius-topright:4px;
+	-webkit-border-top-right-radius:4px;
+	border-radius-topright:4px;
+	-moz-border-radius-bottomleft:4px; 
+	-webkit-border-bottom-left-radius:4px;
+	border-radius-bottomleft:4px; 
+	-moz-border-radius-bottomright:12px; 
+	-webkit-border-bottom-right-radius:12px;
+	border-radius-bottomright:12px; 
+	
+}
+
+.hide
+{
+  display:none;
+}
+
+#content
+{
+  margin:0 20px 0 140px;
+}
+
+#content.search #search-form,
+#content.add #add-form,
+#content.downloads #download-page,
+#content.list #words,
+#content.conversations #text,
+#content.contentitem #content-page,
+#content.sentences #sentences,
+#content.add-sentence #add-sentence-form,
+#content.words-of-the-day #words-of-the-day
+{
+	display:block;
+}
+
+.larger,
+.conversation
+{
+	font-size:1.4em;
+}
+
+
+.options
+{
+	position:absolute;
+	right:8px;
+	top:8px;
+}
+.options a
+{
+	color:gray;
+}
+
+
+/* forms */
+
+form
+{
+  margin:0;
+}
+
+.form-body
+{
+  	margin-bottom:2em;
+}
+
+.form-side
+{
+  	width:80px;
+  	position:absolute;
+  	top:14px;
+	  left:320px;
+}
+
+.form-item
+{
+    margin-bottom:4px;
+}
+
+.form-buttons
+{
+    margin:1em 0 4px 0;
+}
+
+.form-item-small
+{
+    margin-bottom:4px;
+}
+
+label 
+{
+  float:left;
+  display:inline-block;
+  width:80px;
+  vertical-align:middle;
+  text-align:right;
+  padding-right:1em;
+  padding-top:4px;
+  margin:0;
+  color:grey;
+}
+
+.form-item-small label
+{
+  float:none;
+  display:block;
+  text-align:left;
+}
+
+.no-label 
+{
+  padding-left:92px;
+}
+
+.double 
+{
+  display:none;
+  font-weight:bold;color:darkred;
+}
+
+
+.single-button 
+{
+  padding-left:180px;
+}
+
+button,
+input 
+{
+  font-family:"Lucida Sans Unicode","Lucida Sans";
+  font-size:1em;
+  width:100px;
+  padding:0.2em;
+  background-color:#efefef;
+  border:solid 1px silver;
+ -moz-border-radius:3px;
+ -webkit-border-radius:4px;
+  cursor:text;
+  margin:0;
+}
+
+button:focus,
+a, 
+input[type=text]:focus,
+input[type=password]:focus 
+{
+  outline: 0 none;
+}
+
+button
+{
+  background-color:darkred;
+  border-color:darkred;
+  color:White;
+  font-weight:bold;
+  width:92px;
+  margin:0 4px;
+  cursor:pointer;cursor:hand;
+}
+
+

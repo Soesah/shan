@@ -5,7 +5,6 @@ Shan
 - add shortcut keys for show hide functions?, catch backspace
 - add loading dialog? make incoming dialogs display themselves...
 V- create spaced views on character/pinying/english?
-	- can you enter the text, then divide it up into word, by grouping characters in Xopus. 
 	- Then you can find the pronunciation with those characters
 - fix batches (perhaps as subelements, since it will break the XML)
 - re-sort (once a day perhaps)
