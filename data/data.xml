@@ -1677,7 +1677,7 @@
       <pinyin order-string="bia4n" text="bian" xml:lang="zh-Latn-x-pinyin">biàn</pinyin>
       <meanings>
         <meaning xml:lang="en-US">number of times</meaning>
-        <meaning xml:lang="en-US">&quot;pieces&quot;</meaning>
+        <meaning xml:lang="en-US">'pieces'</meaning>
       </meanings>
     </word>
     <word batch="7" id="c42ecded-68c0-14c035001e42">
@@ -1715,7 +1715,7 @@
       <pinyin order-string="jiu4" text="jiu" xml:lang="zh-Latn-x-pinyin">jiù</pinyin>
       <meanings>
         <meaning xml:lang="en-US">therefore</meaning>
-        <meaning xml:lang="en-US">&quot;dus&quot;</meaning>
+        <meaning xml:lang="en-US">'dus'</meaning>
       </meanings>
     </word>
     <word batch="7" id="c42ecea1-ea10-2a401133146e">
@@ -1810,7 +1810,7 @@
       <pinyin order-string="miànba1o" text="miànbao" xml:lang="zh-Latn-x-pinyin">miànbāo</pinyin>
       <meanings>
         <meaning xml:lang="en-US">bread</meaning>
-        <meaning xml:lang="en-US">&quot;brownie&quot;</meaning>
+        <meaning xml:lang="en-US">'brownie'</meaning>
       </meanings>
     </word>
     <word batch="7" id="c42ed0ab-53a0-3140104a1272">
@@ -2109,7 +2109,7 @@
       <pinyin order-string="ke3'a4i" text="ke'ai" xml:lang="zh-Latn-x-pinyin">kě'ài</pinyin>
       <meanings>
         <meaning xml:lang="en-US">cute</meaning>
-        <meaning xml:lang="en-US">worth loving&quot;</meaning>
+        <meaning xml:lang="en-US">worth loving</meaning>
       </meanings>
     </word>
     <word batch="8" id="c43f4360-9db0-1130470062b0">
@@ -4585,7 +4585,7 @@
       <pinyin order-string="co2ngqia3n" text="congqian" xml:lang="zh-Latn-x-pinyin">cóngqiǎn</pinyin>
       <meanings>
         <meaning xml:lang="en-US">previously</meaning>
-        <meaning xml:lang="en-US">&quot;vroeger&quot;</meaning>
+        <meaning xml:lang="en-US">vroeger</meaning>
       </meanings>
     </word>
     <word batch="16" id="c49d3c0f-d080-9f6991767060">
