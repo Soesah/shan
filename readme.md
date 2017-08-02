@@ -6,15 +6,18 @@ Especially being able to display texts with pinyin, to practice pronunciation, w
 The main goals of the app are:
 
 - Flashcards
-  - choose a batch to play with
-  - turn card around to see pinyin
-  - english-pinyin-chinese
-  - chinese-pinyin-english
-  - enter a value to see if you are correct
-- Expose you to chinese characters, their Pinyin and translation
+  - choose a batch to play with (Save in localstorage)
+    - LocalStorangeService - to save settings: current batch, used words, current words and state?
+    - DailyWordsService - to provide the daily words
+  - See 3 cards with a character (or with a meaning)
+    - click card to see hint (pinyin)
+    - enter a value to see if you are correct
+    - turn card around to see meaning
+    - english->pinyin/chinese (based on setting, time of day?)
+    - chinese/pinyin->english
+- Expose you to chinese characters, Pinyin and translation
 - Quickly add characters (and make sure you don't add doubles)
 - Add chinese texts
-- 
 
 - Search
   Search should always be available, and be consistent: you should be able to go back to previous results  
