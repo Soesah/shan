@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:import schemaLocation="xml.xsd" namespace="http://www.w3.org/XML/1998/namespace"/>
+  
+  <xs:element name="shan">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="title"/>
+        <xs:element ref="tips-for-learning" />
+        <xs:element ref="cards"/>
+        <xs:element ref="text"/>
+        <xs:element ref="application"/>        
+      </xs:sequence>
+      <xs:attribute ref="xml:base"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="title" type="text.Type"/>
+  
+  <xs:element name="tips-for-learning">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="tip" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="tip" type="section.Type"/>
+  
+  <xs:element name="cards">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="card" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="card">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="character" maxOccurs="unbounded"/>
+        <xs:element ref="pronunciation"/>
+        <xs:element ref="meanings"/>
+      </xs:sequence>
+      <xs:attribute ref="id" use="required"/>
+      <xs:attribute ref="batch" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="character">
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:lang" use="required"/>
+      <xs:attribute ref="page" use="optional"/>
+      <xs:attribute ref="position" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="pronunciation">
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:lang" use="required"/>
+      <xs:attribute ref="order-string" use="optional"/>
+      <xs:attribute ref="text" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="meanings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="meaning" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="meaning">
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:lang" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="text">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="conversation" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="conversation">
+    <xs:complexType>
+      <xs:sequence>
+	      <xs:element ref="title"/>
+        <xs:element ref="line" maxOccurs="unbounded"/>
+      </xs:sequence>
+     	<xs:attribute ref="id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="line">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="speaker" minOccurs="0"/>
+        <xs:element ref="phrase" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute ref="id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="speaker">
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:lang" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="phrase">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="chinese"/>
+        <xs:element ref="english"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="application">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="label" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="label">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="chinese"/>
+        <xs:element ref="english"/>
+      </xs:sequence>
+      <xs:attribute ref="id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="chinese" substitutionGroup="text.Abstract">
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:lang" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="english">
+    <xs:complexType mixed="true">
+      <xs:attribute ref="xml:lang" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- general content -->
+  <xs:complexType name="section.Type">
+    <xs:sequence>
+      <xs:element ref="title"/>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="block.Abstract"/>
+      </xs:choice>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:element name="block.Abstract" abstract="true"/>
+
+  <xs:element name="paragraph"  type="inline.Type" substitutionGroup="block.Abstract"/>
+
+  <xs:element name="unorderedlist" type="list.Type" substitutionGroup="block.Abstract" />
+  <xs:element name="orderedlist" type="list.Type" substitutionGroup="block.Abstract" />
+
+  <xs:complexType name="list.Type">
+    <xs:sequence>
+      <xs:element name="item" type="text.Type" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="text.Type" mixed="true">
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element ref="text.Abstract"/>
+    </xs:choice>
+  </xs:complexType>
+
+  <xs:element name="text.Abstract" abstract="true"/>
+  
+  <xs:complexType name="inline.Type" mixed="true">
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element ref="inline.Abstract"/>
+      <xs:element ref="text.Abstract"/>
+    </xs:choice>
+  </xs:complexType>
+
+
+  <xs:complexType name="link.Type" mixed="true">
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element ref="inline.Abstract"/>
+      <xs:element ref="text.Abstract"/>
+    </xs:choice>
+    <xs:attribute name="href" use="required" type="xs:anyURI"/>
+  </xs:complexType>
+
+  <xs:element name="inline.Abstract" abstract="true"/>
+
+  <xs:element name="emphasis" type="inline.Type" substitutionGroup="inline.Abstract"/>
+  <xs:element name="strong" type="inline.Type" substitutionGroup="inline.Abstract"/>
+  <xs:element name="link" type="link.Type" substitutionGroup="inline.Abstract"/>
+  <xs:element name="underline" type="inline.Type" substitutionGroup="inline.Abstract"/>
+  <xs:element name="subscript" type="inline.Type" substitutionGroup="text.Abstract"/>
+  <xs:element name="superscript" type="inline.Type" substitutionGroup="text.Abstract"/>
+  
+  <!-- attributes -->
+
+  <xs:attribute name="id" type="xs:ID"/>
+  <xs:attribute name="page" type="xs:integer"/>
+  <xs:attribute name="position" type="xs:integer"/>
+  <xs:attribute name="order-string" type="xs:string"/>
+  <xs:attribute name="text" type="xs:string"/>
+  <xs:attribute name="batch" type="xs:integer"/>
+
+</xs:schema>

@@ -34,6 +34,7 @@ The main goals of the app are:
 - Daily Words/List
   Twenty words to practice, and the ability to renew the batch, and use a batch.
 
+- Tag words (for grouping, different aspects on words, associations)
 
 Problems with the current site:
 

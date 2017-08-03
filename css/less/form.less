@@ -1,0 +1,32 @@
+form {
+   &:extend(.panel);
+   margin-bottom: @size-default;
+}
+
+
+select,
+textarea,
+input {
+  box-shadow: 1px 1px 0px desaturate(darken(@color-sand, 20%), 20%);
+  background: desaturate(darken(@color-sand, 5%), 5%);
+  border-radius: @border-radius;
+  padding: @size-medium;
+  text-align: center;
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  color: inherit;
+  width: 100%;
+  border: none;
+  outline: none;
+
+  &:focus {
+    background: @color-sand-light;
+  }
+  &:focus,
+  &:hover,
+  &:active {
+    box-shadow: 1px 1px 0px desaturate(darken(@color-sand, 40%), 40%);
+    box-shadow: 1px 1px 0px desaturate(darken(@color-sand, 40%), 40%);
+  }
+}

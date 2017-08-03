@@ -1,0 +1,31 @@
+/* cards */
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.card {
+  &:extend(.panel);
+  margin: 0 @size-default @size-default 0;
+  width: 190px;
+  height: 220px;
+  cursor: pointer;
+  position: relative;
+
+  &:hover {
+    border-color: desaturate(darken(@color-sand, 50%), 25%);
+    box-shadow: 2px 2px 4px desaturate(darken(@color-sand, 60%), 20%);
+  }
+
+  h2 {
+    margin: 0;
+    font-size: 35px;
+    text-align: center;
+  }
+
+  .pinyin {
+    text-align: center;
+  }
+
+}
