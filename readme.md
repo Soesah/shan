@@ -18,6 +18,7 @@ The main goals of the app are:
 - Expose you to chinese characters, Pinyin and translation
 - Quickly add characters (and make sure you don't add doubles)
 - Add chinese texts
+- Keep track of trained characters, times, correctness, etc.
 
 - Search
   Search should always be available, and be consistent: you should be able to go back to previous results
@@ -32,7 +33,7 @@ The main goals of the app are:
 - Add Character
   A very important feature, but it should be smarter, in helping to give you character numbers
 - Daily Words/List
-  Twenty words to practice, and the ability to renew the batch, and use a batch.
+  Ten words to practice, and the ability to renew the batch, and use a batch.
 
 - Tag words (for grouping, different aspects on words, associations)
 
