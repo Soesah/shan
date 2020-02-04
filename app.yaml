@@ -1,0 +1,20 @@
+runtime: go112
+instance_class: F1
+
+default_expiration: '1d'
+
+automatic_scaling:
+  max_concurrent_requests: 64
+  max_idle_instances: automatic
+
+handlers:
+  - url: /.*
+    script: auto
+    secure: always
+    redirect_http_response_code: 301
+
+env_variables:
+  ENVIRONMENT: 'master'
+  DIST_FOLDER: 'dist'
+  GAE_DATASTORE_HOST: 'shan-lostmarbles.nl.appspot.com'
+  CLOUD_STORAGE_BUCKET: 'shan-lostmarbles.nl.appspot.com'
