@@ -1,6 +1,6 @@
-#Shan 2.0
+# Shan 2.0
 
-You've had the Shan site quite a while now, but it's time for an update to make it more useful. 
+You've had the Shan site quite a while now, but it's time for an update to make it more useful.
 Especially being able to display texts with pinyin, to practice pronunciation, would be very good.
 
 The main goals of the app are:
@@ -20,7 +20,7 @@ The main goals of the app are:
 - Add chinese texts
 
 - Search
-  Search should always be available, and be consistent: you should be able to go back to previous results  
+  Search should always be available, and be consistent: you should be able to go back to previous results
   Items (Character, Text) are clickable and link to their page.
   You should likewise, perhaps, be able to search a word in a text (in a side panel or so)
 - Text
@@ -36,12 +36,32 @@ The main goals of the app are:
 
 - Tag words (for grouping, different aspects on words, associations)
 
-Problems with the current site:
+## Project setup
 
-- Back doesn't work, due to use of XMLHTTP
-- Can't search and do something else at the same time.
-- Can't deeplink
-- Not easy to extend.
+```bash
+yarn install
+```
 
-Source
-http://lava360.com/freebies/99-high-quality-css-and-xhtml-free-templates-and-layouts-part-1/
+### Compiles and hot-reloads for development
+
+```bash
+yarn run serve
+```
+
+### Compiles and minifies for production
+
+```bash
+yarn run build
+```
+
+### Run your tests
+
+```bash
+yarn run test
+```
+
+### Lints and fixes files
+
+```bash
+yarn run lint
+```

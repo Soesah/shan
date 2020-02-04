@@ -1,0 +1,30 @@
+@import 'less/variables.less';
+@import 'less/fonts.less';
+@import 'less/reset.less';
+@import 'less/colors.less';
+@import 'less/panel.less';
+@import 'less/form.less';
+@import 'less/cards.less';
+
+body {
+  padding: @size-default;
+  .font-default();
+  color: @color-black;
+}
+
+.chinese {
+  font-family: 'kaiti';
+  color: @color-darkred;
+}
+
+.pinyin {
+  color: darken(@color-sand, 70%);
+}
+
+h1 {
+  color: @color-darkred;
+}
+
+.answer-form {
+  width: 400px;
+}
