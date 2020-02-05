@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?> 
-<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/XML/1998/namespace" xmlns:xopus="http://www.xopus.com/xmlns/xsd">
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema elementFormDefault="qualified" 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/XML/1998/namespace">
 
 
   <xs:attribute name="base" type="xs:string"/>
@@ -7,33 +8,10 @@
 
   <xs:simpleType name="langType">
     <xs:restriction base="xs:string">
-      <xs:enumeration value="zh-Hans">
-        <xs:annotation>
-          <xs:appinfo>
-            <xopus:documentation>
-              <xopus:name>Chinese (Simplified)</xopus:name>
-            </xopus:documentation>
-          </xs:appinfo>
-        </xs:annotation>
-      </xs:enumeration>
-      <xs:enumeration value="zh-Latn-x-pinyin">
-        <xs:annotation>
-          <xs:appinfo>
-            <xopus:documentation>
-              <xopus:name>Pinyin</xopus:name>
-            </xopus:documentation>
-          </xs:appinfo>
-        </xs:annotation>
-      </xs:enumeration>
-      <xs:enumeration value="en-US">
-        <xs:annotation>
-          <xs:appinfo>
-            <xopus:documentation>
-              <xopus:name>English</xopus:name>
-            </xopus:documentation>
-          </xs:appinfo>
-        </xs:annotation>
-      </xs:enumeration>
+      <xs:enumeration value="zh-Hans"/>
+      <xs:enumeration value="zh-Latn-x-pinyin"/>
+      <xs:enumeration value="en-US"/>
+      <xs:enumeration value="en-US"/>
     </xs:restriction>
   </xs:simpleType>
 
