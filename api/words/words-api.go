@@ -10,26 +10,16 @@ import (
 )
 
 // GetWords returns the words
-func GetWords(r *http.Request) ([]byte, error) {
-	var bytes []byte
+func GetWords(r *http.Request) ([]models.WordJSON, error) {
+	c := Controller{}
 
-	bytes, err := storage.GetFile("words.xml", r)
-
-	if err != nil {
-		return bytes, err
-	}
-
-	return bytes, nil
-}
-
-// GetWordsData returns the words
-func GetWordsData(r *http.Request) ([]models.WordJSON, error) {
+	err := c.Load(r)
 	var words models.Words
 
 	bytes, err := storage.GetFile("words.xml", r)
 
 	if err != nil {
-		return words.GetList(), err
+		return c.Words.GetList(), err
 	}
 
 	decoder := xml.NewDecoder(strings.NewReader(string(bytes)))
@@ -41,4 +31,49 @@ func GetWordsData(r *http.Request) ([]models.WordJSON, error) {
 	}
 
 	return words.GetList(), nil
+}
+
+// GetWordsXML returns the words as XML
+func GetWordsXML(r *http.Request) ([]byte, error) {
+	c := Controller{}
+
+	return c.LoadXML(r)
+}
+
+// AddWord adds a word
+func AddWord(word models.WordJSON, r *http.Request) (models.WordJSON, error) {
+
+	return word, nil
+}
+
+// GetWord returns a word
+func GetWord(uuid string, r *http.Request) (models.WordJSON, error) {
+	var word models.WordJSON
+
+	c := Controller{}
+	err := c.Load(r)
+
+	if err != nil {
+		return word, err
+	}
+
+	word, err = c.GetWord(uuid)
+
+	if err != nil {
+		return word, err
+	}
+
+	return word, nil
+}
+
+// Update updates a word
+func Update(word models.WordJSON, r *http.Request) (models.WordJSON, error) {
+
+	return word, nil
+}
+
+// RemoveWord removes a word
+func RemoveWord(uuid string, r *http.Request) error {
+
+	return nil
 }

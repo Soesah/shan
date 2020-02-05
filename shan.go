@@ -34,8 +34,12 @@ func main() {
 		// api
 		r.Route("/api", func(r chi.Router) {
 			r.Use(middlewares.NoCache)
-			r.Get("/words.xml", handlers.GetWords)
-			r.Get("/words.json", handlers.GetWordsAsJSON)
+			r.Get("/words", handlers.GetWords)
+			r.Get("/words.xml", handlers.GetWordsXML)
+			r.Post("/words", handlers.AddWord)
+			r.Get("/words/{uuid}", handlers.GetWord)
+			r.Put("/words/{uuid}", handlers.UpdateWord)
+			r.Delete("/words/{uuid}", handlers.RemoveWord)
 		})
 
 	})

@@ -74,3 +74,16 @@ type WordJSON struct {
 	ID        string    `json:"id"`
 	Batch     int       `json:"batch"`
 }
+
+// GetXML returns a nicer JSON format for the word
+func (w *WordJSON) GetXML() Word {
+	return Word{
+		Character: w.Character,
+		Pinyin:    w.Pinyin,
+		Meanings: Meanings{
+			Meaning: w.Meanings,
+		},
+		ID:    w.ID,
+		Batch: w.Batch,
+	}
+}
