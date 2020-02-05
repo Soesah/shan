@@ -36,6 +36,9 @@ The main goals of the app are:
   Ten words to practice, and the ability to renew the batch, and use a batch.
 
 - Tag words (for grouping, different aspects on words, associations)
+  - Related words
+  - Opposite words
+  - Similar words
 
 ## Project setup
 

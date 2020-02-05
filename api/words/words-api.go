@@ -33,6 +33,25 @@ func GetWords(r *http.Request) ([]models.WordJSON, error) {
 	return words.GetList(), nil
 }
 
+// GetWordsBatch returns the words as XML
+func GetWordsBatch(batch int, r *http.Request) ([]models.WordJSON, error) {
+	var wordsBatch []models.WordJSON
+
+	words, err := GetWords(r)
+
+	if err != nil {
+		return wordsBatch, err
+	}
+
+	for _, w := range words {
+		if w.Batch == batch {
+			wordsBatch = append(wordsBatch, w)
+		}
+	}
+
+	return wordsBatch, err
+}
+
 // GetWordsXML returns the words as XML
 func GetWordsXML(r *http.Request) ([]byte, error) {
 	c := Controller{}

@@ -35,6 +35,7 @@ func main() {
 		r.Route("/api", func(r chi.Router) {
 			r.Use(middlewares.NoCache)
 			r.Get("/words", handlers.GetWords)
+			r.Get("/words/batch/{nr}", handlers.GetWordsBatch)
 			r.Get("/words.xml", handlers.GetWordsXML)
 			r.Post("/words", handlers.AddWord)
 			r.Get("/words/{uuid}", handlers.GetWord)

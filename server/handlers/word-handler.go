@@ -2,6 +2,7 @@ package handlers
 
 import (
 	"net/http"
+	"strconv"
 
 	"github.com/Soesah/shan.lostmarbles.nl/api/words"
 	"github.com/Soesah/shan.lostmarbles.nl/server/httpext"
@@ -63,6 +64,20 @@ func RemoveWord(w http.ResponseWriter, r *http.Request) {
 // GetWords is used to get the words/characters from the db as a JSON list
 func GetWords(w http.ResponseWriter, r *http.Request) {
 	words, err := words.GetWords(r)
+
+	if err != nil {
+		httpext.AbortAPI(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	httpext.SuccessDataAPI(w, "Ok", words)
+}
+
+// GetWordsBatch is used to get the words/characters from the db as a JSON list
+func GetWordsBatch(w http.ResponseWriter, r *http.Request) {
+	nr, err := strconv.Atoi(chi.URLParam(r, "nr"))
+
+	words, err := words.GetWordsBatch(nr, r)
 
 	if err != nil {
 		httpext.AbortAPI(w, err.Error(), http.StatusInternalServerError)
