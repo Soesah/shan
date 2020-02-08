@@ -75,8 +75,8 @@ type WordJSON struct {
 	Batch     int       `json:"batch"`
 }
 
-// GetXML returns a nicer JSON format for the word
-func (w *WordJSON) GetXML() Word {
+// GetWord returns a Word for WordJSON
+func (w *WordJSON) GetWord() Word {
 	return Word{
 		Character: w.Character,
 		Pinyin:    w.Pinyin,

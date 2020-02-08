@@ -61,8 +61,24 @@ func GetWordsXML(r *http.Request) ([]byte, error) {
 
 // AddWord adds a word
 func AddWord(word models.WordJSON, r *http.Request) (models.WordJSON, error) {
+	var w models.Word
 
-	return word, nil
+	c := Controller{}
+	err := c.Load(r)
+
+	if err != nil {
+		return w.GetJSON(), err
+	}
+
+	w = c.AddWord(word.GetWord())
+
+	err = c.Store(r)
+
+	if err != nil {
+		return w.GetJSON(), err
+	}
+
+	return w.GetJSON(), nil
 }
 
 // GetWord returns a word
@@ -87,12 +103,48 @@ func GetWord(uuid string, r *http.Request) (models.WordJSON, error) {
 
 // Update updates a word
 func Update(word models.WordJSON, r *http.Request) (models.WordJSON, error) {
+	c := Controller{}
+	err := c.Load(r)
+
+	if err != nil {
+		return word, err
+	}
+
+	word, err = c.UpdateWord(word)
+
+	if err != nil {
+		return word, err
+	}
+
+	err = c.Store(r)
+
+	if err != nil {
+		return word, err
+	}
 
 	return word, nil
 }
 
 // RemoveWord removes a word
 func RemoveWord(uuid string, r *http.Request) error {
+	c := Controller{}
+	err := c.Load(r)
+
+	if err != nil {
+		return err
+	}
+
+	err = c.RemoveWord(uuid)
+
+	if err != nil {
+		return err
+	}
+
+	err = c.Store(r)
+
+	if err != nil {
+		return err
+	}
 
 	return nil
 }

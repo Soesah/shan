@@ -1,9 +1,11 @@
 package handlers
 
 import (
+	"encoding/json"
 	"net/http"
 	"strconv"
 
+	"github.com/Soesah/shan.lostmarbles.nl/api/models"
 	"github.com/Soesah/shan.lostmarbles.nl/api/words"
 	"github.com/Soesah/shan.lostmarbles.nl/server/httpext"
 	"github.com/go-chi/chi"
@@ -11,8 +13,16 @@ import (
 
 // AddWord is used to add a words/character in the db
 func AddWord(w http.ResponseWriter, r *http.Request) {
-	uuid := chi.URLParam(r, "uuid")
-	word, err := words.GetWord(uuid, r)
+	decoder := json.NewDecoder(r.Body)
+	var word models.WordJSON
+	err := decoder.Decode(&word)
+
+	if err != nil {
+		httpext.AbortAPI(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	word, err = words.AddWord(word, r)
 
 	if err != nil {
 		httpext.AbortAPI(w, err.Error(), http.StatusInternalServerError)
@@ -37,8 +47,15 @@ func GetWord(w http.ResponseWriter, r *http.Request) {
 
 // UpdateWord is used to update a specific words/character in the db
 func UpdateWord(w http.ResponseWriter, r *http.Request) {
-	uuid := chi.URLParam(r, "uuid")
-	word, err := words.GetWord(uuid, r)
+	decoder := json.NewDecoder(r.Body)
+	var word models.WordJSON
+	err := decoder.Decode(&word)
+
+	if err != nil {
+		httpext.AbortAPI(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	word, err = words.Update(word, r)
 
 	if err != nil {
 		httpext.AbortAPI(w, err.Error(), http.StatusInternalServerError)

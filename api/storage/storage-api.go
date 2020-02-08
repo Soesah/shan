@@ -34,7 +34,7 @@ func PutFile(file string, data []byte, r *http.Request) error {
 
 	if conf.IsDev() {
 		dir, _ := os.Getwd()
-		err := ioutil.WriteFile(strings.Join([]string{dir, "/data/", file, ".json"}, ""), data, 0777)
+		err := ioutil.WriteFile(strings.Join([]string{dir, "/data/", file}, ""), data, 0777)
 
 		if err != nil {
 			return err
@@ -100,7 +100,7 @@ func GetFile(file string, r *http.Request) ([]byte, error) {
 		return nil, err
 	}
 
-	path := strings.Join([]string{"data/", file, ".json"}, "")
+	path := strings.Join([]string{"data/", file}, "")
 
 	bkt := client.Bucket(conf.BucketName)
 	reader, err := bkt.Object(path).NewReader(ctx)

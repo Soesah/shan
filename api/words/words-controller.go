@@ -1,7 +1,6 @@
 package words
 
 import (
-	"encoding/json"
 	"encoding/xml"
 	"errors"
 	"net/http"
@@ -79,7 +78,18 @@ func (c *Controller) Store(r *http.Request) error {
 	return nil
 }
 
-// GetWord gets a word from  the database
+// AddWord adds a word
+func (c *Controller) AddWord(word models.Word) models.Word {
+	words := c.Words.Words
+
+	words = append(words, word)
+
+	c.Words.Words = words
+
+	return word
+}
+
+// GetWord gets a word
 func (c *Controller) GetWord(uuid string) (models.WordJSON, error) {
 	var word models.WordJSON
 	for _, w := range c.Words.Words {
@@ -88,4 +98,49 @@ func (c *Controller) GetWord(uuid string) (models.WordJSON, error) {
 		}
 	}
 	return word, errWordNotFound
+}
+
+// UpdateWord updates a word
+func (c *Controller) UpdateWord(word models.WordJSON) (models.WordJSON, error) {
+	var words []models.Word
+	uuid := word.ID
+
+	found := false
+	for _, w := range c.Words.Words {
+		if w.ID != uuid {
+			words = append(words, w)
+		} else {
+			words = append(words, word.GetWord())
+			found = true
+		}
+	}
+
+	if !found {
+		return word, errWordNotFound
+	}
+
+	c.Words.Words = words
+
+	return word, nil
+}
+
+// RemoveWord removes a word
+func (c *Controller) RemoveWord(uuid string) error {
+	var words []models.Word
+	found := false
+	for _, w := range c.Words.Words {
+		if w.ID != uuid {
+			words = append(words, w)
+		} else {
+			found = true
+		}
+	}
+
+	if !found {
+		return errWordNotFound
+	}
+
+	c.Words.Words = words
+
+	return nil
 }
