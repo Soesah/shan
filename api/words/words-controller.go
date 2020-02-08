@@ -64,7 +64,7 @@ func (c *Controller) Store(r *http.Request) error {
 		return errNoWordsToSave
 	}
 
-	data, err := json.MarshalIndent(c.Words, "", "  ")
+	data, err := xml.MarshalIndent(c.Words, "", "  ")
 
 	if err != nil {
 		return err
