@@ -1,9 +1,9 @@
 <template>
   <section>
     <logo></logo>
-    <h1>This is the add page</h1>
   </section>
 </template>
+
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
 import Logo from '@/components/common/Logo.vue';
@@ -11,5 +11,5 @@ import Logo from '@/components/common/Logo.vue';
 @Component({
   components: { Logo },
 })
-export default class Add extends Vue {}
+export default class List extends Vue {}
 </script>
