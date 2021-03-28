@@ -1,20 +1,9 @@
 <template>
   <section>
-    <logo></logo>
+    <Logo />
 
     <ul class="characters">
-      <li
-        class="chinese"
-        v-for="word in words"
-        :key="word.id"
-        :class="{
-          'chinese-double': isDouble(word.character.value),
-          'chinese-tripple': isTripple(word.character.value),
-          'chinese-quadrupple': isQuadrupple(word.character.value),
-        }"
-      >
-        <h2>{{ word.character.value }}</h2>
-      </li>
+      <Card v-for="word in words" :key="word.id" :word="word"> </Card>
     </ul>
   </section>
 </template>
@@ -23,6 +12,7 @@
 import { Component, Vue } from 'vue-property-decorator';
 import { mapState } from 'vuex';
 import Logo from '@/components/common/Logo.vue';
+import Card from '@/components/card/Card.vue';
 
 @Component({
   computed: {
@@ -30,21 +20,12 @@ import Logo from '@/components/common/Logo.vue';
   },
   components: {
     Logo,
-  },
-  async created() {
-    this.$store.dispatch('getWords');
-  },
-  methods: {
-    isDouble(characters: string) {
-      return characters.length === 2;
-    },
-    isTripple(characters: string) {
-      return characters.length === 3;
-    },
-    isQuadrupple(characters: string) {
-      return characters.length === 4;
-    },
+    Card,
   },
 })
-export default class List extends Vue {}
+export default class List extends Vue {
+  public async created() {
+    this.$store.dispatch('getWords');
+  }
+}
 </script>

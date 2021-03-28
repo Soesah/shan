@@ -1,15 +1,20 @@
 <template>
   <section>
-    <logo></logo>
+    <Logo />
+    <FlashCard />
   </section>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
 import Logo from '@/components/common/Logo.vue';
+import FlashCard from '@/components/card/FlashCard.vue';
 
 @Component({
-  components: { Logo },
+  components: {
+    Logo,
+    FlashCard,
+  },
 })
-export default class List extends Vue {}
+export default class Flash extends Vue { }
 </script>

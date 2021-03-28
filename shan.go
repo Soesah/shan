@@ -23,7 +23,7 @@ func main() {
 	r.Group(func(r chi.Router) {
 
 		// middleware
-		r.Use(middleware.DefaultCompress)
+		r.Use(middleware.Compress(5))
 		r.Use(middleware.RequestID)
 		r.Use(middleware.RealIP)
 		r.Use(middleware.Logger)
